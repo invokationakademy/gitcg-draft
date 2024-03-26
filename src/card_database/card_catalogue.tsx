@@ -396,7 +396,7 @@ export const RAW_JSON = `{
             "image_file": "Characters/Character_Card_lyney.png",
             "tags": ["Bow"],
 
-            "resonance": ["Liyue", "Fatui", "Pyro"],
+            "resonance": ["Fontaine", "Fatui", "Pyro"],
             "element": "Pyro",
             "weapon": "Bow"
         },
