@@ -1,6 +1,8 @@
 import React from 'react';
 import { Card } from "../card_database/card";
 
+const BLANK_CARD = "Characters/Character_Card_blank.png"
+
 export enum CardSize{
     deck_cards = 0,
     deck_characters,
@@ -9,7 +11,7 @@ export enum CardSize{
 }
 
 export interface CardRendererProps {
-    card: Card
+    card: Card | undefined
     size: CardSize
     onClick?: (card: Card) => void
 }
@@ -38,13 +40,18 @@ const styles = [
 ]
 
 export function CardRenderer({ card, size, onClick } : CardRendererProps) {
-    const handleClick = () => {
-        if (!!onClick) {
-            onClick(card)
+    if (!!card) {
+        const handleClick = () => {
+            if (!!onClick) {
+                onClick(card)
+            }
         }
+        return (
+            <img style={styles[size]} src={`${process.env.PUBLIC_URL}/assets/${card.image_file}`} alt={card.display_name} onClick={handleClick}/>
+        )
     }
 
     return (
-        <img style={styles[size]} src={`${process.env.PUBLIC_URL}/assets/${card.image_file}`} alt={card.display_name} onClick={handleClick}/>
+        <img style={styles[size]} src={`${process.env.PUBLIC_URL}/assets/${BLANK_CARD}`} alt={"Blank"}/>
     )
 }

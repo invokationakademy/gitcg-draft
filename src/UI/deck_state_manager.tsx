@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 
 import { Card, CharacterCard } from "../card_database/card";
 import { DeckRenderer } from './deck_renderer';
@@ -6,10 +6,15 @@ import { CardSelector } from './card_selector';
 import { generate_deck_code } from '../utility/deck_export';
 import { CardDatabase } from '../card_database/card_database';
 
+const COPY_TEXT = "Copy to clipboard"
+const COPIED_TEXT = "Copied!"
+
 export function DeckStateManager() {
+  const textRef = useRef<HTMLLabelElement | null>(null)
   const [characters, setCharacters] = useState<CharacterCard[]>([])
   const [cards, setCards] = useState<Card[]>([])
   const [retries, setRetries] = useState(0)
+  const [copyText, setCopyText] = useState(COPY_TEXT)
 
   const addCard = (card: Card) => {
     if (card instanceof CharacterCard) {
@@ -27,20 +32,47 @@ export function DeckStateManager() {
 
   const incrementRetries = () => {
     setRetries(retries + 1)
+    setCopyText(COPY_TEXT)
   }
 
   // Check if we should be done drafting
   if (cards.length >= 30) {
+    const copyToClipboard = async () => {
+      try {
+        if (textRef.current) {
+          await navigator.clipboard.writeText(textRef.current.textContent ?? "");
+          setCopyText(COPIED_TEXT)
+        }
+      } catch (error) {
+        console.error('Error copying to clipboard:', error);
+      }
+    }
+
     return (
-      <div style={{ display: 'flex', flexDirection:'column' }}>
+      <div style={{ display: 'flex', flexDirection:'column', alignItems: 'center' }}>
         <label>Here is your final deck</label>
         <div>
-          <label>{generate_deck_code(characters, cards, retries)}</label>
-          <button style={{width: 50, height:30}} onClick={incrementRetries}>Retry</button>
+          <label ref={textRef}>{generate_deck_code(characters, cards, retries)}</label>
+          <br/>
+          <div style={{ display: 'block', flexDirection: 'row', alignItems: 'center'}}>
+            <button style={{width: 150, height:40}} onClick={copyToClipboard}>{copyText}</button>
+            <button style={{width: 50, height:40}} onClick={incrementRetries}>Retry</button>
+          </div>
         </div>
+        <br/>
         <DeckRenderer characters={characters} cards={cards} />
       </div>
     )
+  }
+
+  let padded_chars: Array<CharacterCard | undefined> = [...characters]
+  while (padded_chars.length < 3) {
+    padded_chars.push(undefined)
+  }
+
+  let padded_cards: Array<Card | undefined> = [...cards]
+  while (padded_cards.length < 30) {
+    padded_cards.push(undefined)
   }
 
   return (
@@ -50,7 +82,7 @@ export function DeckStateManager() {
         </p>
         <CardSelector deck_characters={characters} deck_cards={cards} addCard={addCard}/>
         <label>Current Deck:</label>
-        <DeckRenderer characters={characters} cards={cards} />
+        <DeckRenderer characters={padded_chars} cards={padded_cards} />
       </div>
     )
 }
