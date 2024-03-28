@@ -8,9 +8,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h2>Genius Invokation Drafter (v0.1)</h2>
         <DeckStateManager/>
       </header>
-      <SocialsRenderer/>
     </div>
   );
 }

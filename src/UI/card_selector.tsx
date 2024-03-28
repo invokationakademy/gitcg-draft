@@ -3,6 +3,7 @@ import { useState } from 'react';
 import { Card, CharacterCard, GIResonance, GITag } from "../card_database/card";
 import { CardDatabase } from "../card_database/card_database";
 import { CardButton } from "./card_button";
+import { SocialsRenderer } from '../Socials/socials_renderer';
 
 export interface CardSelectorProps {
     deck_characters: CharacterCard[]
@@ -26,8 +27,13 @@ export function CardSelector({deck_characters, deck_cards, addCard}: CardSelecto
     }
 
     return (
-        <div style={{display: 'flex', flexDirection: 'row', gap: '10px', padding: '10px', width: 'fit-content'}}>
-            {options.map((card) => <CardButton key={`sel-${card.id}`} card={card} addCard={addCard} />)}
+        <div style={{display: 'flex', flexDirection: 'column'}}>
+            <h3>Pick a card:</h3>
+            <div style={{display: 'flex', flexDirection: 'row', gap: '10px', padding: '10px', width: 'fit-content'}}>
+                {options.map((card) => <CardButton key={`sel-${card.id}`} card={card} addCard={addCard} />)}
+            </div>
+            <br/>
+            <SocialsRenderer/>
         </div>
     )
 }

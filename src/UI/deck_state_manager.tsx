@@ -75,7 +75,7 @@ export function DeckStateManager() {
   return (
       <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', gap: '150px' }} >
         <CardSelector deck_characters={characters} deck_cards={cards} addCard={addCard}/>
-        <DeckRenderer characters={padded_chars} cards={padded_cards} width={6} />
+        <DeckRenderer characters={padded_chars} cards={padded_cards} width={10} />
       </div>
     )
 }
