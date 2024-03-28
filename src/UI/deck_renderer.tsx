@@ -4,20 +4,21 @@ import { CardRenderer, CardSize } from "./card_renderer";
 export interface DeckRendererProps {
     characters: Array<CharacterCard | undefined>
     cards: Array<Card | undefined>
+    width: number
 }
 
-export function DeckRenderer({ characters, cards } : DeckRendererProps) {
-    const row1 = cards.slice(0, 10)
-    const row2 = cards.slice(10, 20)
-    const row3 = cards.slice(20, 30)
+export function DeckRenderer({ characters, cards, width } : DeckRendererProps) {
+    const rows: Array<Card | undefined>[] = []
+
+    for (let i = 0; i < 30; i += width) {
+      rows.push(cards.slice(i, i + width))
+    }
 
     return (
         <div>
             {characters.map((c, idx) => <CardRenderer key={`${idx}-${c ? c.id : "blank"}`} card={c} size={CardSize.deck_characters} />)}
             <div>
-              {renderRow(row1)}
-              {renderRow(row2)}
-              {renderRow(row3)}
+              {rows.map((row) => renderRow(row))}
             </div>
         </div>
     )

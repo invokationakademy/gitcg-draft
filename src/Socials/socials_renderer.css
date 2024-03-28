@@ -1,0 +1,16 @@
+a.youtube:link, a.youtube:visited {
+    background-color: rgb(89, 53, 247);
+    color: white;
+    border: 2px solid rgb(75, 54, 190);
+    padding: 5px 10px;
+    text-align: left;
+    text-decoration: none;
+    text-wrap: wrap;
+    display: inline-block;
+    width: 250px
+}
+  
+a.youtube:hover, a.youtube:active {
+    background-color: rgb(163, 252, 163);
+    color: black;
+}

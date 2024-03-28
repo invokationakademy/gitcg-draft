@@ -19,23 +19,23 @@ export interface CardRendererProps {
 const styles = [
     // deck_cards
     {
-        width: 469 * 0.25,
-        height: 740 * 0.25
+        width: 469 * 0.20,
+        height: 740 * 0.20
     },
     // deck_characters
     {
-        width: 420 * 0.33,
-        height: 720 * 0.33,
+        width: 420 * 0.25,
+        height: 720 * 0.25,
     },
     // card_select
     {
-        width: 469 * 0.5,
-        height: 740 * 0.5,
+        width: 469 * 0.4,
+        height: 740 * 0.4,
     },
     // deck_characters
     {
-        width: 420 * 0.5,
-        height: 720 * 0.5,
+        width: 420 * 0.4,
+        height: 720 * 0.4,
     }
 ]
 

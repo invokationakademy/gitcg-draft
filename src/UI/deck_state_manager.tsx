@@ -49,18 +49,15 @@ export function DeckStateManager() {
     }
 
     return (
-      <div style={{ display: 'flex', flexDirection:'column', alignItems: 'center' }}>
-        <label>Here is your final deck</label>
-        <div>
-          <label ref={textRef}>{generate_deck_code(characters, cards, retries)}</label>
-          <br/>
-          <div style={{ display: 'block', flexDirection: 'row', alignItems: 'center'}}>
-            <button style={{width: 150, height:40}} onClick={copyToClipboard}>{copyText}</button>
-            <button style={{width: 50, height:40}} onClick={incrementRetries}>Retry</button>
-          </div>
+      <div style={{ display: 'flex', flexDirection:'column', alignItems: 'center', gap: '10px'}}>
+        <label>Draft complete!</label>
+        <label style={{fontSize: '16px'}} ref={textRef}>{generate_deck_code(characters, cards, retries)}</label>
+        <label style={{fontSize: '16px'}}>If the above deck code doesn't work, hit retry for a new code</label>
+        <div style={{ display: 'block', flexDirection: 'row', alignItems: 'center'}}>
+          <button style={{width: 150, height:40}} onClick={copyToClipboard}>{copyText}</button>
+          <button style={{width: 50, height:40}} onClick={incrementRetries}>Retry</button>
         </div>
-        <br/>
-        <DeckRenderer characters={characters} cards={cards} />
+        <DeckRenderer characters={characters} cards={cards} width={10} />
       </div>
     )
   }
@@ -76,13 +73,9 @@ export function DeckStateManager() {
   }
 
   return (
-      <div>
-        <p>
-          Pick your card:
-        </p>
+      <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', gap: '150px' }} >
         <CardSelector deck_characters={characters} deck_cards={cards} addCard={addCard}/>
-        <label>Current Deck:</label>
-        <DeckRenderer characters={padded_chars} cards={padded_cards} />
+        <DeckRenderer characters={padded_chars} cards={padded_cards} width={6} />
       </div>
     )
 }

@@ -1,0 +1,27 @@
+div.cardBox {
+    width: 200px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: '10px';
+    border: 4px solid #282c34;
+    border-radius: 10px;
+}
+
+div.cardBox:hover {
+    background-color:rgb(125, 226, 138);
+    border: 4px solid rgb(0, 0, 0);
+}
+
+label.cardName {
+    height: 60px;
+    text-wrap: 'wrap';
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20px;
+}
+
+div.cardBox:hover label.cardName {
+    color:rgb(0, 0, 0)
+}
