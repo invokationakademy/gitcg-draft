@@ -6,7 +6,7 @@ const BUG_LINK = "https://forms.gle/61V8gk3MdsanSeG3A"
 
 export function SocialsRenderer() {
     return (
-        <div className="socials" style={{display: 'flex', flexDirection: 'column', alignItems: 'start', gap: '10px'}}>
+        <div className="socials" style={{display: 'flex', flexDirection: 'row', alignItems: 'start', gap: '10px'}}>
             <a className="youtube" target="_blank" rel="noreferrer" href={YOUTUBE_LINK}>Click here to check out Invokation Akademy on YouTube!</a>
             <a className="youtube" target="_blank" rel="noreferrer" href={FEEDBACK_LINK}>Suggestions? Click here to provide feedback!</a>
             <a className="youtube" target="_blank" rel="noreferrer" href={BUG_LINK}>Encounter an issue? Click here to report it!</a>

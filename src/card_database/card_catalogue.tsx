@@ -2026,7 +2026,7 @@ export const RAW_JSON = `{
         },
         {
             "code_key": 313,
-            "display_name": "Momento Lens",
+            "display_name": "Memento Lens",
             "image_file": "Items/Card_item_mementolens.png",
             "tags": ["Item"]
         },

@@ -10,6 +10,8 @@ function App() {
       <header className="App-header">
         <h2>Genius Invokation Drafter (v0.1)</h2>
         <DeckStateManager/>
+        <br/>
+        <SocialsRenderer/>
       </header>
     </div>
   );

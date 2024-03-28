@@ -35,6 +35,11 @@ export function DeckStateManager() {
     setCopyText(COPY_TEXT)
   }
 
+  const reset = () => {
+    setCharacters([])
+    setCards([])
+  }
+
   // Check if we should be done drafting
   if (cards.length >= 30) {
     const copyToClipboard = async () => {
@@ -49,13 +54,17 @@ export function DeckStateManager() {
     }
 
     return (
-      <div style={{ display: 'flex', flexDirection:'column', alignItems: 'center', gap: '10px'}}>
-        <label>Draft complete!</label>
-        <label style={{fontSize: '16px'}} ref={textRef}>{generate_deck_code(characters, cards, retries)}</label>
-        <label style={{fontSize: '16px'}}>If the above deck code doesn't work, hit retry for a new code</label>
-        <div style={{ display: 'block', flexDirection: 'row', alignItems: 'center'}}>
-          <button style={{width: 150, height:40}} onClick={copyToClipboard}>{copyText}</button>
-          <button style={{width: 50, height:40}} onClick={incrementRetries}>Retry</button>
+      <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', gap: '150px' }} >
+        <div style={{ display: 'flex', flexDirection:'column', alignItems: 'center', gap: '10px'}}>
+          <label>Draft complete!</label>
+          <label style={{fontSize: '16px', fontFamily: 'monospace'}} ref={textRef}>{generate_deck_code(characters, cards, retries)}</label>
+          <label style={{fontSize: '16px'}}>If the deck code doesn't work, hit retry for a new code</label>
+          <div style={{ display: 'block', flexDirection: 'row', alignItems: 'center'}}>
+            <button style={{width: 150, height:40}} onClick={copyToClipboard}>{copyText}</button>
+            <button style={{width: 50, height:40}} onClick={incrementRetries}>Retry</button>
+          </div>
+          <br/>
+          <button style={{width: 100, height:40}} onClick={reset}>Draft again!</button>
         </div>
         <DeckRenderer characters={characters} cards={cards} width={10} />
       </div>

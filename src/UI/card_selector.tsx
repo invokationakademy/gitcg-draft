@@ -32,8 +32,6 @@ export function CardSelector({deck_characters, deck_cards, addCard}: CardSelecto
             <div style={{display: 'flex', flexDirection: 'row', gap: '10px', padding: '10px', width: 'fit-content'}}>
                 {options.map((card) => <CardButton key={`sel-${card.id}`} card={card} addCard={addCard} />)}
             </div>
-            <br/>
-            <SocialsRenderer/>
         </div>
     )
 }
