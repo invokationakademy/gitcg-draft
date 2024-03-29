@@ -38,6 +38,8 @@ export function DeckStateManager() {
   const reset = () => {
     setCharacters([])
     setCards([])
+    setCopyText(COPY_TEXT)
+    setRetries(0)
   }
 
   // Check if we should be done drafting
