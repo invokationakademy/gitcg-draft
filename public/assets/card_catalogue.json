@@ -1095,7 +1095,7 @@
         {
             "code_key": 295,
             "display_name": "Eremite Scorching Loremaster Talent",
-            "image_file": "Talents/Card_talent_pyroloremaster.png",
+            "image_file": "Talents/Card_talent_scorchingloremaster.png",
             "tags": ["Talent"]
         },
         {
@@ -1251,7 +1251,7 @@
         {
             "code_key": 339,
             "display_name": "Neuvillette Talent",
-            "image_file": "Talents/Card_talent_neuvillete.png",
+            "image_file": "Talents/Card_talent_neuvillette.png",
             "tags": ["Talent"]
         },
         {
@@ -2151,14 +2151,14 @@
         {
             "code_key": 233,
             "display_name": "Elemental Resonance: Woven Stone",
-            "image_file": "Resonance/Card_woven_Geo.png",
+            "image_file": "Resonance/Card_woven_geo.png",
             "tags": ["Event"],
             "resonance": "Geo"
         },
         {
             "code_key": 234,
             "display_name": "Elemental Resonance: Enduring Rock",
-            "image_file": "Resonance/Card_resonance_Geo.png",
+            "image_file": "Resonance/Card_resonance_geo.png",
             "tags": ["Event"],
             "resonance": "Geo"
         },
