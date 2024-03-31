@@ -1,0 +1,53 @@
+div.description-bkg {
+    position: absolute;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.description-boundary {
+    display: flex;
+    flex-direction: row;
+
+    aspect-ratio: 4 / 2;
+    width: 60%;
+
+    background-color: rgb(31, 91, 202);
+    border: 0.5vw solid rgb(0, 0, 0);
+    border-radius: 1vw;
+    padding: 0.5vw;
+}
+
+div.card-image-box {
+    width: 50%;
+    height: min-content;
+}
+
+img.card-image {
+    width: 100%;
+    object-fit: cover
+}
+
+div.description-box {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    gap: 3vh
+}
+
+label.card-name {
+    font-size: 3vw;
+    width: 100%;
+    text-align: center;
+}
+
+label.card-description {
+    font-size: 3vh;
+    width: 100%;
+    text-wrap: wrap;
+    text-align: left;
+}

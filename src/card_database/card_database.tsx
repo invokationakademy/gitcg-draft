@@ -32,6 +32,15 @@ export class CardDatabase {
             let reso = GIResonance.None
             data.resonance.forEach((res: string) => reso |= GIResonance[res as keyof typeof GIResonance])
 
+            let extraTags = data.resonance.slice(0, -1)
+            
+
+            let description = [
+                `Element: ${data.element}`,
+                `Weapon: ${data.weapon}`,
+                `Other tags: ${extraTags.join(",")}`
+            ]
+
             let card = new CharacterCard(
                 GIResonance[data.element as keyof typeof GIResonance],
                 GITag[data.weapon as keyof typeof GITag],
@@ -40,7 +49,8 @@ export class CardDatabase {
                 data.display_name,
                 data.image_file,
                 tags,
-                reso)
+                reso,
+                description)
             
             this.allCards.push(card)
             this.characters.push(card)
@@ -59,7 +69,8 @@ export class CardDatabase {
                 data.display_name,
                 data.image_file,
                 tags,
-                GIResonance.None)
+                GIResonance.None,
+                data.description)
             
             this.allCards.push(card)
             this.talents.push(card)
@@ -82,7 +93,8 @@ export class CardDatabase {
                     data.code_key,
                     data.display_name,
                     data.image_file,
-                    tags)
+                    tags,
+                    data.description)
 
                 this.weapons.push(card)
             } else if (!!data.element) {
@@ -92,7 +104,8 @@ export class CardDatabase {
                     data.code_key,
                     data.display_name,
                     data.image_file,
-                    tags)
+                    tags,
+                    data.description)
 
                 this.elementalArtifacts.push(card)
             } else {
@@ -102,7 +115,8 @@ export class CardDatabase {
                     data.display_name,
                     data.image_file,
                     tags,
-                    data.resonance ? GIResonance[data.resonance as keyof typeof  GIResonance] : GIResonance.None)
+                    data.resonance ? GIResonance[data.resonance as keyof typeof  GIResonance] : GIResonance.None,
+                    data.description)
 
                 if (card.HasTag(GITag.Food)) {
                     // Add food to special list

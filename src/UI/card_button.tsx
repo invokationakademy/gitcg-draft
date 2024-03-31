@@ -8,12 +8,19 @@ export interface CardButtonProps {
 }
 
 export function CardButton({card, addCard}: CardButtonProps) {
-    const size: CardSize = (card instanceof CharacterCard) ? CardSize.character_select : CardSize.card_select
+    const size: CardSize = (card instanceof CharacterCard) ? CardSize.card_select : CardSize.card_select
+
+    const pickCard = () => {
+        addCard(card)
+    }
 
     return (
         <div className="cardBox">
-            <label className="cardName">{card.display_name}</label>
-            <CardRenderer card={card} size={size} onClick={addCard}/>
+            <div className="cardNameBox">
+                <label className="cardName">{card.display_name}</label>
+            </div>
+            <CardRenderer card={card} size={size}/>
+            <button onClick={pickCard}>Pick!</button>
         </div>
     )
 }

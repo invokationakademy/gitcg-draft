@@ -21,7 +21,7 @@ export enum GIResonance {
 
     // Affiliation
     Fatui = 1 << 14,
-    Abyss  = 1 << 15,
+    Monster  = 1 << 15,
     Eremites = 1 << 16,
 }
 
@@ -55,7 +55,8 @@ export class Card {
         public readonly display_name: string,
         public readonly image_file: string,
         public readonly tags: GITag,
-        public readonly resonance: GIResonance) {}
+        public readonly resonance: GIResonance,
+        public readonly description: string[]) {}
 
     public HasTag(tag: GITag): boolean {
         return (this.tags & tag) === tag
@@ -65,16 +66,16 @@ export class Card {
 export class ElementalCard extends Card {
     public constructor(
         public readonly element: GIResonance,
-        id: number, code_key: number, display_name: string, image_file: string,  tags: GITag) {
-        super(id, code_key, display_name, image_file, tags, GIResonance.None)
+        id: number, code_key: number, display_name: string, image_file: string, tags: GITag, description: string[]) {
+        super(id, code_key, display_name, image_file, tags, GIResonance.None, description)
     }
 }
 
 export class WeaponCard extends Card {
     public constructor(
         public readonly weapon: GITag,
-        id: number, code_key: number, display_name: string, image_file: string,  tags: GITag) {
-        super(id, code_key, display_name, image_file, tags, GIResonance.None)
+        id: number, code_key: number, display_name: string, image_file: string, tags: GITag, description: string[]) {
+        super(id, code_key, display_name, image_file, tags, GIResonance.None, description)
     }
 }
 
@@ -82,7 +83,7 @@ export class CharacterCard extends Card {
     public constructor(
         public readonly element: GIResonance,
         public readonly weapon: GITag,
-        id: number, code_key: number, display_name: string, image_file: string,  tags: GITag, resonance: GIResonance) {
-        super(id, code_key, display_name, image_file, tags, resonance)
+        id: number, code_key: number, display_name: string, image_file: string,  tags: GITag, resonance: GIResonance, description: string[]) {
+        super(id, code_key, display_name, image_file, tags, resonance, description)
     }
 }

@@ -1,4 +1,6 @@
+import { useContext } from "react";
 import { Card, CharacterCard } from "../card_database/card";
+import { DescriptionContext } from "./Description/description_context";
 import { CardRenderer, CardSize } from "./card_renderer";
 
 export interface DeckRendererProps {
@@ -16,7 +18,7 @@ export function DeckRenderer({ characters, cards, width } : DeckRendererProps) {
 
     return (
         <div>
-            {characters.map((c, idx) => <CardRenderer key={`${idx}-${c ? c.id : "blank"}`} card={c} size={CardSize.deck_characters} />)}
+            {characters.map((c, idx) => <CardRenderer key={`${idx}-${c ? c.id : "blank"}`} card={c} size={CardSize.deck_cards} />)}
             <div>
               {rows.map((row) => renderRow(row))}
             </div>
