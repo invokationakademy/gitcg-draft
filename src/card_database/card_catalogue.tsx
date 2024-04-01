@@ -696,7 +696,7 @@ export const RAW_JSON = `{
             "image_file": "Characters/Character_Card_yae.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Liyue", "Electro"],
+            "resonance": ["Inazuma", "Electro"],
             "element": "Electro",
             "weapon": "Catalyst"
         },
