@@ -12,6 +12,7 @@ export enum CardSize{
 export interface CardRendererProps {
     card: Card | undefined
     size: CardSize
+    onClick: () => void
 }
 
 const styles = [
@@ -27,16 +28,10 @@ const styles = [
     },
 ]
 
-export function CardRenderer({ card, size } : CardRendererProps) {
-    const descriptionContext = useContext(DescriptionContext)
-
-    const showDescription = () => {
-        descriptionContext.setCard(card)
-    }
-    
+export function CardRenderer({ card, size, onClick } : CardRendererProps) {
     if (!!card) {
         return (
-            <img style={styles[size]} src={`${process.env.PUBLIC_URL}/assets/${card.image_file}`} alt={card.display_name} onClick={showDescription}/>
+            <img style={styles[size]} src={`${process.env.PUBLIC_URL}/assets/${card.image_file}`} alt={card.display_name} onClick={onClick}/>
         )
     }
 

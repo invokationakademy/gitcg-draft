@@ -10,6 +10,14 @@ export interface DeckRendererProps {
 }
 
 export function DeckRenderer({ characters, cards, width } : DeckRendererProps) {
+  const descriptionContext = useContext(DescriptionContext)
+
+    const showCardDescription = (card: Card | undefined) => {
+        if (card) {
+          descriptionContext.setCard(card)
+        }
+    }
+    
     const rows: Array<Card | undefined>[] = []
 
     for (let i = 0; i < 30; i += width) {
@@ -18,22 +26,22 @@ export function DeckRenderer({ characters, cards, width } : DeckRendererProps) {
 
     return (
         <div>
-            {characters.map((c, idx) => <CardRenderer key={`${idx}-${c ? c.id : "blank"}`} card={c} size={CardSize.deck_cards} />)}
+            {characters.map((c, idx) => <CardRenderer key={`${idx}-${c ? c.id : "blank"}`} card={c} size={CardSize.deck_cards} onClick={() => showCardDescription(c)}/>)}
             <div>
-              {rows.map((row) => renderRow(row))}
+              {rows.map((row) => renderRow(row, showCardDescription))}
             </div>
         </div>
     )
 }
 
-function renderRow(cards: Array<Card | undefined>) {
+function renderRow(cards: Array<Card | undefined>, showCardDescription: (card: Card | undefined) => void) {
   if (cards.length == 0) {
     return null
   }
 
   return (
     <div>
-      {cards.map((c, idx) => <CardRenderer key={`${idx}-${c ? c.id : "blank"}`} card={c} size={CardSize.deck_cards}/>)}
+      {cards.map((c, idx) => <CardRenderer key={`${idx}-${c ? c.id : "blank"}`} card={c} size={CardSize.deck_cards} onClick={() => showCardDescription(c)}/>)}
     </div>
   )
 }
