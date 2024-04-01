@@ -116,7 +116,7 @@ export const RAW_JSON = `{
             "image_file": "Characters/Character_Card_chongyun.png",
             "tags": ["Claymore"],
 
-            "resonance": ["Inazuma", "Cryo"],
+            "resonance": ["Liyue", "Cryo"],
             "element": "Cryo",
             "weapon": "Claymore"
         },
