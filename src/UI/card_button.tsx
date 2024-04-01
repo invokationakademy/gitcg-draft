@@ -20,7 +20,7 @@ export function CardButton({card, addCard}: CardButtonProps) {
                 <label className="cardName">{card.display_name}</label>
             </div>
             <CardRenderer card={card} size={size}/>
-            <button onClick={pickCard}>Pick!</button>
+            <button className="pickButton" onClick={pickCard}>Pick</button>
         </div>
     )
 }

@@ -1,7 +1,7 @@
 a.youtube:link, a.youtube:visited {
-    background-color: rgb(89, 53, 247);
+    background-color: var(--bkgButton);
     color: white;
-    border: 2px solid rgb(0, 0, 0);
+    border: 2px solid black;
     border-radius: 10px;
     padding: 5px 10px;
     text-align: left;
@@ -13,6 +13,6 @@ a.youtube:link, a.youtube:visited {
 }
   
 a.youtube:hover, a.youtube:active {
-    background-color: rgb(163, 252, 163);
+    background-color: var(--highlight);
     color: black;
 }

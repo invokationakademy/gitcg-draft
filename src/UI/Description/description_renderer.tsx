@@ -23,6 +23,7 @@ export function DescriptionRenderer() {
                 <div className="description-box">
                     <label className="card-name">{card.display_name}</label>
                     {card.description.map((line, idx) => <label key={`${idx}-description`} className="card-description">{line}</label>)}
+                    <label className="close-tooltip">click anywhere to close</label>
                 </div>
             </div>
         </div>

@@ -12,18 +12,21 @@ div.description-boundary {
     display: flex;
     flex-direction: row;
 
-    aspect-ratio: 4 / 2;
-    width: 60%;
+    width: 80%;
+    max-width: 1000px;
+    min-width: 100px;
 
-    background-color: rgb(31, 91, 202);
-    border: 0.5vw solid rgb(0, 0, 0);
+    background-color: var(--bkgDescription);
+    border: 0.5vw solid black;
     border-radius: 1vw;
     padding: 0.5vw;
 }
 
 div.card-image-box {
+    aspect-ratio: 740 / 469;
     width: 50%;
     height: min-content;
+    justify-content: center;
 }
 
 img.card-image {
@@ -34,20 +37,26 @@ img.card-image {
 div.description-box {
     display: flex;
     flex-direction: column;
-    height: 100%;
     width: 100%;
-    gap: 3vh
+    gap: 3vh;
+    flex-grow: 1;
 }
 
 label.card-name {
-    font-size: 3vw;
+    font-size: calc(1rem + 1.5vw);
     width: 100%;
     text-align: center;
 }
 
 label.card-description {
-    font-size: 3vh;
+    font-size: calc(0.75rem + 0.8vw);
     width: 100%;
     text-wrap: wrap;
     text-align: left;
+}
+
+label.close-tooltip {
+    font-size: calc(0.5rem + 0.8vw);
+    color: rgb(216, 216, 216);
+    margin-top: auto;
 }

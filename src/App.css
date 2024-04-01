@@ -1,6 +1,13 @@
+:root {
+  --bkgWindow: #282c34;
+  --highlight: rgb(125, 226, 138);
+  --bkgDescription: rgb(10, 121, 53);
+  --bkgButton:  rgb(89, 53, 247);
+}
+
 .App {
   text-align: center;
-  background-color: #282c34;
+  background-color: var(--bkgWindow);
   height: 100vh;
 }
 

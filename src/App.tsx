@@ -11,7 +11,8 @@ function App() {
     <DescriptionContextState>
       <div className="App">
         <header className="App-header">
-          <h2>Genius Invokation Drafter (v0.1)</h2>
+          <h2>Genius Invokation Drafter (v0.2)</h2>
+          <label style={{fontSize: '20px'}}>New: click on any card to read description!</label>
           <DeckStateManager/>
           <br/>
           <SocialsRenderer/>
