@@ -116,7 +116,7 @@
             "image_file": "Characters/Character_Card_chongyun.png",
             "tags": ["Claymore"],
 
-            "resonance": ["Inazuma", "Cryo"],
+            "resonance": ["Liyue", "Cryo"],
             "element": "Cryo",
             "weapon": "Claymore"
         },
@@ -326,7 +326,7 @@
             "image_file": "Characters/Character_Card_klee.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["LiMondstadtyue", "Pyro"],
+            "resonance": ["Mondstadt", "Pyro"],
             "element": "Pyro",
             "weapon": "Catalyst"
         },
@@ -1168,7 +1168,7 @@
             "display_name": "Razor Talent",
             "image_file": "Talents/Card_talent_razor.png",
             "tags": ["Talent"],
-            "description": ["Combat Action: uses Razor's Elemental Skill.","When he uses his Elemental Skill, one of your Electro characters gains 1 Energy. (One per Round, active character prioritized)"]
+            "description": ["Combat Action: uses Razor's Elemental Skill.","When he uses his Elemental Skill, one of your Electro characters gains 1 Energy. (Once per Round, active character prioritized)"]
         },
         {
             "code_key": 324,
