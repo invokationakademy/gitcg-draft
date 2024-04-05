@@ -28,20 +28,20 @@ export function DeckRenderer({ characters, cards, width } : DeckRendererProps) {
         <div>
             {characters.map((c, idx) => <CardRenderer key={`${idx}-${c ? c.id : "blank"}`} card={c} size={CardSize.deck_cards} onClick={() => showCardDescription(c)}/>)}
             <div>
-              {rows.map((row) => renderRow(row, showCardDescription))}
+              {rows.map((row, idx) => renderRow(idx, row, showCardDescription))}
             </div>
         </div>
     )
 }
 
-function renderRow(cards: Array<Card | undefined>, showCardDescription: (card: Card | undefined) => void) {
+function renderRow(index: number, cards: Array<Card | undefined>, showCardDescription: (card: Card | undefined) => void) {
   if (cards.length == 0) {
     return null
   }
 
   return (
-    <div>
-      {cards.map((c, idx) => <CardRenderer key={`${idx}-${c ? c.id : "blank"}`} card={c} size={CardSize.deck_cards} onClick={() => showCardDescription(c)}/>)}
+    <div key={index}>
+      {cards.map((c, idx) => <CardRenderer key={idx} card={c} size={CardSize.deck_cards} onClick={() => showCardDescription(c)}/>)}
     </div>
   )
 }

@@ -3,6 +3,7 @@ import { CardRenderer, CardSize } from "./card_renderer"
 import './card_button.css'
 import { useContext } from "react"
 import { DescriptionContext } from "./Description/description_context"
+import { LocalizationContext } from "../localization/localizationContext"
 
 export interface CardButtonProps {
     card: Card
@@ -12,6 +13,7 @@ export interface CardButtonProps {
 export function CardButton({card, addCard}: CardButtonProps) {
     const size: CardSize = (card instanceof CharacterCard) ? CardSize.card_select : CardSize.card_select
     const descriptionContext = useContext(DescriptionContext)
+    const localizationContext = useContext(LocalizationContext)
 
     const pickCard = () => {
         addCard(card)
@@ -26,9 +28,9 @@ export function CardButton({card, addCard}: CardButtonProps) {
     return (
         <div className="cardBox">
             <div className="cardNameBox">
-                <label className="cardName">{card.display_name}</label>
+                <label className="cardName">{localizationContext.getString(card.display_name)}</label>
             </div>
-            <CardRenderer card={card} size={size} onClick={pickCard}/>
+            <CardRenderer key={card.id.toString()} card={card} size={size} onClick={pickCard}/>
             <button className="infoButton" onClick={showCardDescription}>See description</button>
         </div>
     )

@@ -35,11 +35,7 @@ export class CardDatabase {
             let extraTags = data.resonance.slice(0, -1)
             
 
-            let description = [
-                `Element: ${data.element}`,
-                `Weapon: ${data.weapon}`,
-                `Other tags: ${extraTags.join(",")}`
-            ]
+            let description = `Element: ${data.element}\nWeapon: ${data.weapon}\nOther tags: ${extraTags.join(",")}`
 
             let card = new CharacterCard(
                 GIResonance[data.element as keyof typeof GIResonance],
