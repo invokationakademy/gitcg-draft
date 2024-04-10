@@ -34,6 +34,11 @@ class LocalizationManager {
             this.map.set(data.key.replace("Character_Name", "Card_Name_Talent"), `${data.value} ${this.map.get('Text_Talent')}`)
         })
 
+        // Parse talents
+        parsedData['talents'].forEach((data: ILocalizationString) => {
+            this.map.set(data.key, data.value)
+        })
+
         // Parse cards
         parsedData['cards'].forEach((data: ILocalizationString) => {
             this.map.set(data.key, data.value)
