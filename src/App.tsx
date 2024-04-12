@@ -13,8 +13,8 @@ function App() {
       <DescriptionContextState>
         <div className="App">
           <header className="App-header">
-            <h2>Genius Invokation Drafter (v0.2)</h2>
-            <label style={{fontSize: '20px'}}>New: click on any card to read description!</label>
+            <h2>Genius Invokation Drafter (v0.3)</h2>
+            <label style={{fontSize: '20px'}}>New: Character choices are now always 3 different elements!</label>
             <DeckStateManager/>
             <br/>
             <SocialsRenderer/>

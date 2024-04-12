@@ -135,27 +135,21 @@ function GetElementalCards(database: CardDatabase, deck_characters: CharacterCar
 }
 
 function GetCharacterOptions(database: CardDatabase, deck_characters: CharacterCard[]) : Card[] {
-    const pool = GetCharacterPool(database, deck_characters)
+    let pool = GetCharacterPool(database, deck_characters)
+
+    // Remove characters already in the deck
+    const usedChars = deck_characters.map((char) => char.id)
+    pool = pool.filter((char) => !usedChars.includes(char.id))
 
     const results: Card[] = []
     for (let i = 0; i < 3; ++i) {
-        let found = false
-        let num = 0
-        while (!found) {
-            num = getRandomInt(0, pool.length - 1)
-            if (results.findIndex((char) => char.id === pool[num].id) != -1) {
-                continue
-            }
+        const option = pool[getRandomInt(0, pool.length - 1)]
 
-            // Check if the card is already in the deck
-            if (deck_characters.findIndex((char) => char.id === pool[num].id) != -1) {
-                continue
-            }
+        // Add the result
+        results.push(option)
 
-            found = true
-        }
-
-        results.push(pool[num])
+        // Remove all chars of the same element
+        pool = pool.filter((char) => char.element !== option.element)
     }
 
     return results
