@@ -789,6 +789,46 @@
             "resonance": ["Fatui", "Electro"],
             "element": "Electro",
             "weapon": "Weaponless"
+        },
+        {
+            "code_key": 348,
+            "display_name": "Character_Name_KukiShinobu",
+            "image_file": "Characters/Character_Card_kuki.png",
+            "tags": ["Sword"],
+
+            "resonance": ["Inazuma", "Electro"],
+            "element": "Electro",
+            "weapon": "Sword"
+        },
+        {
+            "code_key": 349,
+            "display_name": "Character_Name_Faruzan",
+            "image_file": "Characters/Character_Card_faruzan.png",
+            "tags": ["Bow"],
+
+            "resonance": ["Sumeru", "Anemo"],
+            "element": "Anemo",
+            "weapon": "Bow"
+        },
+        {
+            "code_key": 350,
+            "display_name": "Character_Name_AbyssHerald",
+            "image_file": "Characters/Character_Card_herald.png",
+            "tags": ["Weaponless"],
+
+            "resonance": ["Monster", "Hydro"],
+            "element": "Hydro",
+            "weapon": "Weaponless"
+        },
+        {
+            "code_key": 351,
+            "display_name": "Character_Name_Crab",
+            "image_file": "Characters/Character_Card_crab.png",
+            "tags": ["Weaponless"],
+
+            "resonance": ["Monster", "Pyro"],
+            "element": "Pyro",
+            "weapon": "Weaponless"
         }
     ],
     "talents": [
@@ -1344,6 +1384,34 @@
             "image_file": "Talents/Card_talent_electrocicin.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_ElectroCicin"
+        },
+        {
+            "code_key": 362,
+            "display_name": "Card_Name_Talent_KukiShinobu",
+            "image_file": "Talents/Card_talent_kuki.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_KukiShinobu"
+        },
+        {
+            "code_key": 352,
+            "display_name": "Card_Name_Talent_Faruzan",
+            "image_file": "Talents/Card_talent_faruzan.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_Faruzan"
+        },
+        {
+            "code_key": 353,
+            "display_name": "Card_Name_Talent_AbyssHerald",
+            "image_file": "Talents/Card_talent_herald.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_AbyssHerald"
+        },
+        {
+            "code_key": 354,
+            "display_name": "Card_Name_Talent_Crab",
+            "image_file": "Talents/Card_talent_crab.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_Crab"
         }
     ],
     "cards": [
@@ -1582,6 +1650,15 @@
             ],
             "weapon": "Polearm",
             "description": "Card_Description_PrimordialJadeWinged-Spear"
+        },
+        {
+            "code_key": 355,
+            "display_name": "Card_Name_RightfulReward",
+            "image_file": "Weapons/Card_weapon_rightfulreward.png",
+            "tags": [
+                "Weapon"
+            ],
+            "description": "Card_Description_RightfulReward"
         },
         {
             "code_key": 143,
@@ -1868,6 +1945,15 @@
                 "Artifact"
             ],
             "description": "Card_Description_GoldenTroupesReward"
+        },
+        {
+            "code_key": 356,
+            "display_name": "Card_Name_AmethystCrown",
+            "image_file": "Artifacts/Card_artifact_amethystcrown.png",
+            "tags": [
+                "Artifact"
+            ],
+            "description": "Card_Description_AmethystCrown"
         },
         {
             "code_key": 165,
@@ -2172,6 +2258,15 @@
             "description": "Card_Description_FortressofMeropide"
         },
         {
+            "code_key": 357,
+            "display_name": "Card_Name_SeiraiIsland",
+            "image_file": "Locations/Card_location_seiraiisland.png",
+            "tags": [
+                "Location"
+            ],
+            "description": "Card_Description_SeiraiIsland"
+        },
+        {
             "code_key": 194,
             "display_name": "Card_Name_Paimon",
             "image_file": "Companions/Card_companion_paimon.png",
@@ -2377,6 +2472,24 @@
                 "Companion"
             ],
             "description": "Card_Description_SilverandMelus"
+        },
+        {
+            "code_key": 358,
+            "display_name": "Card_Name_Taroumaru",
+            "image_file": "Companions/Card_companion_taroumaru.png",
+            "tags": [
+                "Companion"
+            ],
+            "description": "Card_Description_Taroumaru"
+        },
+        {
+            "code_key": 359,
+            "display_name": "Card_Name_WhiteGloveFisherman",
+            "image_file": "Companions/Card_companion_whiteglovefisherman.png",
+            "tags": [
+                "Companion"
+            ],
+            "description": "Card_Description_WhiteGloveFisherman"
         },
         {
             "code_key": 214,
@@ -2957,6 +3070,15 @@
             "description": "Card_Description_ControlledDirectionalBlast"
         },
         {
+            "code_key": 360,
+            "display_name": "Card_Name_UnderwaterTreasureHunt",
+            "image_file": "Events/Card_underwatertreasurehunt.png",
+            "tags": [
+                "Event"
+            ],
+            "description": "Card_Description_UnderwaterTreasureHunt"
+        },
+        {
             "code_key": 265,
             "display_name": "Card_Name_JueyunGuoba",
             "image_file": "Food/Card_food_jueyunguoba.png",
@@ -3095,6 +3217,16 @@
                 "Food"
             ],
             "description": "Card_Description_MatsutakeMeatRolls"
+        },
+        {
+            "code_key": 361,
+            "display_name": "Card_Name_RainbowMacarons",
+            "image_file": "Food/Card_food_rainbowmacarons.png",
+            "tags": [
+                "Event",
+                "Food"
+            ],
+            "description": "Card_Description_RainbowMacarons"
         }
     ]
 }

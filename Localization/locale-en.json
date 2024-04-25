@@ -322,6 +322,22 @@
         {
             "key": "Character_Name_ElectroCicin",
             "value": "Fatui Electro Cicin Mage"
+        },
+        {
+            "key": "Character_Name_KukiShinobu",
+            "value": "Kuki Shinobu"
+        },
+        {
+            "key": "Character_Name_Faruzan",
+            "value": "Faruzan"
+        },
+        {
+            "key": "Character_Name_Crab",
+            "value": "Emperor of Fire and Iron"
+        },
+        {
+            "key": "Character_Name_AbyssHerald",
+            "value": "Abyss Herald: Wicked Torrents"
         }
     ],
 
@@ -524,7 +540,7 @@
         },
         {
             "key": "Card_Description_Talent_PyroLector",
-            "value": "If Abyss Lector: Fathomless Flames has already triggered Fiery Rebirth (revive), or the next time it is triggered: discard this card and apply 3 Shield Points.\\nWhile the shield is active, Abyss Lector deals +1 Pyro DMG."
+            "value": "If Abyss Lector: Fathomless Flames has already triggered Fiery Rebirth (revive), or the next time it is triggered: discard this card and apply 2 Shield Points. After the Shield is depleted: Deal 1 Piercing DMG to all opposing characters."
         },
         {
             "key": "Card_Description_Talent_PyroLoremaster",
@@ -641,6 +657,22 @@
         {
             "key": "Card_Description_Talent_ElectroCicin",
             "value": "Combat Action: uses Electro Cicin Mage's Elemental Skill.\\nWhile equipped, before you choose an action: If Electro Cicin's usages is at least 3, then Electro Cicin immediately deals 1 Electro DMG. (consumes 1 usage, once per Round)"
+        },
+        {
+            "key": "Card_Description_Talent_KukiShinobu",
+            "value": "Combat Action: uses Kuki Shinobu's Elemental Burst.\\nWhile equipped, when Kuki is defeated, she will not be defeated but instead heal to 1 HP. (once per Round)\\nDeal +1 DMG while at 5 or less HP."
+        },
+        {
+            "key": "Card_Description_Talent_Faruzan",
+            "value": "Combat Action: uses Faruzan's Elemental Burst.\\nWhen the summon from her burst enters, and when Action Phase begins, create 1 Anemo Die."
+        },
+        {
+            "key": "Card_Description_Talent_Crab",
+            "value": "Apply Pyro to Emperor of FIre and Iron.\\nWhen you remove a shield other than Crab Carapace or a Combat Status, gain 2 stacks of Crab Carapace. (Once per Round)"
+        },
+        {
+            "key": "Card_Description_Talent_AbyssHerald",
+            "value": "While equipped, when Abyss Herald revives or is defeated, create a Curse of the Undercurrent on your opponent. If Herald has already revived, create a curse immediately."
         }
     ],
 
@@ -1523,7 +1555,7 @@
         },
         {
             "key": "Card_Description_YayoiNanatsuki",
-            "value": "When playing an Artifact card: Spend 1 less Elemental Die. On top of that, for each of your characters already equipped with an Artifact on the field, you spend 1 less Elemental Die (once per Round)."
+            "value": "When playing an Artifact card: Spend 1 less Elemental Die. (once per Round).\\nIf two of your characters on the field already have an equipped Artifact, you additionally spend 1 less Elemental Die. (Once per Round)"
         },
         {
             "key": "Card_Name_Mamere",
@@ -1539,7 +1571,7 @@
         },
         {
             "key": "Card_Description_Jeht",
-            "value": "This card will record the number of cards discarded from your Support Zone during this match as points. (Max 6 points)\\nAfter your characters use an Elemental Burst: If this card has recorded at least 5 points, discard this card and generate Omni Element equal to the number of points minus 2."
+            "value": "This card will record the number of cards discarded from your Support Zone during this match as points. (Max 6 points)\\nAfter your characters use an Elemental Burst: If this card has recorded at least 6 points, discard this card and attach Sand and Dreams to your active character.\\nSand and Dreams: When you play a Talent card or a Character uses a Skill: Spend 3 less Elemental Dice."
         },
         {
             "key": "Card_Name_SilverandMelus",
@@ -1587,7 +1619,7 @@
         },
         {
             "key": "Card_Description_SeedDispensary",
-            "value": "When you play an Equipment or Support Card with an original cost of 1 Elemental Die: Spend 1 less Elemental Die. (Once per Round)\\nUsage(s): 2"
+            "value": "When you play a Support Card with an original cost of 2 Elemental Die or more: Spend 1 less Elemental Die. (Once per Round)\\nUsage(s): 2"
         },
         {
             "key": "Card_Name_MementoLens",
@@ -2156,6 +2188,62 @@
         {
             "key": "Card_Description_MatsutakeMeatRolls",
             "value": "Heal the target character for 2 HP. For the next 3 Rounds, heal this character for 1 HP again during the End Phase."
+        },
+        {
+            "key": "Card_Name_RightfulReward",
+            "value": "Rightful Reward"
+        },
+        {
+            "key": "Card_Description_RightfulReward",
+            "value": "+2 Elemental Burst DMG.\\nAfter your active character takes DMG or is healed: gain 1 point. If this card has already accumulated 3 such points, consume 3 points and grant this character 1 Energy."
+        },
+        {
+            "key": "Card_Name_AmethystCrown",
+            "value": "Amethyst Crown"
+        },
+        {
+            "key": "Card_Description_AmethystCrown",
+            "value": "After an opponent takes Dendro DMG when the character to which this is attached is the active character: Gain 1 point. If your point count is equal to or higher than the number of cards in your Hand, create 1 random basic Elemental Die. (Max 2 per Round)"
+        },
+        {
+            "key": "Card_Name_Taroumaru",
+            "value": "Taroumaru"
+        },
+        {
+            "key": "Card_Description_Taroumaru",
+            "value": "When played: Create 4 Taroumaru's Savings and distribute them evenly in your deck.\\nAfter you have played 2 Taroumaru's Savings cards: Discard this card and summon 1 Taroumaru Enraged.\\nTaroumaru's Savings - Cost: (0) - Create 1 Omni Die.\\nTaroumaru Enraged: End Phase: Deal 2 PHysical DMG."
+        },
+        {
+            "key": "Card_Name_WhiteGloveFisherman",
+            "value": "The White Glove and the Fisherman"
+        },
+        {
+            "key": "Card_Description_WhiteGloveFisherman",
+            "value": "End Phase: Create 1 Called In For Cleanup and place it randomly amongst the 5 cards at the top of your deck. If this card has only 1 Usage remaining, draw 1 card.\\nCalled In For Cleanup - Cost: (0) - You active character will deal +1 DMG the next time they deal DMG. (Can stack. Max +2)"
+        },
+        {
+            "key": "Card_Name_SeiraiIsland",
+            "value": "Seirai Island"
+        },
+        {
+            "key": "Card_Description_SeiraiIsland",
+            "value": "After any character on either side is healed: That character gains Distant Storm. (Takes 2 Piercing DMG at the End Phase. Can be used once)\\nDuration (Rounds): 2"
+        },
+        {
+            "key": "Card_Name_UnderwaterTreasureHunt",
+            "value": "Underwater Treasure Hunt"
+        },
+        {
+            "key": "Card_Description_UnderwaterTreasureHunt",
+            "value": "Create 6 Undersea Treasure and place them into your deck at random.\\nUndersea Treasure - Cost: (0) - Heals your active character for 1 HP and creates 1 basic Elemental Die."
+        },
+        {
+            "key": "Card_Name_RainbowMacarons",
+            "value": "Rainbow Macarons"
+        },
+        {
+            "key": "Card_Description_RainbowMacarons",
+            "value": "Heal the target character for 1 HP. The next 3 times this character takes DMG, they will also heal 1 HP afterward."
         }
     ]
 }

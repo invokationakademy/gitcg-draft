@@ -13,8 +13,8 @@ function App() {
       <DescriptionContextState>
         <div className="App">
           <header className="App-header">
-            <h2>Genius Invokation Drafter (v0.3)</h2>
-            <label style={{fontSize: '20px'}}>New: Character choices are now always 3 different elements!</label>
+            <h2>Genius Invokation Drafter (v0.4)</h2>
+            <label style={{fontSize: '20px'}}>New: Updated for Version 4.6!</label>
             <DeckStateManager/>
             <br/>
             <SocialsRenderer/>
