@@ -1,7 +1,7 @@
 {
     "characters": [
         {
-            "code_key": 445,
+            "code_key": 45,
             "display_name": "Character_Name_Albedo",
             "image_file": "Characters/Character_Card_albedo.png",
             "tags": ["Sword"],
@@ -271,7 +271,7 @@
             "weapon": "Polearm"
         },
         {
-            "code_key": 446,
+            "code_key": 46,
             "display_name": "Character_Name_Itto",
             "image_file": "Characters/Character_Card_itto.png",
             "tags": ["Claymore"],
