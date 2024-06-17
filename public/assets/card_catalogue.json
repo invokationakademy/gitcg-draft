@@ -829,6 +829,96 @@
             "resonance": ["Monster", "Pyro"],
             "element": "Pyro",
             "weapon": "Weaponless"
+        },
+        {
+            "code_key": 363,
+            "display_name": "Character_Name_Wriothesley",
+            "image_file": "Characters/Character_Card_wriothesley.png",
+            "tags": ["Catalyst"],
+
+            "resonance": ["Fontaine", "Cryo"],
+            "element": "Cryo",
+            "weapon": "Catalyst"
+        },
+        {
+            "code_key": 364,
+            "display_name": "Character_Name_Furina",
+            "image_file": "Characters/Character_Card_furina.png",
+            "tags": ["Sword"],
+
+            "resonance": ["Fontaine", "Hydro"],
+            "element": "Hydro",
+            "weapon": "Sword"
+        },
+        {
+            "code_key": 365,
+            "display_name": "Character_Name_Xinyan",
+            "image_file": "Characters/Character_Card_xinyan.png",
+            "tags": ["Claymore"],
+
+            "resonance": ["Liyue", "Pyro"],
+            "element": "Pyro",
+            "weapon": "Claymore"
+        },
+        {
+            "code_key": 366,
+            "display_name": "Character_Name_Yunjin",
+            "image_file": "Characters/Character_Card_yunjin.png",
+            "tags": ["Polearm"],
+
+            "resonance": ["Liyue", "Geo"],
+            "element": "Geo",
+            "weapon": "Polearm"
+        },
+        {
+            "code_key": 367,
+            "display_name": "Character_Name_Kaveh",
+            "image_file": "Characters/Character_Card_kaveh.png",
+            "tags": ["Claymore"],
+
+            "resonance": ["Sumeru", "Dendro"],
+            "element": "Dendro",
+            "weapon": "Claymore"
+        },
+        {
+            "code_key": 368,
+            "display_name": "Character_Name_Whale",
+            "image_file": "Characters/Character_Card_whale.png",
+            "tags": ["Weaponless"],
+
+            "resonance": ["Monster", "Hydro"],
+            "element": "Hydro",
+            "weapon": "Weaponless"
+        },
+        {
+            "code_key": 369,
+            "display_name": "Character_Name_Scorpion",
+            "image_file": "Characters/Character_Card_scorpion.png",
+            "tags": ["Weaponless"],
+
+            "resonance": ["Monster", "Electro"],
+            "element": "Electro",
+            "weapon": "Weaponless"
+        },
+        {
+            "code_key": 370,
+            "display_name": "Character_Name_Serpent",
+            "image_file": "Characters/Character_Card_serpent.png",
+            "tags": ["Weaponless"],
+
+            "resonance": ["Monster", "Anemo"],
+            "element": "Anemo",
+            "weapon": "Weaponless"
+        },
+        {
+            "code_key": 371,
+            "display_name": "Character_Name_Apep",
+            "image_file": "Characters/Character_Card_apep.png",
+            "tags": ["Weaponless"],
+
+            "resonance": ["Monster", "Dendro"],
+            "element": "Dendro",
+            "weapon": "Weaponless"
         }
     ],
     "talents": [
@@ -1412,6 +1502,69 @@
             "image_file": "Talents/Card_talent_crab.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Crab"
+        },
+        {
+            "code_key": 372,
+            "display_name": "Card_Name_Talent_Wriothesley",
+            "image_file": "Talents/Card_talent_wriothesley.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_Wriothesley"
+        },
+        {
+            "code_key": 373,
+            "display_name": "Card_Name_Talent_Furina",
+            "image_file": "Talents/Card_talent_furina.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_Furina"
+        },
+        {
+            "code_key": 374,
+            "display_name": "Card_Name_Talent_Xinyan",
+            "image_file": "Talents/Card_talent_xinyan.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_Xinyan"
+        },
+        {
+            "code_key": 375,
+            "display_name": "Card_Name_Talent_Yunjin",
+            "image_file": "Talents/Card_talent_yunjin.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_Yunjin"
+        },
+        {
+            "code_key": 376,
+            "display_name": "Card_Name_Talent_Kaveh",
+            "image_file": "Talents/Card_talent_kaveh.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_Kaveh"
+        },
+        {
+            "code_key": 377,
+            "display_name": "Card_Name_Talent_Whale",
+            "image_file": "Talents/Card_talent_whale.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_Whale"
+        },
+        {
+            "code_key": 378,
+            "display_name": "Card_Name_Talent_Scorpion",
+            "image_file": "Talents/Card_talent_scorpion.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_Scorpion"
+        },
+        {
+            "code_key": 379,
+            "display_name": "Card_Name_Talent_Serpent",
+            "image_file": "Talents/Card_talent_serpent.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_Serpent"
+        },
+        {
+            "code_key": 380,
+            "display_name": "Card_Name_Talent_Apep",
+            "image_file": "Talents/Card_talent_apep.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_Apep"
         }
     ],
     "cards": [
@@ -1480,6 +1633,14 @@
             "description": "Card_Description_TomeofEternalFlow"
         },
         {
+            "code_key": 381,
+            "display_name": "Card_Name_CashflowSupervision",
+            "image_file": "Weapons/Card_weapon_cashflowsupervision.png",
+            "tags": ["Weapon"],
+            "weapon": "Catalyst",
+            "description": "Card_Description_CashflowSupervision"
+        },
+        {
             "code_key": 126,
             "display_name": "Card_Name_RavenBow",
             "image_file": "Weapons/Card_weapon_ravensbow.png",
@@ -1526,6 +1687,14 @@
             "tags": ["Weapon"],
             "weapon": "Bow",
             "description": "Card_Description_KingsSquire"
+        },
+        {
+            "code_key": 382,
+            "display_name": "Card_Name_EndOfTheLine",
+            "image_file": "Weapons/Card_weapon_endoftheline.png",
+            "tags": ["Weapon"],
+            "weapon": "Bow",
+            "description": "Card_Description_EndOfTheLine"
         },
         {
             "code_key": 132,
@@ -1580,6 +1749,16 @@
             ],
             "weapon": "Claymore",
             "description": "Card_Description_BeaconoftheReedSea"
+        },
+        {
+            "code_key": 383,
+            "display_name": "Card_Name_ForestRegalia",
+            "image_file": "Weapons/Card_weapon_forestregalia.png",
+            "tags": [
+                "Weapon"
+            ],
+            "weapon": "Claymore",
+            "description": "Card_Description_ForestRegalia"
         },
         {
             "code_key": 137,
@@ -1729,6 +1908,16 @@
             ],
             "weapon": "Sword",
             "description": "Card_Description_SapwoodBlade"
+        },
+        {
+            "code_key": 384,
+            "display_name": "Card_Name_SplendorOfTranquilWaters",
+            "image_file": "Weapons/Card_weapon_splendoroftranquilwaters.png",
+            "tags": [
+                "Weapon"
+            ],
+            "weapon": "Sword",
+            "description": "Card_Description_SplendorOfTranquilWaters"
         },
         {
             "code_key": 148,
@@ -1938,13 +2127,31 @@
             "description": "Card_Description_VeteransVisage"
         },
         {
+            "code_key": 385,
+            "display_name": "Card_Name_MarechausseeHunter",
+            "image_file": "Artifacts/Card_artifact_marechausseehunter.png",
+            "tags": [
+                "Artifact"
+            ],
+            "description": "Card_Description_MarechausseeHunter"
+        },
+        {
             "code_key": 343,
             "display_name": "Card_Name_GoldenTroupesReward",
-            "image_file": "Artifacts/Card_artifact_goldentroupe.png",
+            "image_file": "Artifacts/Card_artifact_goldentroupereward.png",
             "tags": [
                 "Artifact"
             ],
             "description": "Card_Description_GoldenTroupesReward"
+        },
+        {
+            "code_key": 386,
+            "display_name": "Card_Name_GoldenTroupe",
+            "image_file": "Artifacts/Card_artifact_goldentroupe.png",
+            "tags": [
+                "Artifact"
+            ],
+            "description": "Card_Description_GoldenTroupes"
         },
         {
             "code_key": 356,
@@ -1954,6 +2161,15 @@
                 "Artifact"
             ],
             "description": "Card_Description_AmethystCrown"
+        },
+        {
+            "code_key": 387,
+            "display_name": "Card_Name_FlowerOfParadistLost",
+            "image_file": "Artifacts/Card_artifact_fopl.png",
+            "tags": [
+                "Artifact"
+            ],
+            "description": "Card_Description_FlowerOfParadistLost"
         },
         {
             "code_key": 165,
@@ -2267,6 +2483,24 @@
             "description": "Card_Description_SeiraiIsland"
         },
         {
+            "code_key": 388,
+            "display_name": "Card_Name_Mausoleum",
+            "image_file": "Locations/Card_location_mausoleum.png",
+            "tags": [
+                "Location"
+            ],
+            "description": "Card_Description_Mausoleum"
+        },
+        {
+            "code_key": 389,
+            "display_name": "Card_Name_CentralLaboratoryRuins",
+            "image_file": "Locations/Card_location_laboratory.png",
+            "tags": [
+                "Location"
+            ],
+            "description": "Card_Description_CentralLaboratoryRuins"
+        },
+        {
             "code_key": 194,
             "display_name": "Card_Name_Paimon",
             "image_file": "Companions/Card_companion_paimon.png",
@@ -2492,6 +2726,15 @@
             "description": "Card_Description_WhiteGloveFisherman"
         },
         {
+            "code_key": 390,
+            "display_name": "Card_Name_SirArthur",
+            "image_file": "Companions/Card_companion_sirarthur.png",
+            "tags": [
+                "Companion"
+            ],
+            "description": "Card_Description_SirArthur"
+        },
+        {
             "code_key": 214,
             "display_name": "Card_Name_ParametricTransformer",
             "image_file": "Items/Card_item_parametric.png",
@@ -2555,6 +2798,15 @@
             "description": "Card_Description_LumenstoneAdjuvant"
         },
         {
+            "code_key": 345,
+            "display_name": "Card_Name_Kusava",
+            "image_file": "Items/Card_item_kusava.png",
+            "tags": [
+                "Item"
+            ],
+            "description": "Card_Description_Kusava"
+        },
+        {
             "code_key": 218,
             "display_name": "Card_Name_AncientCourtyard",
             "image_file": "Arcane/Card_arcane_ancientcourtyard.png",
@@ -2616,6 +2868,15 @@
                 "Arcane"
             ],
             "description": "Card_Description_DayofResistance:MomentofShatteredDreams"
+        },
+        {
+            "code_key": 392,
+            "display_name": "Card_Name_ViciousAncientBattle",
+            "image_file": "Arcane/Card_arcane_viciousancientbattle.png",
+            "tags": [
+                "Arcane"
+            ],
+            "description": "Card_Description_ViciousAncientBattle"
         },
         {
             "code_key": 223,
@@ -2796,6 +3057,16 @@
             ],
             "resonance": "Sumeru",
             "description": "Card_Description_NatureandWisdom"
+        },
+        {
+            "code_key": 393,
+            "display_name": "Card_Name_WaterAndJustice",
+            "image_file": "Resonance/Card_resonance_fontaine.png",
+            "tags": [
+                "Event"
+            ],
+            "resonance": "Sumeru",
+            "description": "Card_Description_WaterAndJustice"
         },
         {
             "code_key": 241,
@@ -3077,6 +3348,15 @@
                 "Event"
             ],
             "description": "Card_Description_UnderwaterTreasureHunt"
+        },
+        {
+            "code_key": 360,
+            "display_name": "Card_Name_CountdownToTheShow",
+            "image_file": "Events/Card_countdown.png",
+            "tags": [
+                "Event"
+            ],
+            "description": "Card_Description_CountdownToTheShow"
         },
         {
             "code_key": 265,

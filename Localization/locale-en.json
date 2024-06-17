@@ -338,6 +338,42 @@
         {
             "key": "Character_Name_AbyssHerald",
             "value": "Abyss Herald: Wicked Torrents"
+        },
+        {
+            "key": "Character_Name_Wriothesley",
+            "value": "Wriothesley"
+        },
+        {
+            "key": "Character_Name_Furina",
+            "value": "Furina"
+        },
+        {
+            "key": "Character_Name_Xinyan",
+            "value": "Xinyan"
+        },
+        {
+            "key": "Character_Name_Yunjin",
+            "value": "Yun Jin"
+        },
+        {
+            "key": "Character_Name_Kaveh",
+            "value": "Kaveh"
+        },
+        {
+            "key": "Character_Name_Whale",
+            "value": "All-Devouring Narwhal"
+        },
+        {
+            "key": "Character_Name_Scorpion",
+            "value": "Consecrated Scorpion"
+        },
+        {
+            "key": "Character_Name_Serpent",
+            "value": "Consecrated Flying Serpent"
+        },
+        {
+            "key": "Character_Name_Apep",
+            "value": "Guardian of Apep's Oasis"
         }
     ],
 
@@ -673,6 +709,42 @@
         {
             "key": "Card_Description_Talent_AbyssHerald",
             "value": "While equipped, when Abyss Herald revives or is defeated, create a Curse of the Undercurrent on your opponent. If Herald has already revived, create a curse immediately."
+        },
+        {
+            "key": "Card_Description_Talent_Wriothesley",
+            "value": "Combat Action: uses Wriothesley's Normal Attack.\\nWhen Wriothesley takes damage or is healed, gain 1 stack. When he uses a skill, consume 3 stacks to deal +1 DMG."
+        },
+        {
+            "key": "Card_Description_Talent_Furina",
+            "value": "Combat Action: uses Furina's Elemental Skill.\\nWhen Furina uses her Elemental Skill: apply a buff to next normal attack that changes based on her state.\\nOusia: Heal inactive characters for 1 HP\\nPneuma: Deal +2 DMG and deal 1 piercing DMG to Furina."
+        },
+        {
+            "key": "Card_Description_Talent_Xinyan",
+            "value": "Combat Action: uses Xinyan's Normal Attack.\\nWhen Xinyan uses a skill with 1 or less cards in hand: Deal +2 DMG. (Once per Round)"
+        },
+        {
+            "key": "Card_Description_Talent_Yunjin",
+            "value": "Combat Action: uses Yun Jin's Elemental Burst.\\nWhile equipped, if you have no cards in hand, Flying Cloud Flag Formation causes Normal Attacks to deal +2 DMG."
+        },
+        {
+            "key": "Card_Description_Talent_Kaveh",
+            "value": "Combat Action: uses Kaveh's Elemental Skill.\\nWhile equipped, when Kaveh's Burst Scan is triggered, add a copy of the Discarded card to your hand. If it is a Location card, reduce cost of next location by 2 dice. (Once per Round)"
+        },
+        {
+            "key": "Card_Description_Talent_Whale",
+            "value": "Combat Action: uses Narwhal's Elemental Skill.\\nWhile equipped, when a card is Discarded by the Elemental Skill, heal HP equal to the cost of the card Discarded (Once per Round)"
+        },
+        {
+            "key": "Card_Description_Talent_Scorpion",
+            "value": "When played: create 1 Bonecruncher Energy Block.\\nWhile equipped, when you play a Block, draw 1 card and create and shuffle 1 Block into your deck."
+        },
+        {
+            "key": "Card_Description_Talent_Serpent",
+            "value": "When played: create 1 Bonecruncher Energy Block.\\nWhile equipped, the next time you Switch Characters, create a die of the active character's element."
+        },
+        {
+            "key": "Card_Description_Talent_Apep",
+            "value": "When played: create 4 Awaken, My Kindred cards and shuffle them randomly into your deck.\\nWhile equipped, Proliferated Organisms do +1 DMG."
         }
     ],
 
@@ -2244,6 +2316,118 @@
         {
             "key": "Card_Description_RainbowMacarons",
             "value": "Heal the target character for 1 HP. The next 3 times this character takes DMG, they will also heal 1 HP afterward."
+        },
+        {
+            "key": "Card_Name_CashflowSupervision",
+            "value": "Cashflow Supervision"
+        },
+        {
+            "key": "Card_Description_CashflowSupervision",
+            "value": "After this character takes DMG or is healed: This character's next Normal Attack this Round costs 1 less Unaligned Element and deals +1 DMG. (Max 2 times per Round)"
+        },
+        {
+            "key": "Card_Name_EndOfTheLine",
+            "value": "End of the Line"
+        },
+        {
+            "key": "Card_Description_EndOfTheLine",
+            "value": "After you play an Action Card and no cards of the same name were in your initial deck: This card gains 1 Catch point. (Max 2 stacks, up to 2 stacks gained per Round)\\nWhen a character uses a Skill: If there are Catch points already, consume all points for this Skill to deal +1 DMG, then draw 1 card for each point consumed."
+        },
+        {
+            "key": "Card_Name_ForestRegalia",
+            "value": "Forest Regalia"
+        },
+        {
+            "key": "Card_Description_ForestRegalia",
+            "value": "The character deals +1 DMG.\\nWhen played: When the character to which this is attached next uses a Normal Attack during this Round: Create 2 Elemental Dice of this character's Elemental Type."
+        },
+        {
+            "key": "Card_Name_SplendorOfTranquilWaters",
+            "value": "Splendor of Tranquil Waters"
+        },
+        {
+            "key": "Card_Description_SplendorOfTranquilWaters",
+            "value": "TODO"
+        },
+        {
+            "key": "Card_Name_MarechausseeHunter",
+            "value": "Marechaussee Hunter"
+        },
+        {
+            "key": "Card_Description_MarechausseeHunter",
+            "value": "After this character takes DMG or is healed: Based on the number of times this effect has been triggered this Round, the effects will be different.\\nFirst Trigger: Create 1 Elemental Die of the character's Elemental Type.\\nSecond Trigger: Draw 1 card.\\nFourth Trigger: Create 1 Elemental Die of the character's Elemental Type."
+        },
+        {
+            "key": "Card_Name_GoldenTroupe",
+            "value": "Golden Troupe"
+        },
+        {
+            "key": "Card_Description_GoldenTroupe",
+            "value": "End Phase: If the character to which this is attached is on standby, this card gains 2 points. (Max 4 points)\\nWhen you play a Talent card or a Character uses an Elemental Skill: For each point this card has, consume it to spend 1 less Elemental Die."
+        },
+        {
+            "key": "Card_Name_FlowerOfParadiseLost",
+            "value": "Flower of Paradise Lost"
+        },
+        {
+            "key": "Card_Description_FlowerOfParadiseLost",
+            "value": "After an opponent takes Dendro DMG when the character to which this is attached is the active character: Gain 2 points. If your point count is equal to or higher than the number of cards in your Hand, create 1 Omni Die. (Max 2 per Round)"
+        },
+        {
+            "key": "Card_Name_Mausoleum",
+            "value": "The Mausoleum of King Deshret"
+        },
+        {
+            "key": "Card_Description_Mausoleum",
+            "value": "After your opponent draws 4 cards cumulatively: Discard this card and create 2 Forbidden Knowledge at the top of your opponent's deck. After that, until this Round ends, for every 1 card your opponent draws, 1 Forbidden Knowledge will be created immediately and randomly placed within their deck."
+        },
+        {
+            "key": "Card_Name_CentralLaboratoryRuins",
+            "value": "Central Laboratory Ruins"
+        },
+        {
+            "key": "Card_Description_CentralLaboratoryRuins",
+            "value": "After you Discard or use 1 card for Tune: This card gains 1 Experimental Progress point. When you reach 3, 6, and 9 points, you will gain 1 Omni Die. After that, if Experimental Progress is at least 9, discard this card."
+        },
+        {
+            "key": "Card_Name_SirArthur",
+            "value": "Sir Arthur"
+        },
+        {
+            "key": "Card_Description_SirArthur",
+            "value": "After you Discard or use 1 card for Tune: This card gains 1 News Lead point. (Max 2 points)\\nEnd Phase: If this card already has 2 News Lead points, deduct 2 points, then copy 1 card at the top of your opponent's deck and add it to your Hand."
+        },
+        {
+            "key": "Card_Name_Kusava",
+            "value": "Kusava"
+        },
+        {
+            "key": "Card_Description_Kusava",
+            "value": "When Action Phase begins: Discard a maximum of 2 cards with the highest Elemental Dice Cost in your Hand. For each card you Discard, this card accumulates 1 Memories and Dreams point (maximum of 2).\\nWhen your character uses a Skill: If you haven't played an Action Card this round, consume 1 Memories and Dreams point, and this Skill costs 1 less Elemental Die."
+        },
+        {
+            "key": "Card_Name_ViciousAncientBattle",
+            "value": "Vicious Ancient Battle"
+        },
+        {
+            "key": "Card_Description_ViciousAncientBattle",
+            "value": "TODO"
+        },
+        {
+            "key": "Card_Name_WaterAndJustice",
+            "value": "Water and Justice"
+        },
+        {
+            "key": "Card_Description_WaterAndJustice",
+            "value": "TODO"
+        },
+        {
+            "key": "Card_Name_CountdownToTheShow",
+            "value": "Countdown To the Show: 3"
+        },
+        {
+            "key": "Card_Description_CountdownToTheShow",
+            "value": "TODO"
         }
     ]
 }
