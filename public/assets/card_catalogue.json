@@ -3,7 +3,7 @@
         {
             "code_key": 45,
             "display_name": "Character_Name_Albedo",
-            "image_file": "Characters/Character_Card_albedo.png",
+            "image_file": "Character_Card_albedo.png",
             "tags": ["Sword"],
 
             "resonance": ["Mondstadt", "Geo"],
@@ -13,7 +13,7 @@
         {
             "code_key": 284,
             "display_name": "Character_Name_Alhaitham",
-            "image_file": "Characters/Character_Card_alhaitham.png",
+            "image_file": "Character_Card_alhaitham.png",
             "tags": ["Sword"],
 
             "resonance": ["Sumeru", "Dendro"],
@@ -23,7 +23,7 @@
         {
             "code_key": 20,
             "display_name": "Character_Name_Amber",
-            "image_file": "Characters/Character_Card_amber.png",
+            "image_file": "Character_Card_amber.png",
             "tags": ["Bow"],
 
             "resonance": ["Mondstadt", "Pyro"],
@@ -33,7 +33,7 @@
         {
             "code_key": 5,
             "display_name": "Character_Name_Ayaka",
-            "image_file": "Characters/Character_Card_ayaka.png",
+            "image_file": "Character_Card_ayaka.png",
             "tags": ["Sword"],
 
             "resonance": ["Inazuma", "Cryo"],
@@ -43,7 +43,7 @@
         {
             "code_key": 14,
             "display_name": "Character_Name_Ayato",
-            "image_file": "Characters/Character_Card_ayato.png",
+            "image_file": "Character_Card_ayato.png",
             "tags": ["Sword"],
 
             "resonance": ["Inazuma", "Hydro"],
@@ -53,7 +53,7 @@
         {
             "code_key": 278,
             "display_name": "Character_Name_Azhdaha",
-            "image_file": "Characters/Character_Card_azhdaha.png",
+            "image_file": "Character_Card_azhdaha.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Geo"],
@@ -63,7 +63,7 @@
         {
             "code_key": 51,
             "display_name": "Character_Name_Baizhu",
-            "image_file": "Characters/Character_Card_baizhu.png",
+            "image_file": "Character_Card_baizhu.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Liyue", "Dendro"],
@@ -73,7 +73,7 @@
         {
             "code_key": 9,
             "display_name": "Character_Name_Barbara",
-            "image_file": "Characters/Character_Card_barbara.png",
+            "image_file": "Character_Card_barbara.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Mondstadt", "Hydro"],
@@ -83,7 +83,7 @@
         {
             "code_key": 30,
             "display_name": "Character_Name_Beidou",
-            "image_file": "Characters/Character_Card_beidou.png",
+            "image_file": "Character_Card_beidou.png",
             "tags": ["Claymore"],
 
             "resonance": ["Liyue", "Electro"],
@@ -93,7 +93,7 @@
         {
             "code_key": 19,
             "display_name": "Character_Name_Bennett",
-            "image_file": "Characters/Character_Card_bennett.png",
+            "image_file": "Character_Card_bennett.png",
             "tags": ["Sword"],
 
             "resonance": ["Mondstadt", "Pyro"],
@@ -103,7 +103,7 @@
         {
             "code_key": 15,
             "display_name": "Character_Name_Candace",
-            "image_file": "Characters/Character_Card_candace.png",
+            "image_file": "Character_Card_candace.png",
             "tags": ["Polearm"],
 
             "resonance": ["Sumeru", "Hydro"],
@@ -113,7 +113,7 @@
         {
             "code_key": 4,
             "display_name": "Character_Name_Chongyun",
-            "image_file": "Characters/Character_Card_chongyun.png",
+            "image_file": "Character_Card_chongyun.png",
             "tags": ["Claymore"],
 
             "resonance": ["Liyue", "Cryo"],
@@ -123,7 +123,7 @@
         {
             "code_key": 47,
             "display_name": "Character_Name_Collei",
-            "image_file": "Characters/Character_Card_collei.png",
+            "image_file": "Character_Card_collei.png",
             "tags": ["Bow"],
 
             "resonance": ["Sumeru", "Dendro"],
@@ -133,7 +133,7 @@
         {
             "code_key": 52,
             "display_name": "Character_Name_CryoCicin",
-            "image_file": "Characters/Character_Card_cryocicin.png",
+            "image_file": "Character_Card_cryocicin.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Fatui", "Cryo"],
@@ -143,7 +143,7 @@
         {
             "code_key": 321,
             "display_name": "Character_Name_CryoHypo",
-            "image_file": "Characters/Character_Card_cryocube.png",
+            "image_file": "Character_Card_cryocube.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Cryo"],
@@ -153,7 +153,7 @@
         {
             "code_key": 29,
             "display_name": "Character_Name_Cyno",
-            "image_file": "Characters/Character_Card_cyno.png",
+            "image_file": "Character_Card_cyno.png",
             "tags": ["Polearm"],
 
             "resonance": ["Sumeru", "Electro"],
@@ -163,7 +163,7 @@
         {
             "code_key": 25,
             "display_name": "Character_Name_Dehya",
-            "image_file": "Characters/Character_Card_dehya.png",
+            "image_file": "Character_Card_dehya.png",
             "tags": ["Claymore"],
 
             "resonance": ["Sumeru", "Eremites", "Pyro"],
@@ -173,7 +173,7 @@
         {
             "code_key": 17,
             "display_name": "Character_Name_Diluc",
-            "image_file": "Characters/Character_Card_diluc.png",
+            "image_file": "Character_Card_diluc.png",
             "tags": ["Claymore"],
 
             "resonance": ["Mondstadt", "Pyro"],
@@ -183,7 +183,7 @@
         {
             "code_key": 2,
             "display_name": "Character_Name_Diona",
-            "image_file": "Characters/Character_Card_diona.png",
+            "image_file": "Character_Card_diona.png",
             "tags": ["Bow"],
 
             "resonance": ["Mondstadt", "Cryo"],
@@ -193,7 +193,7 @@
         {
             "code_key": 35,
             "display_name": "Character_Name_Dori",
-            "image_file": "Characters/Character_Card_dori.png",
+            "image_file": "Character_Card_dori.png",
             "tags": ["Claymore"],
 
             "resonance": ["Sumeru", "Electro"],
@@ -203,7 +203,7 @@
         {
             "code_key": 287,
             "display_name": "Character_Name_Dvalin",
-            "image_file": "Characters/Character_Card_dvalin.png",
+            "image_file": "Character_Card_dvalin.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Anemo"],
@@ -213,7 +213,7 @@
         {
             "code_key": 57,
             "display_name": "Character_Name_ElectroHypo",
-            "image_file": "Characters/Character_Card_electrocube.png",
+            "image_file": "Character_Card_electrocube.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Electro"],
@@ -223,7 +223,7 @@
         {
             "code_key": 6,
             "display_name": "Character_Name_Eula",
-            "image_file": "Characters/Character_Card_eula.png",
+            "image_file": "Character_Card_eula.png",
             "tags": ["Claymore"],
 
             "resonance": ["Mondstadt", "Cryo"],
@@ -233,7 +233,7 @@
         {
             "code_key": 26,
             "display_name": "Character_Name_Fischl",
-            "image_file": "Characters/Character_Card_fischl.png",
+            "image_file": "Character_Card_fischl.png",
             "tags": ["Bow"],
 
             "resonance": ["Mondstadt", "Electro"],
@@ -243,7 +243,7 @@
         {
             "code_key": 1,
             "display_name": "Character_Name_Ganyu",
-            "image_file": "Characters/Character_Card_ganyu.png",
+            "image_file": "Character_Card_ganyu.png",
             "tags": ["Bow"],
 
             "resonance": ["Liyue", "Cryo"],
@@ -253,7 +253,7 @@
         {
             "code_key": 283,
             "display_name": "Character_Name_Gorou",
-            "image_file": "Characters/Character_Card_gorou.png",
+            "image_file": "Character_Card_gorou.png",
             "tags": ["Bow"],
 
             "resonance": ["Inazuma", "Geo"],
@@ -263,7 +263,7 @@
         {
             "code_key": 23,
             "display_name": "Character_Name_HuTao",
-            "image_file": "Characters/Character_Card_hutao.png",
+            "image_file": "Character_Card_hutao.png",
             "tags": ["Polearm"],
 
             "resonance": ["Liyue", "Pyro"],
@@ -273,7 +273,7 @@
         {
             "code_key": 46,
             "display_name": "Character_Name_Itto",
-            "image_file": "Characters/Character_Card_itto.png",
+            "image_file": "Character_Card_itto.png",
             "tags": ["Claymore"],
 
             "resonance": ["Inazuma", "Geo"],
@@ -283,7 +283,7 @@
         {
             "code_key": 37,
             "display_name": "Character_Name_Jean",
-            "image_file": "Characters/Character_Card_jean.png",
+            "image_file": "Character_Card_jean.png",
             "tags": ["Sword"],
 
             "resonance": ["Mondstadt", "Anemo"],
@@ -293,7 +293,7 @@
         {
             "code_key": 3,
             "display_name": "Character_Name_Kaeya",
-            "image_file": "Characters/Character_Card_kaeya.png",
+            "image_file": "Character_Card_kaeya.png",
             "tags": ["Sword"],
 
             "resonance": ["Mondstadt", "Cryo"],
@@ -303,7 +303,7 @@
         {
             "code_key": 40,
             "display_name": "Character_Name_Kazuha",
-            "image_file": "Characters/Character_Card_kazuha.png",
+            "image_file": "Character_Card_kazuha.png",
             "tags": ["Sword"],
 
             "resonance": ["Inazuma", "Anemo"],
@@ -313,7 +313,7 @@
         {
             "code_key": 28,
             "display_name": "Character_Name_Keqing",
-            "image_file": "Characters/Character_Card_keqing.png",
+            "image_file": "Character_Card_keqing.png",
             "tags": ["Sword"],
 
             "resonance": ["Liyue", "Electro"],
@@ -323,7 +323,7 @@
         {
             "code_key": 22,
             "display_name": "Character_Name_Klee",
-            "image_file": "Characters/Character_Card_klee.png",
+            "image_file": "Character_Card_klee.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Mondstadt", "Pyro"],
@@ -333,7 +333,7 @@
         {
             "code_key": 13,
             "display_name": "Character_Name_Kokomi",
-            "image_file": "Characters/Character_Card_kokomi.png",
+            "image_file": "Character_Card_kokomi.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Inazuma", "Hydro"],
@@ -343,7 +343,7 @@
         {
             "code_key": 31,
             "display_name": "Character_Name_Sara",
-            "image_file": "Characters/Character_Card_kujosara.png",
+            "image_file": "Character_Card_kujosara.png",
             "tags": ["Bow"],
 
             "resonance": ["Inazuma", "Electro"],
@@ -353,7 +353,7 @@
         {
             "code_key": 59,
             "display_name": "Character_Name_GeoLawachurl",
-            "image_file": "Characters/Character_Card_lawachurl.png",
+            "image_file": "Character_Card_lawachurl.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Geo"],
@@ -363,7 +363,7 @@
         {
             "code_key": 279,
             "display_name": "Character_Name_Layla",
-            "image_file": "Characters/Character_Card_layla.png",
+            "image_file": "Character_Card_layla.png",
             "tags": ["Sword"],
 
             "resonance": ["Sumeru", "Cryo"],
@@ -373,7 +373,7 @@
         {
             "code_key": 34,
             "display_name": "Character_Name_Lisa",
-            "image_file": "Characters/Character_Card_lisa.png",
+            "image_file": "Character_Card_lisa.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Mondstadt", "Electro"],
@@ -383,7 +383,7 @@
         {
             "code_key": 282,
             "display_name": "Character_Name_Lynette",
-            "image_file": "Characters/Character_Card_lynette.png",
+            "image_file": "Character_Card_lynette.png",
             "tags": ["Sword"],
 
             "resonance": ["Fontaine", "Fatui", "Anemo"],
@@ -393,7 +393,7 @@
         {
             "code_key": 281,
             "display_name": "Character_Name_Lyney",
-            "image_file": "Characters/Character_Card_lyney.png",
+            "image_file": "Character_Card_lyney.png",
             "tags": ["Bow"],
 
             "resonance": ["Fontaine", "Fatui", "Pyro"],
@@ -403,7 +403,7 @@
         {
             "code_key": 58,
             "display_name": "Character_Name_MaguuKenki",
-            "image_file": "Characters/Character_Card_maguukenki.png",
+            "image_file": "Character_Card_maguukenki.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Anemo"],
@@ -413,7 +413,7 @@
         {
             "code_key": 54,
             "display_name": "Character_Name_MirrorMaiden",
-            "image_file": "Characters/Character_Card_mirrormaiden.png",
+            "image_file": "Character_Card_mirrormaiden.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Fatui", "Hydro"],
@@ -423,7 +423,7 @@
         {
             "code_key": 11,
             "display_name": "Character_Name_Mona",
-            "image_file": "Characters/Character_Card_mona.png",
+            "image_file": "Character_Card_mona.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Mondstadt", "Hydro"],
@@ -433,7 +433,7 @@
         {
             "code_key": 49,
             "display_name": "Character_Name_Nahida",
-            "image_file": "Characters/Character_Card_nahida.png",
+            "image_file": "Character_Card_nahida.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Sumeru", "Dendro"],
@@ -443,7 +443,7 @@
         {
             "code_key": 16,
             "display_name": "Character_Name_Nilou",
-            "image_file": "Characters/Character_Card_nilou.png",
+            "image_file": "Character_Card_nilou.png",
             "tags": ["Sword"],
 
             "resonance": ["Sumeru", "Hydro"],
@@ -453,7 +453,7 @@
         {
             "code_key": 42,
             "display_name": "Character_Name_Ningguang",
-            "image_file": "Characters/Character_Card_ningguang.png",
+            "image_file": "Character_Card_ningguang.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Liyue", "Geo"],
@@ -463,7 +463,7 @@
         {
             "code_key": 43,
             "display_name": "Character_Name_Noelle",
-            "image_file": "Characters/Character_Card_noelle.png",
+            "image_file": "Character_Card_noelle.png",
             "tags": ["Claymore"],
 
             "resonance": ["Mondstadt", "Geo"],
@@ -473,7 +473,7 @@
         {
             "code_key": 53,
             "display_name": "Character_Name_Oceanid",
-            "image_file": "Characters/Character_Card_oceanid.png",
+            "image_file": "Character_Card_oceanid.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Hydro"],
@@ -483,7 +483,7 @@
         {
             "code_key": 55,
             "display_name": "Character_Name_PyroAgent",
-            "image_file": "Characters/Character_Card_pyroagent.png",
+            "image_file": "Character_Card_pyroagent.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Fatui", "Pyro"],
@@ -493,7 +493,7 @@
         {
             "code_key": 56,
             "display_name": "Character_Name_PyroLector",
-            "image_file": "Characters/Character_Card_pyrolector.png",
+            "image_file": "Character_Card_pyrolector.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Pyro"],
@@ -503,7 +503,7 @@
         {
             "code_key": 285,
             "display_name": "Character_Name_PyroLoremaster",
-            "image_file": "Characters/Character_Card_pyroloremaster.png",
+            "image_file": "Character_Card_pyroloremaster.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Eremites", "Pyro"],
@@ -513,7 +513,7 @@
         {
             "code_key": 8,
             "display_name": "Character_Name_Qiqi",
-            "image_file": "Characters/Character_Card_qiqi.png",
+            "image_file": "Character_Card_qiqi.png",
             "tags": ["Sword"],
 
             "resonance": ["Liyue", "Cryo"],
@@ -523,7 +523,7 @@
         {
             "code_key": 32,
             "display_name": "Character_Name_Raiden",
-            "image_file": "Characters/Character_Card_raiden.png",
+            "image_file": "Character_Card_raiden.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Inazuma", "Electro"],
@@ -533,7 +533,7 @@
         {
             "code_key": 27,
             "display_name": "Character_Name_Razor",
-            "image_file": "Characters/Character_Card_razor.png",
+            "image_file": "Character_Card_razor.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Mondstadt", "Electro"],
@@ -543,7 +543,7 @@
         {
             "code_key": 320,
             "display_name": "Character_Name_Sayu",
-            "image_file": "Characters/Character_Card_sayu.png",
+            "image_file": "Character_Card_sayu.png",
             "tags": ["Claymore"],
 
             "resonance": ["Inazuma", "Anemo"],
@@ -553,7 +553,7 @@
         {
             "code_key": 322,
             "display_name": "Character_Name_Seahorse",
-            "image_file": "Characters/Character_Card_seahorse.png",
+            "image_file": "Character_Card_seahorse.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Electro"],
@@ -563,7 +563,7 @@
         {
             "code_key": 7,
             "display_name": "Character_Name_Shenhe",
-            "image_file": "Characters/Character_Card_shenhe.png",
+            "image_file": "Character_Card_shenhe.png",
             "tags": ["Polearm"],
 
             "resonance": ["Liyue", "Cryo"],
@@ -573,7 +573,7 @@
         {
             "code_key": 277,
             "display_name": "Character_Name_Signora",
-            "image_file": "Characters/Character_Card_signora.png",
+            "image_file": "Character_Card_signora.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Fatui", "Cryo"],
@@ -583,7 +583,7 @@
         {
             "code_key": 36,
             "display_name": "Character_Name_Sucrose",
-            "image_file": "Characters/Character_Card_sucrose.png",
+            "image_file": "Character_Card_sucrose.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Mondstadt", "Anemo"],
@@ -593,7 +593,7 @@
         {
             "code_key": 12,
             "display_name": "Character_Name_Tartaglia",
-            "image_file": "Characters/Character_Card_tartaglia.png",
+            "image_file": "Character_Card_tartaglia.png",
             "tags": ["Bow"],
 
             "resonance": ["Fatui", "Hydro"],
@@ -603,7 +603,7 @@
         {
             "code_key": 60,
             "display_name": "Character_Name_Jadeplume",
-            "image_file": "Characters/Character_Card_terrorshroom.png",
+            "image_file": "Character_Card_terrorshroom.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Dendro"],
@@ -613,7 +613,7 @@
         {
             "code_key": 319,
             "display_name": "Character_Name_Thoma",
-            "image_file": "Characters/Character_Card_thoma.png",
+            "image_file": "Character_Card_thoma.png",
             "tags": ["Polearm"],
 
             "resonance": ["Inazuma", "Pyro"],
@@ -623,7 +623,7 @@
         {
             "code_key": 286,
             "display_name": "Character_Name_ThunderMani",
-            "image_file": "Characters/Character_Card_thundermanifestation.png",
+            "image_file": "Character_Card_thundermanifestation.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Electro"],
@@ -633,7 +633,7 @@
         {
             "code_key": 48,
             "display_name": "Character_Name_Tighnari",
-            "image_file": "Characters/Character_Card_tighnari.png",
+            "image_file": "Character_Card_tighnari.png",
             "tags": ["Bow"],
 
             "resonance": ["Sumeru", "Dendro"],
@@ -643,7 +643,7 @@
         {
             "code_key": 38,
             "display_name": "Character_Name_Venti",
-            "image_file": "Characters/Character_Card_venti.png",
+            "image_file": "Character_Card_venti.png",
             "tags": ["Bow"],
 
             "resonance": ["Mondstadt", "Anemo"],
@@ -653,7 +653,7 @@
         {
             "code_key": 41,
             "display_name": "Character_Name_Wanderer",
-            "image_file": "Characters/Character_Card_wanderer.png",
+            "image_file": "Character_Card_wanderer.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Anemo"],
@@ -663,7 +663,7 @@
         {
             "code_key": 18,
             "display_name": "Character_Name_Xiangling",
-            "image_file": "Characters/Character_Card_xiangling.png",
+            "image_file": "Character_Card_xiangling.png",
             "tags": ["Polearm"],
 
             "resonance": ["Liyue", "Pyro"],
@@ -673,7 +673,7 @@
         {
             "code_key": 39,
             "display_name": "Character_Name_Xiao",
-            "image_file": "Characters/Character_Card_xiao.png",
+            "image_file": "Character_Card_xiao.png",
             "tags": ["Polearm"],
 
             "resonance": ["Liyue", "Anemo"],
@@ -683,7 +683,7 @@
         {
             "code_key": 10,
             "display_name": "Character_Name_Xingqiu",
-            "image_file": "Characters/Character_Card_xingqiu.png",
+            "image_file": "Character_Card_xingqiu.png",
             "tags": ["Sword"],
 
             "resonance": ["Liyue", "Hydro"],
@@ -693,7 +693,7 @@
         {
             "code_key": 33,
             "display_name": "Character_Name_Yae",
-            "image_file": "Characters/Character_Card_yae.png",
+            "image_file": "Character_Card_yae.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Inazuma", "Electro"],
@@ -703,7 +703,7 @@
         {
             "code_key": 24,
             "display_name": "Character_Name_Yanfei",
-            "image_file": "Characters/Character_Card_yanfei.png",
+            "image_file": "Character_Card_yanfei.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Liyue", "Pyro"],
@@ -713,7 +713,7 @@
         {
             "code_key": 50,
             "display_name": "Character_Name_Yaoyao",
-            "image_file": "Characters/Character_Card_yaoyao.png",
+            "image_file": "Character_Card_yaoyao.png",
             "tags": ["Polearm"],
 
             "resonance": ["Liyue", "Dendro"],
@@ -723,7 +723,7 @@
         {
             "code_key": 280,
             "display_name": "Character_Name_Yelan",
-            "image_file": "Characters/Character_Card_yelan.png",
+            "image_file": "Character_Card_yelan.png",
             "tags": ["Bow"],
 
             "resonance": ["Liyue", "Hydro"],
@@ -733,7 +733,7 @@
         {
             "code_key": 21,
             "display_name": "Character_Name_Yoimiya",
-            "image_file": "Characters/Character_Card_yoimiya.png",
+            "image_file": "Character_Card_yoimiya.png",
             "tags": ["Bow"],
 
             "resonance": ["Inazuma", "Pyro"],
@@ -743,7 +743,7 @@
         {
             "code_key": 44,
             "display_name": "Character_Name_Zhongli",
-            "image_file": "Characters/Character_Card_zhongli.png",
+            "image_file": "Character_Card_zhongli.png",
             "tags": ["Polearm"],
 
             "resonance": ["Liyue", "Geo"],
@@ -753,7 +753,7 @@
         {
             "code_key": 334,
             "display_name": "Character_Name_Charlotte",
-            "image_file": "Characters/Character_Card_charlotte.png",
+            "image_file": "Character_Card_charlotte.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Fontaine", "Cryo"],
@@ -763,7 +763,7 @@
         {
             "code_key": 335,
             "display_name": "Character_Name_Neuvillette",
-            "image_file": "Characters/Character_Card_neuvillette.png",
+            "image_file": "Character_Card_neuvillette.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Fontaine", "Hydro"],
@@ -773,7 +773,7 @@
         {
             "code_key": 336,
             "display_name": "Character_Name_Kirara",
-            "image_file": "Characters/Character_Card_kirara.png",
+            "image_file": "Character_Card_kirara.png",
             "tags": ["Sword"],
 
             "resonance": ["Inazuma", "Dendro"],
@@ -783,7 +783,7 @@
         {
             "code_key": 337,
             "display_name": "Character_Name_ElectroCicin",
-            "image_file": "Characters/Character_Card_electrocicin.png",
+            "image_file": "Character_Card_electrocicin.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Fatui", "Electro"],
@@ -793,7 +793,7 @@
         {
             "code_key": 348,
             "display_name": "Character_Name_KukiShinobu",
-            "image_file": "Characters/Character_Card_kuki.png",
+            "image_file": "Character_Card_kuki.png",
             "tags": ["Sword"],
 
             "resonance": ["Inazuma", "Electro"],
@@ -803,7 +803,7 @@
         {
             "code_key": 349,
             "display_name": "Character_Name_Faruzan",
-            "image_file": "Characters/Character_Card_faruzan.png",
+            "image_file": "Character_Card_faruzan.png",
             "tags": ["Bow"],
 
             "resonance": ["Sumeru", "Anemo"],
@@ -813,7 +813,7 @@
         {
             "code_key": 350,
             "display_name": "Character_Name_AbyssHerald",
-            "image_file": "Characters/Character_Card_herald.png",
+            "image_file": "Character_Card_herald.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Hydro"],
@@ -823,7 +823,7 @@
         {
             "code_key": 351,
             "display_name": "Character_Name_Crab",
-            "image_file": "Characters/Character_Card_crab.png",
+            "image_file": "Character_Card_crab.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Pyro"],
@@ -833,7 +833,7 @@
         {
             "code_key": 363,
             "display_name": "Character_Name_Wriothesley",
-            "image_file": "Characters/Character_Card_wriothesley.png",
+            "image_file": "Character_Card_wriothesley.png",
             "tags": ["Catalyst"],
 
             "resonance": ["Fontaine", "Cryo"],
@@ -843,7 +843,7 @@
         {
             "code_key": 364,
             "display_name": "Character_Name_Furina",
-            "image_file": "Characters/Character_Card_furina.png",
+            "image_file": "Character_Card_furina.png",
             "tags": ["Sword"],
 
             "resonance": ["Fontaine", "Hydro"],
@@ -853,7 +853,7 @@
         {
             "code_key": 365,
             "display_name": "Character_Name_Xinyan",
-            "image_file": "Characters/Character_Card_xinyan.png",
+            "image_file": "Character_Card_xinyan.png",
             "tags": ["Claymore"],
 
             "resonance": ["Liyue", "Pyro"],
@@ -863,7 +863,7 @@
         {
             "code_key": 366,
             "display_name": "Character_Name_Yunjin",
-            "image_file": "Characters/Character_Card_yunjin.png",
+            "image_file": "Character_Card_yunjin.png",
             "tags": ["Polearm"],
 
             "resonance": ["Liyue", "Geo"],
@@ -873,7 +873,7 @@
         {
             "code_key": 367,
             "display_name": "Character_Name_Kaveh",
-            "image_file": "Characters/Character_Card_kaveh.png",
+            "image_file": "Character_Card_kaveh.png",
             "tags": ["Claymore"],
 
             "resonance": ["Sumeru", "Dendro"],
@@ -883,7 +883,7 @@
         {
             "code_key": 368,
             "display_name": "Character_Name_Whale",
-            "image_file": "Characters/Character_Card_whale.png",
+            "image_file": "Character_Card_whale.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Hydro"],
@@ -893,7 +893,7 @@
         {
             "code_key": 369,
             "display_name": "Character_Name_Scorpion",
-            "image_file": "Characters/Character_Card_scorpion.png",
+            "image_file": "Character_Card_scorpion.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Electro"],
@@ -903,7 +903,7 @@
         {
             "code_key": 370,
             "display_name": "Character_Name_Serpent",
-            "image_file": "Characters/Character_Card_serpent.png",
+            "image_file": "Character_Card_serpent.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Anemo"],
@@ -913,7 +913,7 @@
         {
             "code_key": 371,
             "display_name": "Character_Name_Apep",
-            "image_file": "Characters/Character_Card_apep.png",
+            "image_file": "Character_Card_apep.png",
             "tags": ["Weaponless"],
 
             "resonance": ["Monster", "Dendro"],
@@ -925,644 +925,644 @@
         {
             "code_key": 105,
             "display_name": "Card_Name_Talent_Albedo",
-            "image_file": "Talents/Card_talent_albedo.png",
+            "image_file": "Card_talent_albedo.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Albedo"
         },
         {
             "code_key": 293,
             "display_name": "Card_Name_Talent_Alhaitham",
-            "image_file": "Talents/Card_talent_alhaitham.png",
+            "image_file": "Card_talent_alhaitham.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Alhaitham"
         },
         {
             "code_key": 80,
             "display_name": "Card_Name_Talent_Amber",
-            "image_file": "Talents/Card_talent_amber.png",
+            "image_file": "Card_talent_amber.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Amber"
         },
         {
             "code_key": 65,
             "display_name": "Card_Name_Talent_Ayaka",
-            "image_file": "Talents/Card_talent_ayaka.png",
+            "image_file": "Card_talent_ayaka.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Ayaka"
         },
         {
             "code_key": 74,
             "display_name": "Card_Name_Talent_Ayato",
-            "image_file": "Talents/Card_talent_ayato.png",
+            "image_file": "Card_talent_ayato.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Ayato"
         },
         {
             "code_key": 298,
             "display_name": "Card_Name_Talent_Azhdaha",
-            "image_file": "Talents/Card_talent_azhdaha.png",
+            "image_file": "Card_talent_azhdaha.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Azhdaha"
         },
         {
             "code_key": 111,
             "display_name": "Card_Name_Talent_Baizhu",
-            "image_file": "Talents/Card_talent_baizhu.png",
+            "image_file": "Card_talent_baizhu.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Baizhu"
         },
         {
             "code_key": 69,
             "display_name": "Card_Name_Talent_Barbara",
-            "image_file": "Talents/Card_talent_barbara.png",
+            "image_file": "Card_talent_barbara.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Barbara"
         },
         {
             "code_key": 90,
             "display_name": "Card_Name_Talent_Beidou",
-            "image_file": "Talents/Card_talent_beidou.png",
+            "image_file": "Card_talent_beidou.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Beidou"
         },
         {
             "code_key": 79,
             "display_name": "Card_Name_Talent_Bennett",
-            "image_file": "Talents/Card_talent_bennett.png",
+            "image_file": "Card_talent_bennett.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Bennett"
         },
         {
             "code_key": 75,
             "display_name": "Card_Name_Talent_Candace",
-            "image_file": "Talents/Card_talent_candace.png",
+            "image_file": "Card_talent_candace.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Candace"
         },
         {
             "code_key": 64,
             "display_name": "Card_Name_Talent_Chongyun",
-            "image_file": "Talents/Card_talent_chongyun.png",
+            "image_file": "Card_talent_chongyun.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Chongyun"
         },
         {
             "code_key": 107,
             "display_name": "Card_Name_Talent_Collei",
-            "image_file": "Talents/Card_talent_collei.png",
+            "image_file": "Card_talent_collei.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Collei"
         },
         {
             "code_key": 112,
             "display_name": "Card_Name_Talent_CryoCicin",
-            "image_file": "Talents/Card_talent_cryocicin.png",
+            "image_file": "Card_talent_cryocicin.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_CryoCicin"
         },
         {
             "code_key": 325,
             "display_name": "Card_Name_Talent_CryoHypo",
-            "image_file": "Talents/Card_talent_cryocube.png",
+            "image_file": "Card_talent_cryocube.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_CryoHypo"
         },
         {
             "code_key": 89,
             "display_name": "Card_Name_Talent_Cyno",
-            "image_file": "Talents/Card_talent_cyno.png",
+            "image_file": "Card_talent_cyno.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Cyno"
         },
         {
             "code_key": 85,
             "display_name": "Card_Name_Talent_Dehya",
-            "image_file": "Talents/Card_talent_dehya.png",
+            "image_file": "Card_talent_dehya.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Dehya"
         },
         {
             "code_key": 77,
             "display_name": "Card_Name_Talent_Diluc",
-            "image_file": "Talents/Card_talent_diluc.png",
+            "image_file": "Card_talent_diluc.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Diluc"
         },
         {
             "code_key": 62,
             "display_name": "Card_Name_Talent_Diona",
-            "image_file": "Talents/Card_talent_diona.png",
+            "image_file": "Card_talent_diona.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Diona"
         },
         {
             "code_key": 95,
             "display_name": "Card_Name_Talent_Dori",
-            "image_file": "Talents/Card_talent_dori.png",
+            "image_file": "Card_talent_dori.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Dori"
         },
         {
             "code_key": 297,
             "display_name": "Card_Name_Talent_Dvalin",
-            "image_file": "Talents/Card_talent_dvalin.png",
+            "image_file": "Card_talent_dvalin.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Dvalin"
         },
         {
             "code_key": 117,
             "display_name": "Card_Name_Talent_ElectroHypo",
-            "image_file": "Talents/Card_talent_electrocube.png",
+            "image_file": "Card_talent_electrocube.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_ElectroHypo"
         },
         {
             "code_key": 66,
             "display_name": "Card_Name_Talent_Eula",
-            "image_file": "Talents/Card_talent_eula.png",
+            "image_file": "Card_talent_eula.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Eula"
         },
         {
             "code_key": 86,
             "display_name": "Card_Name_Talent_Fischl",
-            "image_file": "Talents/Card_talent_fischl.png",
+            "image_file": "Card_talent_fischl.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Fischl"
         },
         {
             "code_key": 61,
             "display_name": "Card_Name_Talent_Ganyu",
-            "image_file": "Talents/Card_talent_ganyu.png",
+            "image_file": "Card_talent_ganyu.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Ganyu"
         },
         {
             "code_key": 292,
             "display_name": "Card_Name_Talent_Gorou",
-            "image_file": "Talents/Card_talent_gorou.png",
+            "image_file": "Card_talent_gorou.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Gorou"
         },
         {
             "code_key": 83,
             "display_name": "Card_Name_Talent_HuTao",
-            "image_file": "Talents/Card_talent_hutao.png",
+            "image_file": "Card_talent_hutao.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_HuTao"
         },
         {
             "code_key": 106,
             "display_name": "Card_Name_Talent_Itto",
-            "image_file": "Talents/Card_talent_itto.png",
+            "image_file": "Card_talent_itto.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Itto"
         },
         {
             "code_key": 97,
             "display_name": "Card_Name_Talent_Jean",
-            "image_file": "Talents/Card_talent_jean.png",
+            "image_file": "Card_talent_jean.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Jean"
         },
         {
             "code_key": 63,
             "display_name": "Card_Name_Talent_Kaeya",
-            "image_file": "Talents/Card_talent_kaeya.png",
+            "image_file": "Card_talent_kaeya.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Kaeya"
         },
         {
             "code_key": 100,
             "display_name": "KCard_Name_Talent_Kazuha",
-            "image_file": "Talents/Card_talent_kazuha.png",
+            "image_file": "Card_talent_kazuha.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Kazuha"
         },
         {
             "code_key": 88,
             "display_name": "Card_Name_Talent_Keqing",
-            "image_file": "Talents/Card_talent_keqing.png",
+            "image_file": "Card_talent_keqing.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Keqing"
         },
         {
             "code_key": 82,
             "display_name": "Card_Name_Talent_Klee",
-            "image_file": "Talents/Card_talent_klee.png",
+            "image_file": "Card_talent_klee.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Klee"
         },
         {
             "code_key": 73,
             "display_name": "Card_Name_Talent_Kokomi",
-            "image_file": "Talents/Card_talent_kokomi.png",
+            "image_file": "Card_talent_kokomi.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Kokomi"
         },
         {
             "code_key": 91,
             "display_name": "Card_Name_Talent_Sara",
-            "image_file": "Talents/Card_talent_kujosara.png",
+            "image_file": "Card_talent_kujosara.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Sara"
         },
         {
             "code_key": 119,
             "display_name": "Card_Name_Talent_GeoLawachurl",
-            "image_file": "Talents/Card_talent_lawachurl.png",
+            "image_file": "Card_talent_lawachurl.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_GeoLawachurl"
         },
         {
             "code_key": 288,
             "display_name": "Card_Name_Talent_Layla",
-            "image_file": "Talents/Card_talent_layla.png",
+            "image_file": "Card_talent_layla.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Layla"
         },
         {
             "code_key": 94,
             "display_name": "Card_Name_Talent_Lisa",
-            "image_file": "Talents/Card_talent_lisa.png",
+            "image_file": "Card_talent_lisa.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Lisa"
         },
         {
             "code_key": 291,
             "display_name": "Card_Name_Talent_Lynette",
-            "image_file": "Talents/Card_talent_lynette.png",
+            "image_file": "Card_talent_lynette.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Lynette"
         },
         {
             "code_key": 290,
             "display_name": "Card_Name_Talent_Lyney",
-            "image_file": "Talents/Card_talent_lyney.png",
+            "image_file": "Card_talent_lyney.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Lyney"
         },
         {
             "code_key": 118,
             "display_name": "Card_Name_Talent_MaguuKenki",
-            "image_file": "Talents/Card_talent_maguukenki.png",
+            "image_file": "Card_talent_maguukenki.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_MaguuKenki"
         },
         {
             "code_key": 114,
             "display_name": "Card_Name_Talent_MirrorMaiden",
-            "image_file": "Talents/Card_talent_mirrormaiden.png",
+            "image_file": "Card_talent_mirrormaiden.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_MirrorMaiden"
         },
         {
             "code_key": 71,
             "display_name": "Card_Name_Talent_Mona",
-            "image_file": "Talents/Card_talent_mona.png",
+            "image_file": "Card_talent_mona.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Mona"
         },
         {
             "code_key": 109,
             "display_name": "Card_Name_Talent_Nahida",
-            "image_file": "Talents/Card_talent_nahida.png",
+            "image_file": "Card_talent_nahida.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Nahida"
         },
         {
             "code_key": 76,
             "display_name": "Card_Name_Talent_Nilou",
-            "image_file": "Talents/Card_talent_nilou.png",
+            "image_file": "Card_talent_nilou.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Nilou"
         },
         {
             "code_key": 102,
             "display_name": "Card_Name_Talent_Ningguang",
-            "image_file": "Talents/Card_talent_ningguang.png",
+            "image_file": "Card_talent_ningguang.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Ningguang"
         },
         {
             "code_key": 103,
             "display_name": "Card_Name_Talent_Noelle",
-            "image_file": "Talents/Card_talent_noelle.png",
+            "image_file": "Card_talent_noelle.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Noelle"
         },
         {
             "code_key": 113,
             "display_name": "Card_Name_Talent_Oceanid",
-            "image_file": "Talents/Card_talent_oceanid.png",
+            "image_file": "Card_talent_oceanid.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Oceanid"
         },
         {
             "code_key": 115,
             "display_name": "Card_Name_Talent_PyroAgent",
-            "image_file": "Talents/Card_talent_pyroagent.png",
+            "image_file": "Card_talent_pyroagent.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_PyroAgent"
         },
         {
             "code_key": 116,
             "display_name": "Card_Name_Talent_PyroLector",
-            "image_file": "Talents/Card_talent_pyrolector.png",
+            "image_file": "Card_talent_pyrolector.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_PyroLector"
         },
         {
             "code_key": 295,
             "display_name": "Card_Name_Talent_PyroLoremaster",
-            "image_file": "Talents/Card_talent_scorchingloremaster.png",
+            "image_file": "Card_talent_scorchingloremaster.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_PyroLoremaster"
         },
         {
             "code_key": 68,
             "display_name": "Card_Name_Talent_Qiqi",
-            "image_file": "Talents/Card_talent_qiqi.png",
+            "image_file": "Card_talent_qiqi.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Qiqi"
         },
         {
             "code_key": 92,
             "display_name": "Card_Name_Talent_Raiden",
-            "image_file": "Talents/Card_talent_raiden.png",
+            "image_file": "Card_talent_raiden.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Raiden"
         },
         {
             "code_key": 87,
             "display_name": "Card_Name_Talent_Razor",
-            "image_file": "Talents/Card_talent_razor.png",
+            "image_file": "Card_talent_razor.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Razor"
         },
         {
             "code_key": 324,
             "display_name": "Card_Name_Talent_Sayu",
-            "image_file": "Talents/Card_talent_sayu.png",
+            "image_file": "Card_talent_sayu.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Sayu"
         },
         {
             "code_key": 326,
             "display_name": "Card_Name_Talent_Seahorse",
-            "image_file": "Talents/Card_talent_seahorse.png",
+            "image_file": "Card_talent_seahorse.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Seahorse"
         },
         {
             "code_key": 67,
             "display_name": "Card_Name_Talent_Shenhe",
-            "image_file": "Talents/Card_talent_shenhe.png",
+            "image_file": "Card_talent_shenhe.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Shenhe"
         },
         {
             "code_key": 294,
             "display_name": "Card_Name_Talent_Signora",
-            "image_file": "Talents/Card_talent_signora.png",
+            "image_file": "Card_talent_signora.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Signora"
         },
         {
             "code_key": 96,
             "display_name": "Card_Name_Talent_Sucrose",
-            "image_file": "Talents/Card_talent_sucrose.png",
+            "image_file": "Card_talent_sucrose.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Sucrose"
         },
         {
             "code_key": 72,
             "display_name": "Card_Name_Talent_Tartaglia",
-            "image_file": "Talents/Card_talent_tartaglia.png",
+            "image_file": "Card_talent_tartaglia.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Tartaglia"
         },
         {
             "code_key": 120,
             "display_name": "Card_Name_Talent_Jadeplume",
-            "image_file": "Talents/Card_talent_terrorshroom.png",
+            "image_file": "Card_talent_terrorshroom.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Jadeplume"
         },
         {
             "code_key": 323,
             "display_name": "Card_Name_Talent_Thoma",
-            "image_file": "Talents/Card_talent_thoma.png",
+            "image_file": "Card_talent_thoma.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Thoma"
         },
         {
             "code_key": 296,
             "display_name": "Card_Name_Talent_ThunderMani",
-            "image_file": "Talents/Card_talent_thundermanifestation.png",
+            "image_file": "Card_talent_thundermanifestation.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_ThunderMani"
         },
         {
             "code_key": 108,
             "display_name": "Card_Name_Talent_Tighnari",
-            "image_file": "Talents/Card_talent_tighnari.png",
+            "image_file": "Card_talent_tighnari.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Tighnari"
         },
         {
             "code_key": 98,
             "display_name": "Card_Name_Talent_Venti",
-            "image_file": "Talents/Card_talent_venti.png",
+            "image_file": "Card_talent_venti.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Venti"
         },
         {
             "code_key": 101,
             "display_name": "Card_Name_Talent_Wanderer",
-            "image_file": "Talents/Card_talent_wanderer.png",
+            "image_file": "Card_talent_wanderer.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Wanderer"
         },
         {
             "code_key": 78,
             "display_name": "Card_Name_Talent_Xiangling",
-            "image_file": "Talents/Card_talent_xiangling.png",
+            "image_file": "Card_talent_xiangling.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Xiangling"
         },
         {
             "code_key": 99,
             "display_name": "Card_Name_Talent_Xiao",
-            "image_file": "Talents/Card_talent_xiao.png",
+            "image_file": "Card_talent_xiao.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Xiao"
         },
         {
             "code_key": 70,
             "display_name": "Card_Name_Talent_Xingqiu",
-            "image_file": "Talents/Card_talent_xingqiu.png",
+            "image_file": "Card_talent_xingqiu.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Xingqiu"
         },
         {
             "code_key": 93,
             "display_name": "Card_Name_Talent_Yae",
-            "image_file": "Talents/Card_talent_yae.png",
+            "image_file": "Card_talent_yae.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Yae"
         },
         {
             "code_key": 84,
             "display_name": "Card_Name_Talent_Yanfei",
-            "image_file": "Talents/Card_talent_yanfei.png",
+            "image_file": "Card_talent_yanfei.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Yanfei"
         },
         {
             "code_key": 110,
             "display_name": "Card_Name_Talent_Yaoyao",
-            "image_file": "Talents/Card_talent_yaoyao.png",
+            "image_file": "Card_talent_yaoyao.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Yaoyao"
         },
         {
             "code_key": 289,
             "display_name": "Card_Name_Talent_Yelan",
-            "image_file": "Talents/Card_talent_yelan.png",
+            "image_file": "Card_talent_yelan.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Yelan"
         },
         {
             "code_key": 81,
             "display_name": "Card_Name_Talent_Yoimiya",
-            "image_file": "Talents/Card_talent_yoimiya.png",
+            "image_file": "Card_talent_yoimiya.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Yoimiya"
         },
         {
             "code_key": 104,
             "display_name": "Card_Name_Talent_Zhongli",
-            "image_file": "Talents/Card_talent_zhongli.png",
+            "image_file": "Card_talent_zhongli.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Zhongli"
         },
         {
             "code_key": 338,
             "display_name": "Card_Name_Talent_Charlotte",
-            "image_file": "Talents/Card_talent_charlotte.png",
+            "image_file": "Card_talent_charlotte.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Charlotte"
         },
         {
             "code_key": 339,
             "display_name": "Card_Name_Talent_Neuvillette",
-            "image_file": "Talents/Card_talent_neuvillette.png",
+            "image_file": "Card_talent_neuvillette.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Neuvillette"
         },
         {
             "code_key": 340,
             "display_name": "Card_Name_Talent_Kirara",
-            "image_file": "Talents/Card_talent_kirara.png",
+            "image_file": "Card_talent_kirara.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Kirara"
         },
         {
             "code_key": 341,
             "display_name": "Card_Name_Talent_ElectroCicin",
-            "image_file": "Talents/Card_talent_electrocicin.png",
+            "image_file": "Card_talent_electrocicin.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_ElectroCicin"
         },
         {
             "code_key": 362,
             "display_name": "Card_Name_Talent_KukiShinobu",
-            "image_file": "Talents/Card_talent_kuki.png",
+            "image_file": "Card_talent_kuki.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_KukiShinobu"
         },
         {
             "code_key": 352,
             "display_name": "Card_Name_Talent_Faruzan",
-            "image_file": "Talents/Card_talent_faruzan.png",
+            "image_file": "Card_talent_faruzan.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Faruzan"
         },
         {
             "code_key": 353,
             "display_name": "Card_Name_Talent_AbyssHerald",
-            "image_file": "Talents/Card_talent_herald.png",
+            "image_file": "Card_talent_herald.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_AbyssHerald"
         },
         {
             "code_key": 354,
             "display_name": "Card_Name_Talent_Crab",
-            "image_file": "Talents/Card_talent_crab.png",
+            "image_file": "Card_talent_crab.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Crab"
         },
         {
             "code_key": 372,
             "display_name": "Card_Name_Talent_Wriothesley",
-            "image_file": "Talents/Card_talent_wriothesley.png",
+            "image_file": "Card_talent_wriothesley.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Wriothesley"
         },
         {
             "code_key": 373,
             "display_name": "Card_Name_Talent_Furina",
-            "image_file": "Talents/Card_talent_furina.png",
+            "image_file": "Card_talent_furina.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Furina"
         },
         {
             "code_key": 374,
             "display_name": "Card_Name_Talent_Xinyan",
-            "image_file": "Talents/Card_talent_xinyan.png",
+            "image_file": "Card_talent_xinyan.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Xinyan"
         },
         {
             "code_key": 375,
             "display_name": "Card_Name_Talent_Yunjin",
-            "image_file": "Talents/Card_talent_yunjin.png",
+            "image_file": "Card_talent_yunjin.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Yunjin"
         },
         {
             "code_key": 376,
             "display_name": "Card_Name_Talent_Kaveh",
-            "image_file": "Talents/Card_talent_kaveh.png",
+            "image_file": "Card_talent_kaveh.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Kaveh"
         },
         {
             "code_key": 377,
             "display_name": "Card_Name_Talent_Whale",
-            "image_file": "Talents/Card_talent_whale.png",
+            "image_file": "Card_talent_whale.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Whale"
         },
         {
             "code_key": 378,
             "display_name": "Card_Name_Talent_Scorpion",
-            "image_file": "Talents/Card_talent_scorpion.png",
+            "image_file": "Card_talent_scorpion.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Scorpion"
         },
         {
             "code_key": 379,
             "display_name": "Card_Name_Talent_Serpent",
-            "image_file": "Talents/Card_talent_serpent.png",
+            "image_file": "Card_talent_serpent.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Serpent"
         },
         {
             "code_key": 380,
             "display_name": "Card_Name_Talent_Apep",
-            "image_file": "Talents/Card_talent_apep.png",
+            "image_file": "Card_talent_apep.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Apep"
         }
@@ -1571,7 +1571,7 @@
         {
             "code_key": 121,
             "display_name": "Card_Name_MagicGuide",
-            "image_file": "Weapons/Card_weapon_magicguide.png",
+            "image_file": "Card_weapon_magicguide.png",
             "tags": ["Weapon"],
             "weapon": "Catalyst",
             "description": "Card_Description_MagicGuide"
@@ -1579,7 +1579,7 @@
         {
             "code_key": 122,
             "display_name": "Card_Name_SacrificialFragments",
-            "image_file": "Weapons/Card_weapon_sacfragments.png",
+            "image_file": "Card_weapon_sacfragments.png",
             "tags": ["Weapon"],
             "weapon": "Catalyst",
             "description": "Card_Description_SacrificialFragments"
@@ -1587,7 +1587,7 @@
         {
             "code_key": 123,
             "display_name": "Card_Name_SkywardAtlas",
-            "image_file": "Weapons/Card_weapon_skywardatlas.png",
+            "image_file": "Card_weapon_skywardatlas.png",
             "tags": ["Weapon"],
             "weapon": "Catalyst",
             "description": "Card_Description_SkywardAtlas"
@@ -1595,7 +1595,7 @@
         {
             "code_key": 124,
             "display_name": "Card_Name_TFD",
-            "image_file": "Weapons/Card_weapon_tfd.png",
+            "image_file": "Card_weapon_tfd.png",
             "tags": ["Weapon"],
             "weapon": "Catalyst",
             "description": "Card_Description_TFD"
@@ -1603,7 +1603,7 @@
         {
             "code_key": 125,
             "display_name": "Card_Name_FruitofFulfillment",
-            "image_file": "Weapons/Card_weapon_fruit.png",
+            "image_file": "Card_weapon_fruit.png",
             "tags": ["Weapon"],
             "weapon": "Catalyst",
             "description": "Card_Description_FruitofFulfillment"
@@ -1611,7 +1611,7 @@
         {
             "code_key": 299,
             "display_name": "Card_Name_LostPrayer",
-            "image_file": "Weapons/Card_weapon_lostprayer.png",
+            "image_file": "Card_weapon_lostprayer.png",
             "tags": ["Weapon"],
             "weapon": "Catalyst",
             "description": "Card_Description_LostPrayer"
@@ -1619,7 +1619,7 @@
         {
             "code_key": 300,
             "display_name": "Card_Name_Tulaytullahs",
-            "image_file": "Weapons/Card_weapon_tulaytullah.png",
+            "image_file": "Card_weapon_tulaytullah.png",
             "tags": ["Weapon"],
             "weapon": "Catalyst",
             "description": "Card_Description_Tulaytullahs"
@@ -1627,7 +1627,7 @@
         {
             "code_key": 342,
             "display_name": "Card_Name_TomeofEternalFlow",
-            "image_file": "Weapons/Card_weapon_tomeofeternalflows.png",
+            "image_file": "Card_weapon_tomeofeternalflows.png",
             "tags": ["Weapon"],
             "weapon": "Catalyst",
             "description": "Card_Description_TomeofEternalFlow"
@@ -1635,7 +1635,7 @@
         {
             "code_key": 381,
             "display_name": "Card_Name_CashflowSupervision",
-            "image_file": "Weapons/Card_weapon_cashflowsupervision.png",
+            "image_file": "Card_weapon_cashflowsupervision.png",
             "tags": ["Weapon"],
             "weapon": "Catalyst",
             "description": "Card_Description_CashflowSupervision"
@@ -1643,7 +1643,7 @@
         {
             "code_key": 126,
             "display_name": "Card_Name_RavenBow",
-            "image_file": "Weapons/Card_weapon_ravensbow.png",
+            "image_file": "Card_weapon_ravensbow.png",
             "tags": ["Weapon"],
             "weapon": "Bow",
             "description": "Card_Description_RavenBow"
@@ -1651,7 +1651,7 @@
         {
             "code_key": 127,
             "display_name": "Card_Name_SacrificialBow",
-            "image_file": "Weapons/Card_weapon_sacbow.png",
+            "image_file": "Card_weapon_sacbow.png",
             "tags": ["Weapon"],
             "weapon": "Bow",
             "description": "Card_Description_SacrificialBow"
@@ -1659,7 +1659,7 @@
         {
             "code_key": 128,
             "display_name": "Card_Name_SkywardHarp",
-            "image_file": "Weapons/Card_weapon_skywardharp.png",
+            "image_file": "Card_weapon_skywardharp.png",
             "tags": ["Weapon"],
             "weapon": "Bow",
             "description": "Card_Description_SkywardHarp"
@@ -1667,7 +1667,7 @@
         {
             "code_key": 129,
             "display_name": "Card_Name_AmosBow",
-            "image_file": "Weapons/Card_weapon_amos.png",
+            "image_file": "Card_weapon_amos.png",
             "tags": ["Weapon"],
             "weapon": "Bow",
             "description": "Card_Description_AmosBow"
@@ -1675,7 +1675,7 @@
         {
             "code_key": 130,
             "display_name": "Card_Name_Elegy",
-            "image_file": "Weapons/Card_weapon_elegy.png",
+            "image_file": "Card_weapon_elegy.png",
             "tags": ["Weapon"],
             "weapon": "Bow",
             "description": "Card_Description_Elegy"
@@ -1683,7 +1683,7 @@
         {
             "code_key": 131,
             "display_name": "Card_Name_KingsSquire",
-            "image_file": "Weapons/Card_weapon_kingssquare.png",
+            "image_file": "Card_weapon_kingssquare.png",
             "tags": ["Weapon"],
             "weapon": "Bow",
             "description": "Card_Description_KingsSquire"
@@ -1691,7 +1691,7 @@
         {
             "code_key": 382,
             "display_name": "Card_Name_EndOfTheLine",
-            "image_file": "Weapons/Card_weapon_endoftheline.png",
+            "image_file": "Card_weapon_endoftheline.png",
             "tags": ["Weapon"],
             "weapon": "Bow",
             "description": "Card_Description_EndOfTheLine"
@@ -1699,7 +1699,7 @@
         {
             "code_key": 132,
             "display_name": "Card_Name_WhiteIronGreatsword",
-            "image_file": "Weapons/Card_weapon_whiteirongs.png",
+            "image_file": "Card_weapon_whiteirongs.png",
             "tags": ["Weapon"],
             "weapon": "Claymore",
             "description": "Card_Description_WhiteIronGreatsword"
@@ -1707,7 +1707,7 @@
         {
             "code_key": 133,
             "display_name": "Card_Name_SacrificialGreatsword",
-            "image_file": "Weapons/Card_weapon_sacgs.png",
+            "image_file": "Card_weapon_sacgs.png",
             "tags": ["Weapon"],
             "weapon": "Claymore",
             "description": "Card_Description_SacrificialGreatsword"
@@ -1715,7 +1715,7 @@
         {
             "code_key": 134,
             "display_name": "Card_Name_WGS",
-            "image_file": "Weapons/Card_weapon_wgs.png",
+            "image_file": "Card_weapon_wgs.png",
             "tags": ["Weapon"],
             "weapon": "Claymore",
             "description": "Card_Description_WGS"
@@ -1723,7 +1723,7 @@
         {
             "code_key": 135,
             "display_name": "Card_Name_SkywardPride",
-            "image_file": "Weapons/Card_weapon_skywardpride.png",
+            "image_file": "Card_weapon_skywardpride.png",
             "tags": [
                 "Weapon"
             ],
@@ -1733,7 +1733,7 @@
         {
             "code_key": 136,
             "display_name": "Card_Name_TheBell",
-            "image_file": "Weapons/Card_weapon_bell.png",
+            "image_file": "Card_weapon_bell.png",
             "tags": [
                 "Weapon"
             ],
@@ -1743,7 +1743,7 @@
         {
             "code_key": 301,
             "display_name": "Card_Name_BeaconoftheReedSea",
-            "image_file": "Weapons/Card_weapon_beacon.png",
+            "image_file": "Card_weapon_beacon.png",
             "tags": [
                 "Weapon"
             ],
@@ -1753,7 +1753,7 @@
         {
             "code_key": 383,
             "display_name": "Card_Name_ForestRegalia",
-            "image_file": "Weapons/Card_weapon_forestregalia.png",
+            "image_file": "Card_weapon_forestregalia.png",
             "tags": [
                 "Weapon"
             ],
@@ -1763,7 +1763,7 @@
         {
             "code_key": 137,
             "display_name": "Card_Name_WhiteTassel",
-            "image_file": "Weapons/Card_weapon_whitetassel.png",
+            "image_file": "Card_weapon_whitetassel.png",
             "tags": [
                 "Weapon"
             ],
@@ -1773,7 +1773,7 @@
         {
             "code_key": 138,
             "display_name": "Card_Name_LithicSpear",
-            "image_file": "Weapons/Card_weapon_lithicspear.png",
+            "image_file": "Card_weapon_lithicspear.png",
             "tags": [
                 "Weapon"
             ],
@@ -1783,7 +1783,7 @@
         {
             "code_key": 139,
             "display_name": "Card_Name_SkywardSpine",
-            "image_file": "Weapons/Card_weapon_skywardspine.png",
+            "image_file": "Card_weapon_skywardspine.png",
             "tags": [
                 "Weapon"
             ],
@@ -1793,7 +1793,7 @@
         {
             "code_key": 140,
             "display_name": "Card_Name_VortexVanquisher",
-            "image_file": "Weapons/Card_weapon_vortexvanquisher.png",
+            "image_file": "Card_weapon_vortexvanquisher.png",
             "tags": [
                 "Weapon"
             ],
@@ -1803,7 +1803,7 @@
         {
             "code_key": 141,
             "display_name": "Card_Name_EngulfingLightning",
-            "image_file": "Weapons/Card_weapon_engulfinglightning.png",
+            "image_file": "Card_weapon_engulfinglightning.png",
             "tags": [
                 "Weapon"
             ],
@@ -1813,7 +1813,7 @@
         {
             "code_key": 142,
             "display_name": "Card_Name_Moonpiercer",
-            "image_file": "Weapons/Card_weapon_moonpiercer.png",
+            "image_file": "Card_weapon_moonpiercer.png",
             "tags": [
                 "Weapon"
             ],
@@ -1823,7 +1823,7 @@
         {
             "code_key": 302,
             "display_name": "Card_Name_PrimordialJadeWinged-Spear",
-            "image_file": "Weapons/Card_weapon_pwjs.png",
+            "image_file": "Card_weapon_pwjs.png",
             "tags": [
                 "Weapon"
             ],
@@ -1833,7 +1833,7 @@
         {
             "code_key": 355,
             "display_name": "Card_Name_RightfulReward",
-            "image_file": "Weapons/Card_weapon_rightfulreward.png",
+            "image_file": "Card_weapon_rightfulreward.png",
             "tags": [
                 "Weapon"
             ],
@@ -1842,7 +1842,7 @@
         {
             "code_key": 143,
             "display_name": "Card_Name_TravelersHandySword",
-            "image_file": "Weapons/Card_weapon_travelersword.png",
+            "image_file": "Card_weapon_travelersword.png",
             "tags": [
                 "Weapon"
             ],
@@ -1852,7 +1852,7 @@
         {
             "code_key": 144,
             "display_name": "Card_Name_SacrificialSword",
-            "image_file": "Weapons/Card_weapon_sacsword.png",
+            "image_file": "Card_weapon_sacsword.png",
             "tags": [
                 "Weapon"
             ],
@@ -1862,7 +1862,7 @@
         {
             "code_key": 145,
             "display_name": "Card_Name_AquilaFavonia",
-            "image_file": "Weapons/Card_weapon_aquilafavonia.png",
+            "image_file": "Card_weapon_aquilafavonia.png",
             "tags": [
                 "Weapon"
             ],
@@ -1872,7 +1872,7 @@
         {
             "code_key": 146,
             "display_name": "Card_Name_SkywardBlade",
-            "image_file": "Weapons/Card_weapon_skywardblade.png",
+            "image_file": "Card_weapon_skywardblade.png",
             "tags": [
                 "Weapon"
             ],
@@ -1882,7 +1882,7 @@
         {
             "code_key": 147,
             "display_name": "Card_Name_FavoniusSword",
-            "image_file": "Weapons/Card_weapon_favsword.png",
+            "image_file": "Card_weapon_favsword.png",
             "tags": [
                 "Weapon"
             ],
@@ -1892,7 +1892,7 @@
         {
             "code_key": 303,
             "display_name": "Card_Name_LightofFoliarIncision",
-            "image_file": "Weapons/Card_weapon_lofi.png",
+            "image_file": "Card_weapon_lofi.png",
             "tags": [
                 "Weapon"
             ],
@@ -1902,7 +1902,7 @@
         {
             "code_key": 327,
             "display_name": "Card_Name_SapwoodBlade",
-            "image_file": "Weapons/Card_weapon_sapwood.png",
+            "image_file": "Card_weapon_sapwood.png",
             "tags": [
                 "Weapon"
             ],
@@ -1912,7 +1912,7 @@
         {
             "code_key": 384,
             "display_name": "Card_Name_SplendorOfTranquilWaters",
-            "image_file": "Weapons/Card_weapon_splendoroftranquilwaters.png",
+            "image_file": "Card_weapon_splendoroftranquilwaters.png",
             "tags": [
                 "Weapon"
             ],
@@ -1922,7 +1922,7 @@
         {
             "code_key": 148,
             "display_name": "Card_Name_AdventurersBandanna",
-            "image_file": "Artifacts/Card_artifact_adventurersbandanna.png",
+            "image_file": "Card_artifact_adventurersbandanna.png",
             "tags": [
                 "Artifact"
             ],
@@ -1931,7 +1931,7 @@
         {
             "code_key": 149,
             "display_name": "Card_Name_LuckyDogsSilverCirclet",
-            "image_file": "Artifacts/Card_artifact_luckydog.png",
+            "image_file": "Card_artifact_luckydog.png",
             "tags": [
                 "Artifact"
             ],
@@ -1940,7 +1940,7 @@
         {
             "code_key": 150,
             "display_name": "Card_Name_TravelingDoctorsHandkerchief",
-            "image_file": "Artifacts/Card_artifact_travellingdoctor.png",
+            "image_file": "Card_artifact_travellingdoctor.png",
             "tags": [
                 "Artifact"
             ],
@@ -1949,7 +1949,7 @@
         {
             "code_key": 151,
             "display_name": "Card_Name_GamblersEarrings",
-            "image_file": "Artifacts/Card_artifact_gamblers.png",
+            "image_file": "Card_artifact_gamblers.png",
             "tags": [
                 "Artifact"
             ],
@@ -1958,7 +1958,7 @@
         {
             "code_key": 152,
             "display_name": "Card_Name_InstructorsCap",
-            "image_file": "Artifacts/Card_artifact_instructors.png",
+            "image_file": "Card_artifact_instructors.png",
             "tags": [
                 "Artifact"
             ],
@@ -1967,7 +1967,7 @@
         {
             "code_key": 153,
             "display_name": "Card_Name_ExilesCirclet",
-            "image_file": "Artifacts/Card_artifact_exiles.png",
+            "image_file": "Card_artifact_exiles.png",
             "tags": [
                 "Artifact"
             ],
@@ -1976,7 +1976,7 @@
         {
             "code_key": 154,
             "display_name": "Card_Name_OrnateKabuto",
-            "image_file": "Artifacts/Card_artifact_ornatekabuto.png",
+            "image_file": "Card_artifact_ornatekabuto.png",
             "tags": [
                 "Artifact"
             ],
@@ -1985,7 +1985,7 @@
         {
             "code_key": 155,
             "display_name": "Card_Name_EmblemofSeveredFate",
-            "image_file": "Artifacts/Card_artifact_eosf.png",
+            "image_file": "Card_artifact_eosf.png",
             "tags": [
                 "Artifact"
             ],
@@ -1994,7 +1994,7 @@
         {
             "code_key": 156,
             "display_name": "Card_Name_GeneralsAncientHelm",
-            "image_file": "Artifacts/Card_artifact_generalshelm.png",
+            "image_file": "Card_artifact_generalshelm.png",
             "tags": [
                 "Artifact"
             ],
@@ -2003,7 +2003,7 @@
         {
             "code_key": 157,
             "display_name": "Card_Name_TenacityoftheMillelith",
-            "image_file": "Artifacts/Card_artifact_tenacity.png",
+            "image_file": "Card_artifact_tenacity.png",
             "tags": [
                 "Artifact"
             ],
@@ -2012,7 +2012,7 @@
         {
             "code_key": 158,
             "display_name": "Card_Name_ThunderingPoise",
-            "image_file": "Artifacts/Card_artifact_thunderingpoise.png",
+            "image_file": "Card_artifact_thunderingpoise.png",
             "tags": [
                 "Artifact"
             ],
@@ -2021,7 +2021,7 @@
         {
             "code_key": 159,
             "display_name": "Card_Name_VermillionHereafter",
-            "image_file": "Artifacts/Card_artifact_vermillionhereafter.png",
+            "image_file": "Card_artifact_vermillionhereafter.png",
             "tags": [
                 "Artifact"
             ],
@@ -2030,7 +2030,7 @@
         {
             "code_key": 160,
             "display_name": "Card_Name_CapriciousVisage",
-            "image_file": "Artifacts/Card_artifact_capriciousvisage.png",
+            "image_file": "Card_artifact_capriciousvisage.png",
             "tags": [
                 "Artifact"
             ],
@@ -2039,7 +2039,7 @@
         {
             "code_key": 161,
             "display_name": "Card_Name_ShimenawasReminiscence",
-            "image_file": "Artifacts/Card_artifact_shimenawas.png",
+            "image_file": "Card_artifact_shimenawas.png",
             "tags": [
                 "Artifact"
             ],
@@ -2048,7 +2048,7 @@
         {
             "code_key": 162,
             "display_name": "Card_Name_CrownofWatatsumi",
-            "image_file": "Artifacts/Card_artifact_crownofwatatsumi.png",
+            "image_file": "Card_artifact_crownofwatatsumi.png",
             "tags": [
                 "Artifact"
             ],
@@ -2057,7 +2057,7 @@
         {
             "code_key": 163,
             "display_name": "Card_Name_Ocean-HuedClam",
-            "image_file": "Artifacts/Card_artifact_oceanhuedclam.png",
+            "image_file": "Card_artifact_oceanhuedclam.png",
             "tags": [
                 "Artifact"
             ],
@@ -2066,7 +2066,7 @@
         {
             "code_key": 164,
             "display_name": "Card_Name_ShadowoftheSandKing",
-            "image_file": "Artifacts/Card_artifact_ssk.png",
+            "image_file": "Card_artifact_ssk.png",
             "tags": [
                 "Artifact"
             ],
@@ -2075,7 +2075,7 @@
         {
             "code_key": 304,
             "display_name": "Card_Name_GildedDreams",
-            "image_file": "Artifacts/Card_artifact_gildeddreams.png",
+            "image_file": "Card_artifact_gildeddreams.png",
             "tags": [
                 "Artifact"
             ],
@@ -2084,7 +2084,7 @@
         {
             "code_key": 305,
             "display_name": "Card_Name_FlowingRings",
-            "image_file": "Artifacts/Card_artifact_flowingrings.png",
+            "image_file": "Card_artifact_flowingrings.png",
             "tags": [
                 "Artifact"
             ],
@@ -2093,7 +2093,7 @@
         {
             "code_key": 306,
             "display_name": "Card_Name_EchoesofanOffering",
-            "image_file": "Artifacts/Card_artifact_echoes.png",
+            "image_file": "Card_artifact_echoes.png",
             "tags": [
                 "Artifact"
             ],
@@ -2102,7 +2102,7 @@
         {
             "code_key": 307,
             "display_name": "Card_Name_HeartofKhavarenasBrilliance",
-            "image_file": "Artifacts/Card_artifact_khavarena.png",
+            "image_file": "Card_artifact_khavarena.png",
             "tags": [
                 "Artifact"
             ],
@@ -2111,7 +2111,7 @@
         {
             "code_key": 308,
             "display_name": "Card_Name_VourukashasGlow",
-            "image_file": "Artifacts/Card_artifact_vourukasha.png",
+            "image_file": "Card_artifact_vourukasha.png",
             "tags": [
                 "Artifact"
             ],
@@ -2120,7 +2120,7 @@
         {
             "code_key": 328,
             "display_name": "Card_Name_VeteransVisage",
-            "image_file": "Artifacts/Card_artifact_veteransvisage.png",
+            "image_file": "Card_artifact_veteransvisage.png",
             "tags": [
                 "Artifact"
             ],
@@ -2129,7 +2129,7 @@
         {
             "code_key": 385,
             "display_name": "Card_Name_MarechausseeHunter",
-            "image_file": "Artifacts/Card_artifact_marechausseehunter.png",
+            "image_file": "Card_artifact_marechausseehunter.png",
             "tags": [
                 "Artifact"
             ],
@@ -2138,7 +2138,7 @@
         {
             "code_key": 343,
             "display_name": "Card_Name_GoldenTroupesReward",
-            "image_file": "Artifacts/Card_artifact_goldentroupereward.png",
+            "image_file": "Card_artifact_goldentroupereward.png",
             "tags": [
                 "Artifact"
             ],
@@ -2147,7 +2147,7 @@
         {
             "code_key": 386,
             "display_name": "Card_Name_GoldenTroupe",
-            "image_file": "Artifacts/Card_artifact_goldentroupe.png",
+            "image_file": "Card_artifact_goldentroupe.png",
             "tags": [
                 "Artifact"
             ],
@@ -2156,25 +2156,27 @@
         {
             "code_key": 356,
             "display_name": "Card_Name_AmethystCrown",
-            "image_file": "Artifacts/Card_artifact_amethystcrown.png",
+            "image_file": "Card_artifact_amethystcrown.png",
             "tags": [
                 "Artifact"
             ],
+            "element": "Dendro",
             "description": "Card_Description_AmethystCrown"
         },
         {
             "code_key": 387,
             "display_name": "Card_Name_FlowerOfParadistLost",
-            "image_file": "Artifacts/Card_artifact_fopl.png",
+            "image_file": "Card_artifact_fopl.png",
             "tags": [
                 "Artifact"
             ],
+            "element": "Dendro",
             "description": "Card_Description_FlowerOfParadistLost"
         },
         {
             "code_key": 165,
             "display_name": "Card_Name_BrokenRimesEcho",
-            "image_file": "Artifacts/Card_artifact_cryosmall.png",
+            "image_file": "Card_artifact_cryosmall.png",
             "tags": [
                 "Artifact"
             ],
@@ -2184,7 +2186,7 @@
         {
             "code_key": 166,
             "display_name": "Card_Name_BlizzardStrayer",
-            "image_file": "Artifacts/Card_artifact_cryolarge.png",
+            "image_file": "Card_artifact_cryolarge.png",
             "tags": [
                 "Artifact"
             ],
@@ -2194,7 +2196,7 @@
         {
             "code_key": 167,
             "display_name": "Card_Name_Wind-StainedTricorne",
-            "image_file": "Artifacts/Card_artifact_hydrosmall.png",
+            "image_file": "Card_artifact_hydrosmall.png",
             "tags": [
                 "Artifact"
             ],
@@ -2204,7 +2206,7 @@
         {
             "code_key": 168,
             "display_name": "Card_Name_HeartofDepth",
-            "image_file": "Artifacts/Card_artifact_hydrolarge.png",
+            "image_file": "Card_artifact_hydrolarge.png",
             "tags": [
                 "Artifact"
             ],
@@ -2214,7 +2216,7 @@
         {
             "code_key": 169,
             "display_name": "Card_Name_WitchsScorchingHat",
-            "image_file": "Artifacts/Card_artifact_pyrosmall.png",
+            "image_file": "Card_artifact_pyrosmall.png",
             "tags": [
                 "Artifact"
             ],
@@ -2224,7 +2226,7 @@
         {
             "code_key": 170,
             "display_name": "Card_Name_CrimsonWitchofFlames",
-            "image_file": "Artifacts/Card_artifact_pyrolarge.png",
+            "image_file": "Card_artifact_pyrolarge.png",
             "tags": [
                 "Artifact"
             ],
@@ -2234,7 +2236,7 @@
         {
             "code_key": 171,
             "display_name": "Card_Name_ThunderSummonersCrown",
-            "image_file": "Artifacts/Card_artifact_electrosmall.png",
+            "image_file": "Card_artifact_electrosmall.png",
             "tags": [
                 "Artifact"
             ],
@@ -2244,7 +2246,7 @@
         {
             "code_key": 172,
             "display_name": "Card_Name_ThunderingFury",
-            "image_file": "Artifacts/Card_artifact_electrolarge.png",
+            "image_file": "Card_artifact_electrolarge.png",
             "tags": [
                 "Artifact"
             ],
@@ -2254,7 +2256,7 @@
         {
             "code_key": 173,
             "display_name": "Card_Name_ViridescentVenerersDiadem",
-            "image_file": "Artifacts/Card_artifact_anemosmall.png",
+            "image_file": "Card_artifact_anemosmall.png",
             "tags": [
                 "Artifact"
             ],
@@ -2264,7 +2266,7 @@
         {
             "code_key": 174,
             "display_name": "Card_Name_ViridescentVenerer",
-            "image_file": "Artifacts/Card_artifact_anemolarge.png",
+            "image_file": "Card_artifact_anemolarge.png",
             "tags": [
                 "Artifact"
             ],
@@ -2274,7 +2276,7 @@
         {
             "code_key": 175,
             "display_name": "Card_Name_MaskofSolitudeBasalt",
-            "image_file": "Artifacts/Card_artifact_geosmall.png",
+            "image_file": "Card_artifact_geosmall.png",
             "tags": [
                 "Artifact"
             ],
@@ -2284,7 +2286,7 @@
         {
             "code_key": 176,
             "display_name": "Card_Name_ArchaicPetra",
-            "image_file": "Artifacts/Card_artifact_geolarge.png",
+            "image_file": "Card_artifact_geolarge.png",
             "tags": [
                 "Artifact"
             ],
@@ -2294,7 +2296,7 @@
         {
             "code_key": 177,
             "display_name": "Card_Name_LaurelCoronet",
-            "image_file": "Artifacts/Card_artifact_dendrosmall.png",
+            "image_file": "Card_artifact_dendrosmall.png",
             "tags": [
                 "Artifact"
             ],
@@ -2304,7 +2306,7 @@
         {
             "code_key": 178,
             "display_name": "Card_Name_DeepwoodMemories",
-            "image_file": "Artifacts/Card_artifact_dendrolarge.png",
+            "image_file": "Card_artifact_dendrolarge.png",
             "tags": [
                 "Artifact"
             ],
@@ -2314,7 +2316,7 @@
         {
             "code_key": 179,
             "display_name": "Card_Name_LiyueHarborWharf",
-            "image_file": "Locations/Card_location_liyuewharf.png",
+            "image_file": "Card_location_liyuewharf.png",
             "tags": [
                 "Location"
             ],
@@ -2323,7 +2325,7 @@
         {
             "code_key": 180,
             "display_name": "Card_Name_KnightsofFavoniusLibrary",
-            "image_file": "Locations/Card_location_favoniuslibrary.png",
+            "image_file": "Card_location_favoniuslibrary.png",
             "tags": [
                 "Location"
             ],
@@ -2332,7 +2334,7 @@
         {
             "code_key": 181,
             "display_name": "Card_Name_JadeChamber",
-            "image_file": "Locations/Card_location_jadechamber.png",
+            "image_file": "Card_location_jadechamber.png",
             "tags": [
                 "Location"
             ],
@@ -2341,7 +2343,7 @@
         {
             "code_key": 182,
             "display_name": "Card_Name_DawnWinery",
-            "image_file": "Locations/Card_location_dawnwinery.png",
+            "image_file": "Card_location_dawnwinery.png",
             "tags": [
                 "Location"
             ],
@@ -2350,7 +2352,7 @@
         {
             "code_key": 183,
             "display_name": "Card_Name_WangshuInn",
-            "image_file": "Locations/Card_location_wangshuinn.png",
+            "image_file": "Card_location_wangshuinn.png",
             "tags": [
                 "Location"
             ],
@@ -2359,7 +2361,7 @@
         {
             "code_key": 184,
             "display_name": "Card_Name_FavoniusCathedral",
-            "image_file": "Locations/Card_location_favoniuscathedral.png",
+            "image_file": "Card_location_favoniuscathedral.png",
             "tags": [
                 "Location"
             ],
@@ -2368,7 +2370,7 @@
         {
             "code_key": 185,
             "display_name": "Card_Name_Tenshukaku",
-            "image_file": "Locations/Card_location_tenshukaku.png",
+            "image_file": "Card_location_tenshukaku.png",
             "tags": [
                 "Location"
             ],
@@ -2377,7 +2379,7 @@
         {
             "code_key": 186,
             "display_name": "Card_Name_GrandNarukamiShrine",
-            "image_file": "Locations/Card_location_narukamishrine.png",
+            "image_file": "Card_location_narukamishrine.png",
             "tags": [
                 "Location"
             ],
@@ -2386,7 +2388,7 @@
         {
             "code_key": 187,
             "display_name": "Card_Name_SangonomiyaShrine",
-            "image_file": "Locations/Card_location_sangonomiyashrine.png",
+            "image_file": "Card_location_sangonomiyashrine.png",
             "tags": [
                 "Location"
             ],
@@ -2395,7 +2397,7 @@
         {
             "code_key": 188,
             "display_name": "Card_Name_SumeruCity",
-            "image_file": "Locations/Card_location_sumerucity.png",
+            "image_file": "Card_location_sumerucity.png",
             "tags": [
                 "Location"
             ],
@@ -2404,7 +2406,7 @@
         {
             "code_key": 189,
             "display_name": "Card_Name_Vanarana",
-            "image_file": "Locations/Card_location_vanarana.png",
+            "image_file": "Card_location_vanarana.png",
             "tags": [
                 "Location"
             ],
@@ -2413,7 +2415,7 @@
         {
             "code_key": 190,
             "display_name": "Card_Name_ChinjuForest",
-            "image_file": "Locations/Card_location_chinjuforest.png",
+            "image_file": "Card_location_chinjuforest.png",
             "tags": [
                 "Location"
             ],
@@ -2422,7 +2424,7 @@
         {
             "code_key": 191,
             "display_name": "Card_Name_GoldenHouse",
-            "image_file": "Locations/Card_location_goldenhouse.png",
+            "image_file": "Card_location_goldenhouse.png",
             "tags": [
                 "Location"
             ],
@@ -2431,7 +2433,7 @@
         {
             "code_key": 192,
             "display_name": "Card_Name_GandharvaVille",
-            "image_file": "Locations/Card_location_ghandarvaville.png",
+            "image_file": "Card_location_ghandarvaville.png",
             "tags": [
                 "Location"
             ],
@@ -2440,7 +2442,7 @@
         {
             "code_key": 193,
             "display_name": "Card_Name_StormterrorsLair",
-            "image_file": "Locations/Card_location_stormterrorslair.png",
+            "image_file": "Card_location_stormterrorslair.png",
             "tags": [
                 "Location"
             ],
@@ -2449,7 +2451,7 @@
         {
             "code_key": 309,
             "display_name": "Card_Name_WeepingWillowoftheLake",
-            "image_file": "Locations/Card_location_willow.png",
+            "image_file": "Card_location_willow.png",
             "tags": [
                 "Location"
             ],
@@ -2458,7 +2460,7 @@
         {
             "code_key": 310,
             "display_name": "Card_Name_OperaEpiclese",
-            "image_file": "Locations/Card_location_operaepiclese.png",
+            "image_file": "Card_location_operaepiclese.png",
             "tags": [
                 "Location"
             ],
@@ -2467,7 +2469,7 @@
         {
             "code_key": 344,
             "display_name": "Card_Name_FortressofMeropide",
-            "image_file": "Locations/Card_location_fortressofmeropide.png",
+            "image_file": "Card_location_fortressofmeropide.png",
             "tags": [
                 "Location"
             ],
@@ -2476,7 +2478,7 @@
         {
             "code_key": 357,
             "display_name": "Card_Name_SeiraiIsland",
-            "image_file": "Locations/Card_location_seiraiisland.png",
+            "image_file": "Card_location_seiraiisland.png",
             "tags": [
                 "Location"
             ],
@@ -2485,7 +2487,7 @@
         {
             "code_key": 388,
             "display_name": "Card_Name_Mausoleum",
-            "image_file": "Locations/Card_location_mausoleum.png",
+            "image_file": "Card_location_mausoleum.png",
             "tags": [
                 "Location"
             ],
@@ -2494,7 +2496,7 @@
         {
             "code_key": 389,
             "display_name": "Card_Name_CentralLaboratoryRuins",
-            "image_file": "Locations/Card_location_laboratory.png",
+            "image_file": "Card_location_laboratory.png",
             "tags": [
                 "Location"
             ],
@@ -2503,7 +2505,7 @@
         {
             "code_key": 194,
             "display_name": "Card_Name_Paimon",
-            "image_file": "Companions/Card_companion_paimon.png",
+            "image_file": "Card_companion_paimon.png",
             "tags": [
                 "Companion"
             ],
@@ -2512,7 +2514,7 @@
         {
             "code_key": 195,
             "display_name": "Card_Name_Katheryne",
-            "image_file": "Companions/Card_companion_katheryne.png",
+            "image_file": "Card_companion_katheryne.png",
             "tags": [
                 "Companion"
             ],
@@ -2521,7 +2523,7 @@
         {
             "code_key": 196,
             "display_name": "Card_Name_Timaeus",
-            "image_file": "Companions/Card_companion_timaeus.png",
+            "image_file": "Card_companion_timaeus.png",
             "tags": [
                 "Companion"
             ],
@@ -2530,7 +2532,7 @@
         {
             "code_key": 197,
             "display_name": "Card_Name_Wagner",
-            "image_file": "Companions/Card_companion_wagner.png",
+            "image_file": "Card_companion_wagner.png",
             "tags": [
                 "Companion"
             ],
@@ -2539,7 +2541,7 @@
         {
             "code_key": 198,
             "display_name": "Card_Name_ChefMao",
-            "image_file": "Companions/Card_companion_chefmao.png",
+            "image_file": "Card_companion_chefmao.png",
             "tags": [
                 "Companion"
             ],
@@ -2548,7 +2550,7 @@
         {
             "code_key": 199,
             "display_name": "Card_Name_Tubby",
-            "image_file": "Companions/Card_companion_tubby.png",
+            "image_file": "Card_companion_tubby.png",
             "tags": [
                 "Companion"
             ],
@@ -2557,7 +2559,7 @@
         {
             "code_key": 200,
             "display_name": "Card_Name_Timmie",
-            "image_file": "Companions/Card_companion_timmie.png",
+            "image_file": "Card_companion_timmie.png",
             "tags": [
                 "Companion"
             ],
@@ -2566,7 +2568,7 @@
         {
             "code_key": 201,
             "display_name": "Card_Name_Liben",
-            "image_file": "Companions/Card_companion_liben.png",
+            "image_file": "Card_companion_liben.png",
             "tags": [
                 "Companion"
             ],
@@ -2575,7 +2577,7 @@
         {
             "code_key": 202,
             "display_name": "Card_Name_ChangtheNinth",
-            "image_file": "Companions/Card_companion_chang.png",
+            "image_file": "Card_companion_chang.png",
             "tags": [
                 "Companion"
             ],
@@ -2584,7 +2586,7 @@
         {
             "code_key": 203,
             "display_name": "Card_Name_Ellin",
-            "image_file": "Companions/Card_companion_ellin.png",
+            "image_file": "Card_companion_ellin.png",
             "tags": [
                 "Companion"
             ],
@@ -2593,7 +2595,7 @@
         {
             "code_key": 204,
             "display_name": "Card_Name_IronTongueTian",
-            "image_file": "Companions/Card_companion_tian.png",
+            "image_file": "Card_companion_tian.png",
             "tags": [
                 "Companion"
             ],
@@ -2602,7 +2604,7 @@
         {
             "code_key": 205,
             "display_name": "Card_Name_LiuSu",
-            "image_file": "Companions/Card_companion_liusu.png",
+            "image_file": "Card_companion_liusu.png",
             "tags": [
                 "Companion"
             ],
@@ -2611,7 +2613,7 @@
         {
             "code_key": 206,
             "display_name": "Card_Name_Hanachirusato",
-            "image_file": "Companions/Card_companion_hanachirusato.png",
+            "image_file": "Card_companion_hanachirusato.png",
             "tags": [
                 "Companion"
             ],
@@ -2620,7 +2622,7 @@
         {
             "code_key": 207,
             "display_name": "Card_Name_KidKujirai",
-            "image_file": "Companions/Card_companion_kidkujirai.png",
+            "image_file": "Card_companion_kidkujirai.png",
             "tags": [
                 "Companion"
             ],
@@ -2629,7 +2631,7 @@
         {
             "code_key": 208,
             "display_name": "Card_Name_Xudong",
-            "image_file": "Companions/Card_companion_xudong.png",
+            "image_file": "Card_companion_xudong.png",
             "tags": [
                 "Companion"
             ],
@@ -2638,7 +2640,7 @@
         {
             "code_key": 209,
             "display_name": "Card_Name_Dunyarzad",
-            "image_file": "Companions/Card_companion_dunyazhard.png",
+            "image_file": "Card_companion_dunyazhard.png",
             "tags": [
                 "Companion"
             ],
@@ -2647,7 +2649,7 @@
         {
             "code_key": 210,
             "display_name": "Card_Name_Rana",
-            "image_file": "Companions/Card_companion_rana.png",
+            "image_file": "Card_companion_rana.png",
             "tags": [
                 "Companion"
             ],
@@ -2656,7 +2658,7 @@
         {
             "code_key": 211,
             "display_name": "Card_Name_MasterZhang",
-            "image_file": "Companions/Card_companion_masterzhang.png",
+            "image_file": "Card_companion_masterzhang.png",
             "tags": [
                 "Companion"
             ],
@@ -2665,7 +2667,7 @@
         {
             "code_key": 212,
             "display_name": "Card_Name_Setaria",
-            "image_file": "Companions/Card_companion_setaria.png",
+            "image_file": "Card_companion_setaria.png",
             "tags": [
                 "Companion"
             ],
@@ -2674,7 +2676,7 @@
         {
             "code_key": 213,
             "display_name": "Card_Name_YayoiNanatsuki",
-            "image_file": "Companions/Card_companion_yayoi.png",
+            "image_file": "Card_companion_yayoi.png",
             "tags": [
                 "Companion"
             ],
@@ -2683,7 +2685,7 @@
         {
             "code_key": 311,
             "display_name": "Card_Name_Mamere",
-            "image_file": "Companions/Card_companion_mamere.png",
+            "image_file": "Card_companion_mamere.png",
             "tags": [
                 "Companion"
             ],
@@ -2692,7 +2694,7 @@
         {
             "code_key": 329,
             "display_name": "Card_Name_Jeht",
-            "image_file": "Companions/Card_companion_jeht.png",
+            "image_file": "Card_companion_jeht.png",
             "tags": [
                 "Companion"
             ],
@@ -2701,7 +2703,7 @@
         {
             "code_key": 330,
             "display_name": "Card_Name_SilverandMelus",
-            "image_file": "Companions/Card_companion_silvermelus.png",
+            "image_file": "Card_companion_silvermelus.png",
             "tags": [
                 "Companion"
             ],
@@ -2710,7 +2712,7 @@
         {
             "code_key": 358,
             "display_name": "Card_Name_Taroumaru",
-            "image_file": "Companions/Card_companion_taroumaru.png",
+            "image_file": "Card_companion_taroumaru.png",
             "tags": [
                 "Companion"
             ],
@@ -2719,7 +2721,7 @@
         {
             "code_key": 359,
             "display_name": "Card_Name_WhiteGloveFisherman",
-            "image_file": "Companions/Card_companion_whiteglovefisherman.png",
+            "image_file": "Card_companion_whiteglovefisherman.png",
             "tags": [
                 "Companion"
             ],
@@ -2728,7 +2730,7 @@
         {
             "code_key": 390,
             "display_name": "Card_Name_SirArthur",
-            "image_file": "Companions/Card_companion_sirarthur.png",
+            "image_file": "Card_companion_sirarthur.png",
             "tags": [
                 "Companion"
             ],
@@ -2737,7 +2739,7 @@
         {
             "code_key": 214,
             "display_name": "Card_Name_ParametricTransformer",
-            "image_file": "Items/Card_item_parametric.png",
+            "image_file": "Card_item_parametric.png",
             "tags": [
                 "Item"
             ],
@@ -2746,7 +2748,7 @@
         {
             "code_key": 215,
             "display_name": "Card_Name_NRE",
-            "image_file": "Items/Card_item_nre.png",
+            "image_file": "Card_item_nre.png",
             "tags": [
                 "Item"
             ],
@@ -2755,7 +2757,7 @@
         {
             "code_key": 216,
             "display_name": "Card_Name_RedFeatherFan",
-            "image_file": "Items/Card_item_redfeatherfan.png",
+            "image_file": "Card_item_redfeatherfan.png",
             "tags": [
                 "Item"
             ],
@@ -2764,7 +2766,7 @@
         {
             "code_key": 217,
             "display_name": "Card_Name_Treasure-SeekingSeelie",
-            "image_file": "Items/Card_item_seelie.png",
+            "image_file": "Card_item_seelie.png",
             "tags": [
                 "Item"
             ],
@@ -2773,7 +2775,7 @@
         {
             "code_key": 312,
             "display_name": "Card_Name_SeedDispensary",
-            "image_file": "Items/Card_item_seeddispensary.png",
+            "image_file": "Card_item_seeddispensary.png",
             "tags": [
                 "Item"
             ],
@@ -2782,7 +2784,7 @@
         {
             "code_key": 313,
             "display_name": "Card_Name_MementoLens",
-            "image_file": "Items/Card_item_mementolens.png",
+            "image_file": "Card_item_mementolens.png",
             "tags": [
                 "Item"
             ],
@@ -2791,7 +2793,7 @@
         {
             "code_key": 345,
             "display_name": "Card_Name_LumenstoneAdjuvant",
-            "image_file": "Items/Card_item_lumenstone.png",
+            "image_file": "Card_item_lumenstone.png",
             "tags": [
                 "Item"
             ],
@@ -2800,7 +2802,7 @@
         {
             "code_key": 345,
             "display_name": "Card_Name_Kusava",
-            "image_file": "Items/Card_item_kusava.png",
+            "image_file": "Card_item_kusava.png",
             "tags": [
                 "Item"
             ],
@@ -2809,7 +2811,7 @@
         {
             "code_key": 218,
             "display_name": "Card_Name_AncientCourtyard",
-            "image_file": "Arcane/Card_arcane_ancientcourtyard.png",
+            "image_file": "Card_arcane_ancientcourtyard.png",
             "tags": [
                 "Arcane"
             ],
@@ -2818,7 +2820,7 @@
         {
             "code_key": 219,
             "display_name": "Card_Name_CovenantofRock",
-            "image_file": "Arcane/Card_arcane_covenant.png",
+            "image_file": "Card_arcane_covenant.png",
             "tags": [
                 "Arcane"
             ],
@@ -2827,7 +2829,7 @@
         {
             "code_key": 220,
             "display_name": "Card_Name_JoyousCelebration",
-            "image_file": "Arcane/Card_arcane_joyouscelebration.png",
+            "image_file": "Card_arcane_joyouscelebration.png",
             "tags": [
                 "Arcane"
             ],
@@ -2836,7 +2838,7 @@
         {
             "code_key": 221,
             "display_name": "Card_Name_FreshWindofFreedom",
-            "image_file": "Arcane/Card_arcane_fwof.png",
+            "image_file": "Card_arcane_fwof.png",
             "tags": [
                 "Arcane"
             ],
@@ -2845,7 +2847,7 @@
         {
             "code_key": 222,
             "display_name": "Card_Name_InEveryHouseaStove",
-            "image_file": "Arcane/Card_arcane_stove.png",
+            "image_file": "Card_arcane_stove.png",
             "tags": [
                 "Arcane"
             ],
@@ -2854,7 +2856,7 @@
         {
             "code_key": 314,
             "display_name": "Card_Name_PassingofJudgement",
-            "image_file": "Arcane/Card_arcane_judgement.png",
+            "image_file": "Card_arcane_judgement.png",
             "tags": [
                 "Arcane"
             ],
@@ -2863,7 +2865,7 @@
         {
             "code_key": 346,
             "display_name": "Card_Name_DayofResistance:MomentofShatteredDreams",
-            "image_file": "Arcane/Card_arcane_dayofresistance.png",
+            "image_file": "Card_arcane_dayofresistance.png",
             "tags": [
                 "Arcane"
             ],
@@ -2872,7 +2874,7 @@
         {
             "code_key": 392,
             "display_name": "Card_Name_ViciousAncientBattle",
-            "image_file": "Arcane/Card_arcane_viciousancientbattle.png",
+            "image_file": "Card_arcane_viciousancientbattle.png",
             "tags": [
                 "Arcane"
             ],
@@ -2881,7 +2883,7 @@
         {
             "code_key": 223,
             "display_name": "Card_Name_ElementalResonance:WovenIce",
-            "image_file": "Resonance/Card_woven_cryo.png",
+            "image_file": "Card_woven_cryo.png",
             "tags": [
                 "Event"
             ],
@@ -2891,7 +2893,7 @@
         {
             "code_key": 224,
             "display_name": "Card_Name_ElementalResonance:ShatteringIce",
-            "image_file": "Resonance/Card_resonance_cryo.png",
+            "image_file": "Card_resonance_cryo.png",
             "tags": [
                 "Event"
             ],
@@ -2901,7 +2903,7 @@
         {
             "code_key": 225,
             "display_name": "Card_Name_ElementalResonance:WovenWaters",
-            "image_file": "Resonance/Card_woven_hydro.png",
+            "image_file": "Card_woven_hydro.png",
             "tags": [
                 "Event"
             ],
@@ -2911,7 +2913,7 @@
         {
             "code_key": 226,
             "display_name": "Card_Name_ElementalResonance:SoothingWaters",
-            "image_file": "Resonance/Card_resonance_hydro.png",
+            "image_file": "Card_resonance_hydro.png",
             "tags": [
                 "Event"
             ],
@@ -2921,7 +2923,7 @@
         {
             "code_key": 227,
             "display_name": "Card_Name_ElementalResonance:WovenFlames",
-            "image_file": "Resonance/Card_woven_pyro.png",
+            "image_file": "Card_woven_pyro.png",
             "tags": [
                 "Event"
             ],
@@ -2931,7 +2933,7 @@
         {
             "code_key": 228,
             "display_name": "Card_Name_ElementalResonance:FerventFlames",
-            "image_file": "Resonance/Card_resonance_pyro.png",
+            "image_file": "Card_resonance_pyro.png",
             "tags": [
                 "Event"
             ],
@@ -2941,7 +2943,7 @@
         {
             "code_key": 229,
             "display_name": "Card_Name_ElementalResonance:WovenThunder",
-            "image_file": "Resonance/Card_woven_electro.png",
+            "image_file": "Card_woven_electro.png",
             "tags": [
                 "Event"
             ],
@@ -2951,7 +2953,7 @@
         {
             "code_key": 230,
             "display_name": "Card_Name_ElementalResonance:HighVoltage",
-            "image_file": "Resonance/Card_resonance_electro.png",
+            "image_file": "Card_resonance_electro.png",
             "tags": [
                 "Event"
             ],
@@ -2961,7 +2963,7 @@
         {
             "code_key": 231,
             "display_name": "Card_Name_ElementalResonance:WovenWinds",
-            "image_file": "Resonance/Card_woven_anemo.png",
+            "image_file": "Card_woven_anemo.png",
             "tags": [
                 "Event"
             ],
@@ -2971,7 +2973,7 @@
         {
             "code_key": 232,
             "display_name": "Card_Name_ElementalResonance:ImpetuousWinds",
-            "image_file": "Resonance/Card_resonance_anemo.png",
+            "image_file": "Card_resonance_anemo.png",
             "tags": [
                 "Event"
             ],
@@ -2981,7 +2983,7 @@
         {
             "code_key": 233,
             "display_name": "Card_Name_ElementalResonance:WovenStone",
-            "image_file": "Resonance/Card_woven_geo.png",
+            "image_file": "Card_woven_geo.png",
             "tags": [
                 "Event"
             ],
@@ -2991,7 +2993,7 @@
         {
             "code_key": 234,
             "display_name": "Card_Name_ElementalResonance:EnduringRock",
-            "image_file": "Resonance/Card_resonance_geo.png",
+            "image_file": "Card_resonance_geo.png",
             "tags": [
                 "Event"
             ],
@@ -3001,7 +3003,7 @@
         {
             "code_key": 235,
             "display_name": "Card_Name_ElementalResonance:WovenWeeds",
-            "image_file": "Resonance/Card_woven_dendro.png",
+            "image_file": "Card_woven_dendro.png",
             "tags": [
                 "Event"
             ],
@@ -3011,7 +3013,7 @@
         {
             "code_key": 236,
             "display_name": "Card_Name_ElementalResonance:SprawlingGreenery",
-            "image_file": "Resonance/Card_resonance_dendro.png",
+            "image_file": "Card_resonance_dendro.png",
             "tags": [
                 "Event"
             ],
@@ -3021,7 +3023,7 @@
         {
             "code_key": 237,
             "display_name": "Card_Name_WindandFreedom",
-            "image_file": "Resonance/Card_resonance_mondstadt.png",
+            "image_file": "Card_resonance_mondstadt.png",
             "tags": [
                 "Event"
             ],
@@ -3031,7 +3033,7 @@
         {
             "code_key": 238,
             "display_name": "Card_Name_StoneandContracts",
-            "image_file": "Resonance/Card_resonance_liyue.png",
+            "image_file": "Card_resonance_liyue.png",
             "tags": [
                 "Event"
             ],
@@ -3041,7 +3043,7 @@
         {
             "code_key": 239,
             "display_name": "Card_Name_ThunderandEternity",
-            "image_file": "Resonance/Card_resonance_inazuma.png",
+            "image_file": "Card_resonance_inazuma.png",
             "tags": [
                 "Event"
             ],
@@ -3051,7 +3053,7 @@
         {
             "code_key": 240,
             "display_name": "Card_Name_NatureandWisdom",
-            "image_file": "Resonance/Card_resonance_sumeru.png",
+            "image_file": "Card_resonance_sumeru.png",
             "tags": [
                 "Event"
             ],
@@ -3061,7 +3063,7 @@
         {
             "code_key": 393,
             "display_name": "Card_Name_WaterAndJustice",
-            "image_file": "Resonance/Card_resonance_fontaine.png",
+            "image_file": "Card_resonance_fontaine.png",
             "tags": [
                 "Event"
             ],
@@ -3071,7 +3073,7 @@
         {
             "code_key": 241,
             "display_name": "Card_Name_TheBestestTravelCompanion!",
-            "image_file": "Events/Card_bestest.png",
+            "image_file": "Card_bestest.png",
             "tags": [
                 "Event"
             ],
@@ -3080,7 +3082,7 @@
         {
             "code_key": 242,
             "display_name": "Card_Name_ChangingShifts",
-            "image_file": "Events/Card_changingshifts.png",
+            "image_file": "Card_changingshifts.png",
             "tags": [
                 "Event"
             ],
@@ -3089,7 +3091,7 @@
         {
             "code_key": 243,
             "display_name": "Card_Name_Toss-Up",
-            "image_file": "Events/Card_tossup.png",
+            "image_file": "Card_tossup.png",
             "tags": [
                 "Event"
             ],
@@ -3098,7 +3100,7 @@
         {
             "code_key": 244,
             "display_name": "Card_Name_Strategize",
-            "image_file": "Events/Card_strategize.png",
+            "image_file": "Card_strategize.png",
             "tags": [
                 "Event"
             ],
@@ -3107,7 +3109,7 @@
         {
             "code_key": 245,
             "display_name": "Card_Name_IHaventLostYet!",
-            "image_file": "Events/Card_ihly.png",
+            "image_file": "Card_ihly.png",
             "tags": [
                 "Event"
             ],
@@ -3116,7 +3118,7 @@
         {
             "code_key": 246,
             "display_name": "Card_Name_LeaveIttoMe!",
-            "image_file": "Events/Card_litm.png",
+            "image_file": "Card_litm.png",
             "tags": [
                 "Event"
             ],
@@ -3125,7 +3127,7 @@
         {
             "code_key": 247,
             "display_name": "Card_Name_WhentheCraneReturned",
-            "image_file": "Events/Card_whenthecranereturned.png",
+            "image_file": "Card_whenthecranereturned.png",
             "tags": [
                 "Event"
             ],
@@ -3134,7 +3136,7 @@
         {
             "code_key": 248,
             "display_name": "Card_Name_Starsigns",
-            "image_file": "Events/Card_starsigns.png",
+            "image_file": "Card_starsigns.png",
             "tags": [
                 "Event"
             ],
@@ -3143,7 +3145,7 @@
         {
             "code_key": 249,
             "display_name": "Card_Name_CalxsArts",
-            "image_file": "Events/Card_calxarts.png",
+            "image_file": "Card_calxarts.png",
             "tags": [
                 "Event"
             ],
@@ -3152,7 +3154,7 @@
         {
             "code_key": 250,
             "display_name": "Card_Name_MasterofWeaponry",
-            "image_file": "Events/Card_masterofweaponry.png",
+            "image_file": "Card_masterofweaponry.png",
             "tags": [
                 "Event"
             ],
@@ -3161,7 +3163,7 @@
         {
             "code_key": 251,
             "display_name": "Card_Name_BlessingoftheDivineRelicsInstallation",
-            "image_file": "Events/Card_divinerelic.png",
+            "image_file": "Card_divinerelic.png",
             "tags": [
                 "Event"
             ],
@@ -3170,7 +3172,7 @@
         {
             "code_key": 252,
             "display_name": "Card_Name_QuickKnit",
-            "image_file": "Events/Card_quickknit.png",
+            "image_file": "Card_quickknit.png",
             "tags": [
                 "Event"
             ],
@@ -3179,7 +3181,7 @@
         {
             "code_key": 253,
             "display_name": "Card_Name_SendOff",
-            "image_file": "Events/Card_sendoff.png",
+            "image_file": "Card_sendoff.png",
             "tags": [
                 "Event"
             ],
@@ -3188,7 +3190,7 @@
         {
             "code_key": 254,
             "display_name": "Card_Name_GuardiansOath",
-            "image_file": "Events/Card_guardiansoath.png",
+            "image_file": "Card_guardiansoath.png",
             "tags": [
                 "Event"
             ],
@@ -3197,7 +3199,7 @@
         {
             "code_key": 255,
             "display_name": "Card_Name_AbyssalSummons",
-            "image_file": "Resonance/Card_resonance_abyss.png",
+            "image_file": "Card_resonance_abyss.png",
             "tags": [
                 "Event"
             ],
@@ -3207,7 +3209,7 @@
         {
             "code_key": 256,
             "display_name": "Card_Name_FatuiConspiracy",
-            "image_file": "Resonance/Card_resonance_fatui.png",
+            "image_file": "Card_resonance_fatui.png",
             "tags": [
                 "Event"
             ],
@@ -3217,7 +3219,7 @@
         {
             "code_key": 257,
             "display_name": "Card_Name_PlungingStrike",
-            "image_file": "Events/Card_plungingstrike.png",
+            "image_file": "Card_plungingstrike.png",
             "tags": [
                 "Event"
             ],
@@ -3226,7 +3228,7 @@
         {
             "code_key": 258,
             "display_name": "Card_Name_HeavyStrike",
-            "image_file": "Events/Card_heavystrike.png",
+            "image_file": "Card_heavystrike.png",
             "tags": [
                 "Event"
             ],
@@ -3235,7 +3237,7 @@
         {
             "code_key": 259,
             "display_name": "Card_Name_TheLegendofVenessa",
-            "image_file": "Events/Card_legendofvanessa.png",
+            "image_file": "Card_legendofvanessa.png",
             "tags": [
                 "Event"
             ],
@@ -3244,7 +3246,7 @@
         {
             "code_key": 260,
             "display_name": "Card_Name_FriendshipEternal",
-            "image_file": "Events/Card_friendshipeternal.png",
+            "image_file": "Card_friendshipeternal.png",
             "tags": [
                 "Event"
             ],
@@ -3253,7 +3255,7 @@
         {
             "code_key": 261,
             "display_name": "Card_Name_RhythmoftheGreatDream",
-            "image_file": "Events/Card_rhythm.png",
+            "image_file": "Card_rhythm.png",
             "tags": [
                 "Event"
             ],
@@ -3262,7 +3264,7 @@
         {
             "code_key": 262,
             "display_name": "Card_Name_WhereIstheUnseenRazor",
-            "image_file": "Events/Card_unseenrazor.png",
+            "image_file": "Card_unseenrazor.png",
             "tags": [
                 "Event"
             ],
@@ -3271,7 +3273,7 @@
         {
             "code_key": 263,
             "display_name": "Card_Name_Pankration!",
-            "image_file": "Events/Card_pankration.png",
+            "image_file": "Card_pankration.png",
             "tags": [
                 "Event"
             ],
@@ -3280,7 +3282,7 @@
         {
             "code_key": 264,
             "display_name": "Card_Name_Lyresong",
-            "image_file": "Events/Card_lyresong.png",
+            "image_file": "Card_lyresong.png",
             "tags": [
                 "Event"
             ],
@@ -3289,7 +3291,7 @@
         {
             "code_key": 315,
             "display_name": "Card_Name_TheBoarPrincess",
-            "image_file": "Events/Card_boarprincess.png",
+            "image_file": "Card_boarprincess.png",
             "tags": [
                 "Event"
             ],
@@ -3298,7 +3300,7 @@
         {
             "code_key": 316,
             "display_name": "Card_Name_FallsandFortune",
-            "image_file": "Events/Card_fallsandfortune.png",
+            "image_file": "Card_fallsandfortune.png",
             "tags": [
                 "Event"
             ],
@@ -3307,7 +3309,7 @@
         {
             "code_key": 317,
             "display_name": "Card_Name_FlickeringFour-LeafSigil",
-            "image_file": "Events/Card_fourleafsigil.png",
+            "image_file": "Card_fourleafsigil.png",
             "tags": [
                 "Event"
             ],
@@ -3316,7 +3318,7 @@
         {
             "code_key": 331,
             "display_name": "Card_Name_MachineAssemblyLine",
-            "image_file": "Events/Card_machineassemblyline.png",
+            "image_file": "Card_machineassemblyline.png",
             "tags": [
                 "Event"
             ],
@@ -3325,7 +3327,7 @@
         {
             "code_key": 332,
             "display_name": "Card_Name_SunyataFlower",
-            "image_file": "Events/Card_sunyataflower.png",
+            "image_file": "Card_sunyataflower.png",
             "tags": [
                 "Event"
             ],
@@ -3334,7 +3336,7 @@
         {
             "code_key": 347,
             "display_name": "Card_Name_ControlledDirectionalBlast",
-            "image_file": "Events/Card_controlleddirectionalblast.png",
+            "image_file": "Card_controlleddirectionalblast.png",
             "tags": [
                 "Event"
             ],
@@ -3343,7 +3345,7 @@
         {
             "code_key": 360,
             "display_name": "Card_Name_UnderwaterTreasureHunt",
-            "image_file": "Events/Card_underwatertreasurehunt.png",
+            "image_file": "Card_underwatertreasurehunt.png",
             "tags": [
                 "Event"
             ],
@@ -3352,7 +3354,7 @@
         {
             "code_key": 360,
             "display_name": "Card_Name_CountdownToTheShow",
-            "image_file": "Events/Card_countdown.png",
+            "image_file": "Card_countdown.png",
             "tags": [
                 "Event"
             ],
@@ -3361,7 +3363,7 @@
         {
             "code_key": 265,
             "display_name": "Card_Name_JueyunGuoba",
-            "image_file": "Food/Card_food_jueyunguoba.png",
+            "image_file": "Card_food_jueyunguoba.png",
             "tags": [
                 "Event",
                 "Food"
@@ -3371,7 +3373,7 @@
         {
             "code_key": 266,
             "display_name": "Card_Name_AdeptusTemptation",
-            "image_file": "Food/Card_food_adeptus.png",
+            "image_file": "Card_food_adeptus.png",
             "tags": [
                 "Event",
                 "Food"
@@ -3381,7 +3383,7 @@
         {
             "code_key": 267,
             "display_name": "Card_Name_LotusFlowerCrisp",
-            "image_file": "Food/Card_food_lotuscrisp.png",
+            "image_file": "Card_food_lotuscrisp.png",
             "tags": [
                 "Event",
                 "Food"
@@ -3391,7 +3393,7 @@
         {
             "code_key": 268,
             "display_name": "Card_Name_NorthernSmokedChicken",
-            "image_file": "Food/Card_food_nsc.png",
+            "image_file": "Card_food_nsc.png",
             "tags": [
                 "Event",
                 "Food"
@@ -3401,7 +3403,7 @@
         {
             "code_key": 269,
             "display_name": "Card_Name_SweetMadame",
-            "image_file": "Food/Card_food_sweetmadame.png",
+            "image_file": "Card_food_sweetmadame.png",
             "tags": [
                 "Event",
                 "Food"
@@ -3411,7 +3413,7 @@
         {
             "code_key": 270,
             "display_name": "Card_Name_MondstadtHashBrown",
-            "image_file": "Food/Card_food_hashbrown.png",
+            "image_file": "Card_food_hashbrown.png",
             "tags": [
                 "Event",
                 "Food"
@@ -3421,7 +3423,7 @@
         {
             "code_key": 271,
             "display_name": "Card_Name_MushroomPizza",
-            "image_file": "Food/Card_food_mushroompizza.png",
+            "image_file": "Card_food_mushroompizza.png",
             "tags": [
                 "Event",
                 "Food"
@@ -3431,7 +3433,7 @@
         {
             "code_key": 272,
             "display_name": "Card_Name_MintyMeatRolls",
-            "image_file": "Food/Card_food_mintymeatrolls.png",
+            "image_file": "Card_food_mintymeatrolls.png",
             "tags": [
                 "Event",
                 "Food"
@@ -3441,7 +3443,7 @@
         {
             "code_key": 273,
             "display_name": "Card_Name_TeyvatFriedEgg",
-            "image_file": "Food/Card_food_egg.png",
+            "image_file": "Card_food_egg.png",
             "tags": [
                 "Event",
                 "Food"
@@ -3451,7 +3453,7 @@
         {
             "code_key": 274,
             "display_name": "Card_Name_SashimiPlatter",
-            "image_file": "Food/Card_food_sashimiplatter.png",
+            "image_file": "Card_food_sashimiplatter.png",
             "tags": [
                 "Event",
                 "Food"
@@ -3461,7 +3463,7 @@
         {
             "code_key": 275,
             "display_name": "Card_Name_TandooriRoastChicken",
-            "image_file": "Food/Card_food_tandoori.png",
+            "image_file": "Card_food_tandoori.png",
             "tags": [
                 "Event",
                 "Food"
@@ -3471,7 +3473,7 @@
         {
             "code_key": 276,
             "display_name": "Card_Name_ButterCrab",
-            "image_file": "Food/Card_food_buttercrab.png",
+            "image_file": "Card_food_buttercrab.png",
             "tags": [
                 "Event",
                 "Food"
@@ -3481,7 +3483,7 @@
         {
             "code_key": 318,
             "display_name": "Card_Name_FishandChips",
-            "image_file": "Food/Card_food_fishandchips.png",
+            "image_file": "Card_food_fishandchips.png",
             "tags": [
                 "Event",
                 "Food"
@@ -3491,7 +3493,7 @@
         {
             "code_key": 333,
             "display_name": "Card_Name_MatsutakeMeatRolls",
-            "image_file": "Food/Card_food_matsutakemeatrolls.png",
+            "image_file": "Card_food_matsutakemeatrolls.png",
             "tags": [
                 "Event",
                 "Food"
@@ -3501,7 +3503,7 @@
         {
             "code_key": 361,
             "display_name": "Card_Name_RainbowMacarons",
-            "image_file": "Food/Card_food_rainbowmacarons.png",
+            "image_file": "Card_food_rainbowmacarons.png",
             "tags": [
                 "Event",
                 "Food"
