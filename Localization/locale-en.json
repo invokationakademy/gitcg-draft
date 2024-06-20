@@ -2411,7 +2411,7 @@
         },
         {
             "key": "Card_Description_ViciousAncientBattle",
-            "value": "TODO"
+            "value": "The opposing active character loses 1 Energy."
         },
         {
             "key": "Card_Name_WaterAndJustice",
@@ -2419,7 +2419,7 @@
         },
         {
             "key": "Card_Description_WaterAndJustice",
-            "value": "TODO"
+            "value": "Distributes the HP of all your undefeated characters equally, and then heals all of them for 1 HP."
         },
         {
             "key": "Card_Name_CountdownToTheShow",
@@ -2427,7 +2427,7 @@
         },
         {
             "key": "Card_Description_CountdownToTheShow",
-            "value": "TODO"
+            "value": "Convert all your Elemental Dice to Omni Element and draw 4 cards.\\nAfter you Discard this card from your Hand or deck: Place 1 \"Countdown to the Show\" card that costs 1 less Elemental Die than this one on the top of your deck."
         }
     ]
 }
