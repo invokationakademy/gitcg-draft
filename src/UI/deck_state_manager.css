@@ -1,0 +1,57 @@
+div.deck-manager-box {
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+div.draft-result-box {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    color: white;
+}
+
+label.draft-result-title {
+    font-size: calc(2rem + 1vw);
+}
+
+div.draft-result-retry {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+}
+
+label.draft-result-body {
+    font-size: calc(1rem + 0.5vw);
+}
+
+label.draft-result-code {
+    width: 100%;
+    font-size: calc(0.5rem + 1vw);
+    font-family: monospace;
+    text-wrap: wrap;
+}
+
+button.draft-result-button {
+    width: fit-content;
+    height: 40px;
+    font-size: calc(1rem + 0.5vw)
+}
+
+button.draft-result-button:hover {
+    background-color: var(--highlight);
+    color: white;
+}
+
+button.draft-again-button {
+    width: fit-content;
+    font-size: calc(3rem + 1vw)
+}
+
+button.draft-again-button:hover {
+    background-color: var(--highlight);
+    color: white;
+}

@@ -50,7 +50,7 @@ interface ILocalizationContextProps {
     children: ReactNode
 }
 
-interface ILocalizationContext {
+export interface ILocalizationContext {
     languageCode: string
     setLanguage: (languageCode: string) => void
     getString: (key: string) => string

@@ -8,7 +8,6 @@
 .App {
   text-align: center;
   background-color: var(--bkgWindow);
-  height: 100vh;
 }
 
 .App-header {

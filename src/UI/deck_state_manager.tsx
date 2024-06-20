@@ -1,10 +1,13 @@
+import './deck_state_manager.css';
 import { useState, useRef } from 'react';
 
 import { Card, CharacterCard } from "../card_database/card";
-import { DeckRenderer } from './deck_renderer';
+import { DeckRenderer } from './Deck/deck_renderer';
 import { CardSelector } from './card_selector';
 import { generate_deck_code } from '../utility/deck_export';
 import { CardDatabase } from '../card_database/card_database';
+import { SocialsRenderer } from '../Socials/socials_renderer';
+
 
 const COPY_TEXT = "Copy to clipboard"
 const COPIED_TEXT = "Copied!"
@@ -56,37 +59,33 @@ export function DeckStateManager() {
     }
 
     return (
-      <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', gap: '150px' }} >
-        <div style={{ display: 'flex', flexDirection:'column', alignItems: 'center', gap: '10px'}}>
-          <label>Draft complete!</label>
-          <label style={{fontSize: '16px', fontFamily: 'monospace'}} ref={textRef}>{generate_deck_code(characters, cards, retries)}</label>
-          <label style={{fontSize: '16px'}}>If the deck code doesn't work, hit retry for a new code</label>
-          <div style={{ display: 'block', flexDirection: 'row', alignItems: 'center'}}>
-            <button style={{width: 150, height:40}} onClick={copyToClipboard}>{copyText}</button>
-            <button style={{width: 50, height:40}} onClick={incrementRetries}>Retry</button>
+      <div className="deck-manager-box">
+        <DeckRenderer characters={characters} cards={cards} width={3} />
+        <div className="draft-result-box">
+          <label className="draft-result-title">Draft complete!</label>
+          <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+            <label className="draft-result-code" ref={textRef}>{generate_deck_code(characters, cards, retries)}</label>
+            <button className="draft-result-button" onClick={copyToClipboard}>{copyText}</button>
           </div>
-          <br/>
-          <button style={{width: 100, height:40}} onClick={reset}>Draft again!</button>
+          <div className="draft-result-retry">
+            <label className="draft-result-body">If the deck code doesn't work, hit</label>
+            <button className="draft-result-button" onClick={incrementRetries}>Retry</button>
+            <label className="draft-result-body">for a new code</label>
+          </div>
+          <button className="draft-again-button" onClick={reset}>Draft again!</button>
+          <SocialsRenderer/>
         </div>
-        <DeckRenderer characters={characters} cards={cards} width={10} />
       </div>
     )
   }
 
-  let padded_chars: Array<CharacterCard | undefined> = [...characters]
-  while (padded_chars.length < 3) {
-    padded_chars.push(undefined)
-  }
-
-  let padded_cards: Array<Card | undefined> = [...cards]
-  while (padded_cards.length < 30) {
-    padded_cards.push(undefined)
-  }
-
   return (
-      <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', gap: '150px' }} >
-        <CardSelector deck_characters={characters} deck_cards={cards} addCard={addCard}/>
-        <DeckRenderer characters={padded_chars} cards={padded_cards} width={10} />
+      <div className="deck-manager-box">
+        <DeckRenderer characters={characters} cards={cards} width={3} />
+        <div style={{width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+          <CardSelector deck_characters={characters} deck_cards={cards} addCard={addCard}/>
+          <SocialsRenderer/>
+        </div>
       </div>
     )
 }

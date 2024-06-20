@@ -30,7 +30,7 @@ export function CardButton({card, addCard}: CardButtonProps) {
             <div className="cardNameBox">
                 <label className="cardName">{localizationContext.getString(card.display_name)}</label>
             </div>
-            <CardRenderer key={card.id.toString()} card={card} size={size} onClick={pickCard}/>
+            <img className="card-image" src={`${process.env.PUBLIC_URL}/assets/${card.image_file}`} alt={card.display_name} onClick={pickCard}/>
             <button className="infoButton" onClick={showCardDescription}>See description</button>
         </div>
     )

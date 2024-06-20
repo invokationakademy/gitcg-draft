@@ -1,0 +1,24 @@
+div.selector-box {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label.selector-title {
+    font-size: calc(2rem + 1vw);
+    color: white;
+}
+
+label.selector-progress {
+    font-size: calc(1rem + 1vw);
+    color: white;
+}
+
+
+div.selector-cards {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding: 10px;
+}

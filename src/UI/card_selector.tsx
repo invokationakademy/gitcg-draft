@@ -1,9 +1,7 @@
-import { useState } from 'react';
-
+import './card_selector.css'
 import { Card, CharacterCard, GIResonance, GITag } from "../card_database/card";
 import { CardDatabase } from "../card_database/card_database";
 import { CardButton } from "./card_button";
-import { SocialsRenderer } from '../Socials/socials_renderer';
 
 export interface CardSelectorProps {
     deck_characters: CharacterCard[]
@@ -16,21 +14,27 @@ const database = new CardDatabase()
 export function CardSelector({deck_characters, deck_cards, addCard}: CardSelectorProps) {
     // Check if it is the last card
     let options: Card[]
+    let title = "Pick an action card:";
     if (deck_cards.length == 29) {
         options = GetArcaneCardOptions(database)
+        title = "Pick your arcane:";
     } else if (deck_characters.length > Math.floor(deck_cards.length / 10)) {
         // Select action card if we have enough characters
         options = GetActionCardOptions(database, deck_characters, deck_cards)
     } else {
         // Select characters if we don't have enough
         options = GetCharacterOptions(database, deck_characters)
+        title = "Pick a character card:";
     }
 
     return (
-        <div style={{display: 'flex', flexDirection: 'column'}}>
-            <h3>Pick a card:</h3>
-            <div style={{display: 'flex', flexDirection: 'row', gap: '10px', padding: '10px', width: 'fit-content'}}>
-                {options.map((card) => <CardButton key={`sel-${card.id}`} card={card} addCard={addCard} />)}
+        <div className="selector-box">
+            <label className="selector-title">{title}</label>
+            <label className="selector-progress">{deck_cards.length}/30 cards chosen</label>
+            <div className="selector-cards">
+                <CardButton key={`sel-${options[0].id}`} card={options[0]} addCard={addCard} />
+                <CardButton key={`sel-${options[1].id}`} card={options[1]} addCard={addCard} />
+                <CardButton key={`sel-${options[2].id}`} card={options[2]} addCard={addCard} />
             </div>
         </div>
     )

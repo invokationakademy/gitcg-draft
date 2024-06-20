@@ -12,14 +12,8 @@ function App() {
     <LocalizationContextComponent>
       <DescriptionContextState>
         <div className="App">
-          <header className="App-header">
-            <h2>Genius Invokation Drafter (v0.4)</h2>
-            <label style={{fontSize: '20px'}}>New: Updated for Version 4.7 (mostly)! Visual update coming!!</label>
             <DeckStateManager/>
-            <br/>
-            <SocialsRenderer/>
             <DescriptionRenderer/>
-          </header>
         </div>
       </DescriptionContextState>
     </LocalizationContextComponent>

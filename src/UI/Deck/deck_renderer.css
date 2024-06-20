@@ -1,0 +1,41 @@
+div.deckrenderer-boundary {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    gap: 0.1vh;
+}
+
+div.deckrenderer-characters {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 21.2vw;
+    gap: 0.1vw
+}
+
+div.deckrenderer-cards {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    width: fit-content;
+    gap: 0.1vw
+}
+
+img.deckrenderer-characters-item {
+    aspect-ratio: 1;
+    width: 7vw;
+    object-fit: cover;
+}
+
+div.deckrenderer-cards-row {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    gap: 0.1vw
+}
+
+img.deckrenderer-cards-item {
+    aspect-ratio: 420/240;
+    width: 7vw;
+    object-fit: cover;
+}

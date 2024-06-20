@@ -9,10 +9,43 @@ a.youtube:link, a.youtube:visited {
     text-wrap: wrap;
     display: inline-block;
     width: 250px;
-    font-size: 15px;
+    font-size: calc(0.5rem + 0.5vw);
 }
   
 a.youtube:hover, a.youtube:active {
     background-color: var(--highlight);
     color: black;
+}
+
+div.socials-box {
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 5vw;
+    align-items: center;
+}
+
+div.socials-bar {
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+div.version-box {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+label.version-title {
+    width: 100%;
+    color: white;
+    font-size: calc(1.5rem + 0.5vw);
+}
+
+label.version-text {
+    width: 100%;
+    color: white;
+    font-size: calc(1.0rem + 0.5vw);
 }
