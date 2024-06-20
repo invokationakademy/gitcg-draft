@@ -2427,7 +2427,7 @@
         },
         {
             "key": "Card_Description_CountdownToTheShow",
-            "value": "Convert all your Elemental Dice to Omni Element and draw 4 cards.\\nAfter you Discard this card from your Hand or deck: Place 1 \"Countdown to the Show\" card that costs 1 less Elemental Die than this one on the top of your deck."
+            "value": "Convert all your Elemental Dice to Omni Element and draw 4 cards.\\nAfter you Discard this card from your Hand or deck: Place 1 Countdown to the Show card that costs 1 less Elemental Die than this one on the top of your deck."
         }
     ]
 }
