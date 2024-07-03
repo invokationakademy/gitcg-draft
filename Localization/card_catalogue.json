@@ -2165,13 +2165,13 @@
         },
         {
             "code_key": 387,
-            "display_name": "Card_Name_FlowerOfParadistLost",
+            "display_name": "Card_Name_FlowerOfParadiseLost",
             "image_file": "Card_artifact_fopl.png",
             "tags": [
                 "Artifact"
             ],
             "element": "Dendro",
-            "description": "Card_Description_FlowerOfParadistLost"
+            "description": "Card_Description_FlowerOfParadiseLost"
         },
         {
             "code_key": 165,
