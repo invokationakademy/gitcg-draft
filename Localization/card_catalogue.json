@@ -2800,7 +2800,7 @@
             "description": "Card_Description_LumenstoneAdjuvant"
         },
         {
-            "code_key": 345,
+            "code_key": 391,
             "display_name": "Card_Name_Kusava",
             "image_file": "Card_item_kusava.png",
             "tags": [
@@ -3352,7 +3352,7 @@
             "description": "Card_Description_UnderwaterTreasureHunt"
         },
         {
-            "code_key": 360,
+            "code_key": 394,
             "display_name": "Card_Name_CountdownToTheShow",
             "image_file": "Card_countdown.png",
             "tags": [
