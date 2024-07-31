@@ -919,6 +919,30 @@
             "resonance": ["Monster", "Dendro"],
             "element": "Dendro",
             "weapon": "Weaponless"
+        },
+        {
+            "code_key": 395,
+            "display_name": "Character_Name_Chevreuse",
+            "image_file": "Character_Card_chevreuse.png",
+            "tags": ["Polearm"],
+
+            "resonance": ["Fontaine", "Pyro"]
+        },
+        {
+            "code_key": 396,
+            "display_name": "Character_Name_Navia",
+            "image_file": "Character_Card_navia.png",
+            "tags": ["Claymore"],
+
+            "resonance": ["Fontaine", "Geo"]
+        },
+        {
+            "code_key": 397,
+            "display_name": "Character_Name_FrostOperative",
+            "image_file": "Character_Card_frostoperative.png",
+            "tags": ["Weaponless"],
+
+            "resonance": ["Fatui", "Cryo"]
         }
     ],
     "talents": [
@@ -1565,6 +1589,27 @@
             "image_file": "Card_talent_apep.png",
             "tags": ["Talent"],
             "description": "Card_Description_Talent_Apep"
+        },
+        {
+            "code_key": 398,
+            "display_name": "Card_Name_Talent_Chevreuse",
+            "image_file": "Card_talent_chevreuse.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_Chevreuse"
+        },
+        {
+            "code_key": 399,
+            "display_name": "Card_Name_Talent_Navia",
+            "image_file": "Card_talent_navia.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_Navia"
+        },
+        {
+            "code_key": 400,
+            "display_name": "Card_Name_Talent_FrostOperative",
+            "image_file": "Card_talent_frostoperative.png",
+            "tags": ["Talent"],
+            "description": "Card_Description_Talent_FrostOperative"
         }
     ],
     "cards": [
@@ -1761,6 +1806,16 @@
             "description": "Card_Description_ForestRegalia"
         },
         {
+            "code_key": 401,
+            "display_name": "Card_Name_UltimateOverlords",
+            "image_file": "Card_weapon_ultimateoverlords.png",
+            "tags": [
+                "Weapon"
+            ],
+            "weapon": "Claymore",
+            "description": "Card_Description_UltimateOverlords"
+        },
+        {
             "code_key": 137,
             "display_name": "Card_Name_WhiteTassel",
             "image_file": "Card_weapon_whitetassel.png",
@@ -1838,6 +1893,15 @@
                 "Weapon"
             ],
             "description": "Card_Description_RightfulReward"
+        },
+        {
+            "code_key": 402,
+            "display_name": "Card_Name_ProspectorsDrill",
+            "image_file": "Card_weapon_prospectorsdrill.png",
+            "tags": [
+                "Weapon"
+            ],
+            "description": "Card_Description_ProspectorsDrill"
         },
         {
             "code_key": 143,
@@ -2172,6 +2236,16 @@
             ],
             "element": "Dendro",
             "description": "Card_Description_FlowerOfParadiseLost"
+        },
+        {
+            "code_key": 403,
+            "display_name": "Card_Name_GladiatorsTriumphus",
+            "image_file": "Card_artifact_gladiatorstriumphus.png",
+            "tags": [
+                "Artifact"
+            ],
+            "element": "Dendro",
+            "description": "Card_Description_GladiatorsTriumphus"
         },
         {
             "code_key": 165,
@@ -2735,6 +2809,15 @@
                 "Companion"
             ],
             "description": "Card_Description_SirArthur"
+        },
+        {
+            "code_key": 404,
+            "display_name": "Card_Name_Serene",
+            "image_file": "Card_companion_serene.png",
+            "tags": [
+                "Companion"
+            ],
+            "description": "Card_Description_Serene"
         },
         {
             "code_key": 214,
@@ -3359,6 +3442,24 @@
                 "Event"
             ],
             "description": "Card_Description_CountdownToTheShow"
+        },
+        {
+            "code_key": 405,
+            "display_name": "Card_Name_LoseMoney",
+            "image_file": "Card_losemoney.png",
+            "tags": [
+                "Event"
+            ],
+            "description": "Card_Description_LoseMoney"
+        },
+        {
+            "code_key": 406,
+            "display_name": "Card_Name_Tada",
+            "image_file": "Card_tada.png",
+            "tags": [
+                "Event"
+            ],
+            "description": "Card_Description_Tada"
         },
         {
             "code_key": 265,

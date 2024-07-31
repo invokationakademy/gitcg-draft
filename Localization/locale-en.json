@@ -374,6 +374,18 @@
         {
             "key": "Character_Name_Apep",
             "value": "Guardian of Apep's Oasis"
+        },
+        {
+            "key": "Character_Name_Chevreuse",
+            "value": "Chevreuse"
+        },
+        {
+            "key": "Character_Name_Navia",
+            "value": "Navia"
+        },
+        {
+            "key": "Character_Name_FrostOperative",
+            "value": "Frost Operative"
         }
     ],
 
@@ -440,7 +452,7 @@
         },
         {
             "key": "Card_Description_Talent_Cyno",
-            "value": "Combat Action: uses Cyno's Elemental Skill.\\nWhen he uses his Elemental Skill with an even number of Pactsworn Pathclearer stacks, deal +1 DMG."
+            "value": "Combat Action: uses Cyno's Elemental Skill.\\nWhen he uses his Elemental Skill with 2 or more levels of his passive, deal +2 DMG. (Once per Round)"
         },
         {
             "key": "Card_Description_Talent_Dehya",
@@ -544,7 +556,7 @@
         },
         {
             "key": "Card_Description_Talent_MirrorMaiden",
-            "value": "Combat Action: uses Mirror Maiden's Elemental Skill.\\nWhen she creates a Refraction, it will have the following effects: Starting Duration +1, will increase the Cost of switching off the debuffed character by 1."
+            "value": "Combat Action: uses Mirror Maiden's Elemental Skill.\\nWhen she creates a Refraction, it will have the following effects: Starting Duration +1, increases Hydro DMG taken by character by 1."
         },
         {
             "key": "Card_Description_Talent_Mona",
@@ -676,7 +688,7 @@
         },
         {
             "key": "Card_Description_Talent_Zhongli",
-            "value": "Combat Action: uses Zhongli's 5 cost Elemental Skill.\\nWhile equipped, when your active character is protected by a Shield, your Summons deal +1 Geo DMG."
+            "value": "Combat Action: uses Zhongli's 5 cost Elemental Skill.\\nWhile equipped, when Zhongli has 7 or more HP, your Summons deal +1 Geo DMG, and Zhongli does +1 DMG."
         },
         {
             "key": "Card_Description_Talent_Charlotte",
@@ -732,7 +744,7 @@
         },
         {
             "key": "Card_Description_Talent_Whale",
-            "value": "Combat Action: uses Narwhal's Elemental Skill.\\nWhile equipped, when a card is Discarded by the Elemental Skill, heal HP equal to the cost of the card Discarded (Once per Round)"
+            "value": "Combat Action: uses Narwhal's Elemental Skill.\\nWhile equipped, when a card is Discarded by the Elemental Skill, heal HP equal to the cost of the card Discarded. (Once per Round)"
         },
         {
             "key": "Card_Description_Talent_Scorpion",
@@ -745,6 +757,18 @@
         {
             "key": "Card_Description_Talent_Apep",
             "value": "When played: create 4 Awaken, My Kindred cards and shuffle them randomly into your deck.\\nWhile equipped, Proliferated Organisms do +1 DMG."
+        },
+        {
+            "key": "Card_Description_Talent_Chevreuse",
+            "value": "Can only be played if you have only Pyro/Electro characters.\\nWhile equipped, after opponent takes Overload DMG: +1 DMG for next 2 instances of Pyro or Electro DMG (including Swirl)"
+        },
+        {
+            "key": "Card_Description_Talent_Navia",
+            "value": "When played: uses Navia's Elemental Skill.\\nWhile equipped, whenever Navia uses any skill, Draw 2 Crystal Shrapnel. (Once per Round)"
+        },
+        {
+            "key": "Card_Description_Talent_FrostOperative",
+            "value": "When played: uses Frost Operative's Elemental Skill.\\nAfter Frost Operative applies a Bond of Life, double the Bond."
         }
     ],
 
@@ -1355,7 +1379,7 @@
         },
         {
             "key": "Card_Description_DawnWinery",
-            "value": "When you Switch Character: Spend 1 less Elemental Die. (Once per Round)"
+            "value": "When you Switch Character: Spend 1 less Elemental Die. (Twice per Round)"
         },
         {
             "key": "Card_Name_WangshuInn",
@@ -2099,7 +2123,7 @@
         },
         {
             "key": "Card_Description_Lyresong",
-            "value": "Return an Artifact card equipped by your character to your Hand.\\nDuring this Round, the next time you play an Artifact card from your hand: Spend 2 less Elemental Dice."
+            "value": "Return an Artifact card equipped by your character to your Hand.\\nDuring this Round, the next time you play an Artifact card from your hand: Spend 1 less Elemental Dice. If you have not played any other Action Cards before playing this card, spend 2 less Elemental Die."
         },
         {
             "key": "Card_Name_TheBoarPrincess",
@@ -2428,6 +2452,54 @@
         {
             "key": "Card_Description_CountdownToTheShow",
             "value": "Convert all your Elemental Dice to Omni Element and draw 4 cards.\\nAfter you Discard this card from your Hand or deck: Place 1 Countdown to the Show card that costs 1 less Elemental Die than this one on the top of your deck."
+        },
+        {
+            "key": "Card_Name_UltimateOverlords",
+            "value": "Ultimate Overlord's Mega Magic Sword"
+        },
+        {
+            "key": "Card_Description_UltimateOverlords",
+            "value": "This card will record the number of Action Cards with different names you have played in this match whose names are not in your original deck for said match, with each type granting 1 Support.\\nIf this card's Support value is at least 2/4/8, then the Character will deal +1/2/3 DMG."
+        },
+        {
+            "key": "Card_Name_ProspectorsDrill",
+            "value": "Prospector's Drill"
+        },
+        {
+            "key": "Card_Description_ProspectorsDrill",
+            "value": "When the character to which this is attached takes DMG: If possible, Discard 1 card from your Hand with the highest original Elemental Dice cost to negate 1 damage, and then gain 1 Solidarity point. (Max twice per Round)\\nWhen a character uses a Skill: If there are Solidarity points already, consume all points for this Skill to deal +1 DMG, then draw 1 card for each point consumed."
+        },
+        {
+            "key": "Card_Name_GladiatorsTriumphus",
+            "value": "Gladiator's Triumphus"
+        },
+        {
+            "key": "Card_Description_GladiatorsTriumphus",
+            "value": "When the character uses a Normal Attack: Spend 1 less Elemental Die if you have no more than 2 cards in your Hand. (Once per Round)"
+        },
+        {
+            "key": "Card_Name_Serene",
+            "value": "Serene"
+        },
+        {
+            "key": "Card_Description_Serene",
+            "value": "Triggers automatically once per Round: 1 random Melusine Support is added to your Hand."
+        },
+        {
+            "key": "Card_Name_LoseMoney",
+            "value": "I'd Rather Lose Money Myself..."
+        },
+        {
+            "key": "Card_Description_LoseMoney",
+            "value": "Each time your opponent gains 2 Elemental Dice during this Round, you gain 1 Omni Element. (Elemental Die provided by this effect are excluded)"
+        },
+        {
+            "key": "Card_Name_Tada",
+            "value": "Tada!"
+        },
+        {
+            "key": "Card_Description_Tada",
+            "value": "Deal 1 Physical DMG to your active character. Draw 1 card during the End Phase of this Round."
         }
     ]
 }

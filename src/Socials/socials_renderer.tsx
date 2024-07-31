@@ -14,7 +14,7 @@ export function SocialsRenderer() {
             </div>
             <div className="version-box">
                 <label className="version-title">Genius Invokation Drafter v1.0</label>
-                <label className="version-text">Updated for v4.7 with a brand new (mobile friendly) look!</label>
+                <label className="version-text">Updated with v4.8 cards band balance changes!</label>
             </div>
         </div>
     )

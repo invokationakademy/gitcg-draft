@@ -2,6 +2,9 @@ import { Card, CharacterCard, GITag, WeaponCard, GIResonance, ElementalCard } fr
 import { RAW_JSON } from './card_catalogue'
 
 export class CardDatabase {
+    private readonly weaponTags: GITag[] = [GITag.Polearm, GITag.Bow, GITag.Catalyst, GITag.Claymore, GITag.Sword, GITag.Weaponless]
+    private readonly elementTags: GIResonance[] = [GIResonance.Pyro, GIResonance.Hydro, GIResonance.Cryo, GIResonance.Electro, GIResonance.Dendro, GIResonance.Geo, GIResonance.Anemo]
+
     private readonly allCards: Card[] = []
 
     // General categories
@@ -27,19 +30,36 @@ export class CardDatabase {
         // Parse characters
         parsedData['characters'].forEach((data: any) => {
             let tags = GITag.None
-            data.tags.forEach((tag: string) => tags |= GITag[tag as keyof typeof  GITag])
+            let weapon = GITag.None
+            data.tags.forEach((tag: string) => {
+                let giTag = GITag[tag as keyof typeof GITag]
+                if (this.weaponTags.includes(giTag))
+                {
+                    weapon = giTag
+                }
+
+                tags |= giTag
+            })
 
             let reso = GIResonance.None
-            data.resonance.forEach((res: string) => reso |= GIResonance[res as keyof typeof GIResonance])
+            let element = GIResonance.None
+            data.resonance.forEach((res: string) => {
+                let giRes = GIResonance[res as keyof typeof GIResonance]
+                if (this.elementTags.includes(giRes))
+                {
+                    element = giRes
+                }
+
+                reso |= giRes
+            })
 
             let extraTags = data.resonance.slice(0, -1)
             
-
-            let description = `Element: ${data.element}\nWeapon: ${data.weapon}\nOther tags: ${extraTags.join(",")}`
+            let description = `Element: ${GIResonance[element]}\nWeapon: ${GITag[weapon]}\nOther tags: ${extraTags.join(",")}`
 
             let card = new CharacterCard(
-                GIResonance[data.element as keyof typeof GIResonance],
-                GITag[data.weapon as keyof typeof GITag],
+                element,
+                weapon,
                 id,
                 data.code_key,
                 data.display_name,
