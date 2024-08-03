@@ -6,9 +6,7 @@
             "image_file": "Character_Card_albedo.png",
             "tags": ["Sword"],
 
-            "resonance": ["Mondstadt", "Geo"],
-            "element": "Geo",
-            "weapon": "Sword"
+            "resonance": ["Mondstadt", "Geo"]
         },
         {
             "code_key": 284,
@@ -16,9 +14,7 @@
             "image_file": "Character_Card_alhaitham.png",
             "tags": ["Sword"],
 
-            "resonance": ["Sumeru", "Dendro"],
-            "element": "Dendro",
-            "weapon": "Sword"
+            "resonance": ["Sumeru", "Dendro"]
         },
         {
             "code_key": 20,
@@ -26,9 +22,7 @@
             "image_file": "Character_Card_amber.png",
             "tags": ["Bow"],
 
-            "resonance": ["Mondstadt", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Bow"
+            "resonance": ["Mondstadt", "Pyro"]
         },
         {
             "code_key": 5,
@@ -36,9 +30,7 @@
             "image_file": "Character_Card_ayaka.png",
             "tags": ["Sword"],
 
-            "resonance": ["Inazuma", "Cryo"],
-            "element": "Cryo",
-            "weapon": "Sword"
+            "resonance": ["Inazuma", "Cryo"]
         },
         {
             "code_key": 14,
@@ -46,9 +38,7 @@
             "image_file": "Character_Card_ayato.png",
             "tags": ["Sword"],
 
-            "resonance": ["Inazuma", "Hydro"],
-            "element": "Hydro",
-            "weapon": "Sword"
+            "resonance": ["Inazuma", "Hydro"]
         },
         {
             "code_key": 278,
@@ -56,9 +46,7 @@
             "image_file": "Character_Card_azhdaha.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Geo"],
-            "element": "Geo",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Geo"]
         },
         {
             "code_key": 51,
@@ -66,9 +54,7 @@
             "image_file": "Character_Card_baizhu.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Liyue", "Dendro"],
-            "element": "Dendro",
-            "weapon": "Catalyst"
+            "resonance": ["Liyue", "Dendro"]
         },
         {
             "code_key": 9,
@@ -76,9 +62,7 @@
             "image_file": "Character_Card_barbara.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Mondstadt", "Hydro"],
-            "element": "Hydro",
-            "weapon": "Catalyst"
+            "resonance": ["Mondstadt", "Hydro"]
         },
         {
             "code_key": 30,
@@ -86,9 +70,7 @@
             "image_file": "Character_Card_beidou.png",
             "tags": ["Claymore"],
 
-            "resonance": ["Liyue", "Electro"],
-            "element": "Electro",
-            "weapon": "Claymore"
+            "resonance": ["Liyue", "Electro"]
         },
         {
             "code_key": 19,
@@ -96,9 +78,7 @@
             "image_file": "Character_Card_bennett.png",
             "tags": ["Sword"],
 
-            "resonance": ["Mondstadt", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Sword"
+            "resonance": ["Mondstadt", "Pyro"]
         },
         {
             "code_key": 15,
@@ -106,9 +86,7 @@
             "image_file": "Character_Card_candace.png",
             "tags": ["Polearm"],
 
-            "resonance": ["Sumeru", "Hydro"],
-            "element": "Hydro",
-            "weapon": "Polearm"
+            "resonance": ["Sumeru", "Hydro"]
         },
         {
             "code_key": 4,
@@ -116,9 +94,7 @@
             "image_file": "Character_Card_chongyun.png",
             "tags": ["Claymore"],
 
-            "resonance": ["Liyue", "Cryo"],
-            "element": "Cryo",
-            "weapon": "Claymore"
+            "resonance": ["Liyue", "Cryo"]
         },
         {
             "code_key": 47,
@@ -126,9 +102,7 @@
             "image_file": "Character_Card_collei.png",
             "tags": ["Bow"],
 
-            "resonance": ["Sumeru", "Dendro"],
-            "element": "Dendro",
-            "weapon": "Bow"
+            "resonance": ["Sumeru", "Dendro"]
         },
         {
             "code_key": 52,
@@ -136,9 +110,7 @@
             "image_file": "Character_Card_cryocicin.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Fatui", "Cryo"],
-            "element": "Cryo",
-            "weapon": "Weaponless"
+            "resonance": ["Fatui", "Cryo"]
         },
         {
             "code_key": 321,
@@ -146,9 +118,7 @@
             "image_file": "Character_Card_cryocube.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Cryo"],
-            "element": "Cryo",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Cryo"]
         },
         {
             "code_key": 29,
@@ -156,9 +126,7 @@
             "image_file": "Character_Card_cyno.png",
             "tags": ["Polearm"],
 
-            "resonance": ["Sumeru", "Electro"],
-            "element": "Electro",
-            "weapon": "Polearm"
+            "resonance": ["Sumeru", "Electro"]
         },
         {
             "code_key": 25,
@@ -166,9 +134,7 @@
             "image_file": "Character_Card_dehya.png",
             "tags": ["Claymore"],
 
-            "resonance": ["Sumeru", "Eremites", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Claymore"
+            "resonance": ["Sumeru", "Eremites", "Pyro"]
         },
         {
             "code_key": 17,
@@ -176,9 +142,7 @@
             "image_file": "Character_Card_diluc.png",
             "tags": ["Claymore"],
 
-            "resonance": ["Mondstadt", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Claymore"
+            "resonance": ["Mondstadt", "Pyro"]
         },
         {
             "code_key": 2,
@@ -186,9 +150,7 @@
             "image_file": "Character_Card_diona.png",
             "tags": ["Bow"],
 
-            "resonance": ["Mondstadt", "Cryo"],
-            "element": "Cryo",
-            "weapon": "Bow"
+            "resonance": ["Mondstadt", "Cryo"]
         },
         {
             "code_key": 35,
@@ -196,9 +158,7 @@
             "image_file": "Character_Card_dori.png",
             "tags": ["Claymore"],
 
-            "resonance": ["Sumeru", "Electro"],
-            "element": "Electro",
-            "weapon": "Claymore"
+            "resonance": ["Sumeru", "Electro"]
         },
         {
             "code_key": 287,
@@ -206,9 +166,7 @@
             "image_file": "Character_Card_dvalin.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Anemo"],
-            "element": "Anemo",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Anemo"]
         },
         {
             "code_key": 57,
@@ -216,9 +174,7 @@
             "image_file": "Character_Card_electrocube.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Electro"],
-            "element": "Electro",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Electro"]
         },
         {
             "code_key": 6,
@@ -226,9 +182,7 @@
             "image_file": "Character_Card_eula.png",
             "tags": ["Claymore"],
 
-            "resonance": ["Mondstadt", "Cryo"],
-            "element": "Cryo",
-            "weapon": "Claymore"
+            "resonance": ["Mondstadt", "Cryo"]
         },
         {
             "code_key": 26,
@@ -236,9 +190,7 @@
             "image_file": "Character_Card_fischl.png",
             "tags": ["Bow"],
 
-            "resonance": ["Mondstadt", "Electro"],
-            "element": "Electro",
-            "weapon": "Bow"
+            "resonance": ["Mondstadt", "Electro"]
         },
         {
             "code_key": 1,
@@ -246,9 +198,7 @@
             "image_file": "Character_Card_ganyu.png",
             "tags": ["Bow"],
 
-            "resonance": ["Liyue", "Cryo"],
-            "element": "Cryo",
-            "weapon": "Bow"
+            "resonance": ["Liyue", "Cryo"]
         },
         {
             "code_key": 283,
@@ -256,9 +206,7 @@
             "image_file": "Character_Card_gorou.png",
             "tags": ["Bow"],
 
-            "resonance": ["Inazuma", "Geo"],
-            "element": "Geo",
-            "weapon": "Bow"
+            "resonance": ["Inazuma", "Geo"]
         },
         {
             "code_key": 23,
@@ -266,9 +214,7 @@
             "image_file": "Character_Card_hutao.png",
             "tags": ["Polearm"],
 
-            "resonance": ["Liyue", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Polearm"
+            "resonance": ["Liyue", "Pyro"]
         },
         {
             "code_key": 46,
@@ -276,9 +222,7 @@
             "image_file": "Character_Card_itto.png",
             "tags": ["Claymore"],
 
-            "resonance": ["Inazuma", "Geo"],
-            "element": "Geo",
-            "weapon": "Claymore"
+            "resonance": ["Inazuma", "Geo"]
         },
         {
             "code_key": 37,
@@ -286,9 +230,7 @@
             "image_file": "Character_Card_jean.png",
             "tags": ["Sword"],
 
-            "resonance": ["Mondstadt", "Anemo"],
-            "element": "Anemo",
-            "weapon": "Sword"
+            "resonance": ["Mondstadt", "Anemo"]
         },
         {
             "code_key": 3,
@@ -296,9 +238,7 @@
             "image_file": "Character_Card_kaeya.png",
             "tags": ["Sword"],
 
-            "resonance": ["Mondstadt", "Cryo"],
-            "element": "Cryo",
-            "weapon": "Sword"
+            "resonance": ["Mondstadt", "Cryo"]
         },
         {
             "code_key": 40,
@@ -306,9 +246,7 @@
             "image_file": "Character_Card_kazuha.png",
             "tags": ["Sword"],
 
-            "resonance": ["Inazuma", "Anemo"],
-            "element": "Anemo",
-            "weapon": "Sword"
+            "resonance": ["Inazuma", "Anemo"]
         },
         {
             "code_key": 28,
@@ -316,9 +254,7 @@
             "image_file": "Character_Card_keqing.png",
             "tags": ["Sword"],
 
-            "resonance": ["Liyue", "Electro"],
-            "element": "Electro",
-            "weapon": "Sword"
+            "resonance": ["Liyue", "Electro"]
         },
         {
             "code_key": 22,
@@ -326,9 +262,7 @@
             "image_file": "Character_Card_klee.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Mondstadt", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Catalyst"
+            "resonance": ["Mondstadt", "Pyro"]
         },
         {
             "code_key": 13,
@@ -336,9 +270,7 @@
             "image_file": "Character_Card_kokomi.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Inazuma", "Hydro"],
-            "element": "Hydro",
-            "weapon": "Catalyst"
+            "resonance": ["Inazuma", "Hydro"]
         },
         {
             "code_key": 31,
@@ -346,9 +278,7 @@
             "image_file": "Character_Card_kujosara.png",
             "tags": ["Bow"],
 
-            "resonance": ["Inazuma", "Electro"],
-            "element": "Electro",
-            "weapon": "Bow"
+            "resonance": ["Inazuma", "Electro"]
         },
         {
             "code_key": 59,
@@ -356,9 +286,7 @@
             "image_file": "Character_Card_lawachurl.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Geo"],
-            "element": "Geo",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Geo"]
         },
         {
             "code_key": 279,
@@ -366,9 +294,7 @@
             "image_file": "Character_Card_layla.png",
             "tags": ["Sword"],
 
-            "resonance": ["Sumeru", "Cryo"],
-            "element": "Cryo",
-            "weapon": "Sword"
+            "resonance": ["Sumeru", "Cryo"]
         },
         {
             "code_key": 34,
@@ -376,9 +302,7 @@
             "image_file": "Character_Card_lisa.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Mondstadt", "Electro"],
-            "element": "Electro",
-            "weapon": "Catalyst"
+            "resonance": ["Mondstadt", "Electro"]
         },
         {
             "code_key": 282,
@@ -386,9 +310,7 @@
             "image_file": "Character_Card_lynette.png",
             "tags": ["Sword"],
 
-            "resonance": ["Fontaine", "Fatui", "Anemo"],
-            "element": "Anemo",
-            "weapon": "Sword"
+            "resonance": ["Fontaine", "Fatui", "Anemo"]
         },
         {
             "code_key": 281,
@@ -396,9 +318,7 @@
             "image_file": "Character_Card_lyney.png",
             "tags": ["Bow"],
 
-            "resonance": ["Fontaine", "Fatui", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Bow"
+            "resonance": ["Fontaine", "Fatui", "Pyro"]
         },
         {
             "code_key": 58,
@@ -406,9 +326,7 @@
             "image_file": "Character_Card_maguukenki.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Anemo"],
-            "element": "Anemo",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Anemo"]
         },
         {
             "code_key": 54,
@@ -416,9 +334,7 @@
             "image_file": "Character_Card_mirrormaiden.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Fatui", "Hydro"],
-            "element": "Hydro",
-            "weapon": "Weaponless"
+            "resonance": ["Fatui", "Hydro"]
         },
         {
             "code_key": 11,
@@ -426,9 +342,7 @@
             "image_file": "Character_Card_mona.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Mondstadt", "Hydro"],
-            "element": "Hydro",
-            "weapon": "Catalyst"
+            "resonance": ["Mondstadt", "Hydro"]
         },
         {
             "code_key": 49,
@@ -436,9 +350,7 @@
             "image_file": "Character_Card_nahida.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Sumeru", "Dendro"],
-            "element": "Dendro",
-            "weapon": "Catalyst"
+            "resonance": ["Sumeru", "Dendro"]
         },
         {
             "code_key": 16,
@@ -446,9 +358,7 @@
             "image_file": "Character_Card_nilou.png",
             "tags": ["Sword"],
 
-            "resonance": ["Sumeru", "Hydro"],
-            "element": "Hydro",
-            "weapon": "Sword"
+            "resonance": ["Sumeru", "Hydro"]
         },
         {
             "code_key": 42,
@@ -456,9 +366,7 @@
             "image_file": "Character_Card_ningguang.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Liyue", "Geo"],
-            "element": "Geo",
-            "weapon": "Catalyst"
+            "resonance": ["Liyue", "Geo"]
         },
         {
             "code_key": 43,
@@ -466,9 +374,7 @@
             "image_file": "Character_Card_noelle.png",
             "tags": ["Claymore"],
 
-            "resonance": ["Mondstadt", "Geo"],
-            "element": "Geo",
-            "weapon": "Claymore"
+            "resonance": ["Mondstadt", "Geo"]
         },
         {
             "code_key": 53,
@@ -476,9 +382,7 @@
             "image_file": "Character_Card_oceanid.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Hydro"],
-            "element": "Hydro",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Hydro"]
         },
         {
             "code_key": 55,
@@ -486,9 +390,7 @@
             "image_file": "Character_Card_pyroagent.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Fatui", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Weaponless"
+            "resonance": ["Fatui", "Pyro"]
         },
         {
             "code_key": 56,
@@ -496,9 +398,7 @@
             "image_file": "Character_Card_pyrolector.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Pyro"]
         },
         {
             "code_key": 285,
@@ -506,9 +406,7 @@
             "image_file": "Character_Card_pyroloremaster.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Eremites", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Weaponless"
+            "resonance": ["Eremites", "Pyro"]
         },
         {
             "code_key": 8,
@@ -516,29 +414,23 @@
             "image_file": "Character_Card_qiqi.png",
             "tags": ["Sword"],
 
-            "resonance": ["Liyue", "Cryo"],
-            "element": "Cryo",
-            "weapon": "Sword"
+            "resonance": ["Liyue", "Cryo"]
         },
         {
             "code_key": 32,
             "display_name": "Character_Name_Raiden",
             "image_file": "Character_Card_raiden.png",
-            "tags": ["Catalyst"],
+            "tags": ["Polearm"],
 
-            "resonance": ["Inazuma", "Electro"],
-            "element": "Electro",
-            "weapon": "Polearm"
+            "resonance": ["Inazuma", "Electro"]
         },
         {
             "code_key": 27,
             "display_name": "Character_Name_Razor",
             "image_file": "Character_Card_razor.png",
-            "tags": ["Catalyst"],
+            "tags": ["Claymore"],
 
-            "resonance": ["Mondstadt", "Electro"],
-            "element": "Electro",
-            "weapon": "Claymore"
+            "resonance": ["Mondstadt", "Electro"]
         },
         {
             "code_key": 320,
@@ -546,9 +438,7 @@
             "image_file": "Character_Card_sayu.png",
             "tags": ["Claymore"],
 
-            "resonance": ["Inazuma", "Anemo"],
-            "element": "Anemo",
-            "weapon": "Claymore"
+            "resonance": ["Inazuma", "Anemo"]
         },
         {
             "code_key": 322,
@@ -556,9 +446,7 @@
             "image_file": "Character_Card_seahorse.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Electro"],
-            "element": "Electro",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Electro"]
         },
         {
             "code_key": 7,
@@ -566,9 +454,7 @@
             "image_file": "Character_Card_shenhe.png",
             "tags": ["Polearm"],
 
-            "resonance": ["Liyue", "Cryo"],
-            "element": "Cryo",
-            "weapon": "Polearm"
+            "resonance": ["Liyue", "Cryo"]
         },
         {
             "code_key": 277,
@@ -576,9 +462,7 @@
             "image_file": "Character_Card_signora.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Fatui", "Cryo"],
-            "element": "Cryo",
-            "weapon": "Weaponless"
+            "resonance": ["Fatui", "Cryo"]
         },
         {
             "code_key": 36,
@@ -586,9 +470,7 @@
             "image_file": "Character_Card_sucrose.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Mondstadt", "Anemo"],
-            "element": "Anemo",
-            "weapon": "Catalyst"
+            "resonance": ["Mondstadt", "Anemo"]
         },
         {
             "code_key": 12,
@@ -596,9 +478,7 @@
             "image_file": "Character_Card_tartaglia.png",
             "tags": ["Bow"],
 
-            "resonance": ["Fatui", "Hydro"],
-            "element": "Hydro",
-            "weapon": "Bow"
+            "resonance": ["Fatui", "Hydro"]
         },
         {
             "code_key": 60,
@@ -606,9 +486,7 @@
             "image_file": "Character_Card_terrorshroom.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Dendro"],
-            "element": "Dendro",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Dendro"]
         },
         {
             "code_key": 319,
@@ -616,9 +494,7 @@
             "image_file": "Character_Card_thoma.png",
             "tags": ["Polearm"],
 
-            "resonance": ["Inazuma", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Polearm"
+            "resonance": ["Inazuma", "Pyro"]
         },
         {
             "code_key": 286,
@@ -626,9 +502,7 @@
             "image_file": "Character_Card_thundermanifestation.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Electro"],
-            "element": "Electro",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Electro"]
         },
         {
             "code_key": 48,
@@ -636,9 +510,7 @@
             "image_file": "Character_Card_tighnari.png",
             "tags": ["Bow"],
 
-            "resonance": ["Sumeru", "Dendro"],
-            "element": "Dendro",
-            "weapon": "Bow"
+            "resonance": ["Sumeru", "Dendro"]
         },
         {
             "code_key": 38,
@@ -646,9 +518,7 @@
             "image_file": "Character_Card_venti.png",
             "tags": ["Bow"],
 
-            "resonance": ["Mondstadt", "Anemo"],
-            "element": "Anemo",
-            "weapon": "Bow"
+            "resonance": ["Mondstadt", "Anemo"]
         },
         {
             "code_key": 41,
@@ -656,9 +526,7 @@
             "image_file": "Character_Card_wanderer.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Anemo"],
-            "element": "Anemo",
-            "weapon": "Catalyst"
+            "resonance": ["Anemo"]
         },
         {
             "code_key": 18,
@@ -666,9 +534,7 @@
             "image_file": "Character_Card_xiangling.png",
             "tags": ["Polearm"],
 
-            "resonance": ["Liyue", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Polearm"
+            "resonance": ["Liyue", "Pyro"]
         },
         {
             "code_key": 39,
@@ -676,9 +542,7 @@
             "image_file": "Character_Card_xiao.png",
             "tags": ["Polearm"],
 
-            "resonance": ["Liyue", "Anemo"],
-            "element": "Anemo",
-            "weapon": "Polearm"
+            "resonance": ["Liyue", "Anemo"]
         },
         {
             "code_key": 10,
@@ -686,9 +550,7 @@
             "image_file": "Character_Card_xingqiu.png",
             "tags": ["Sword"],
 
-            "resonance": ["Liyue", "Hydro"],
-            "element": "Hydro",
-            "weapon": "Sword"
+            "resonance": ["Liyue", "Hydro"]
         },
         {
             "code_key": 33,
@@ -696,9 +558,7 @@
             "image_file": "Character_Card_yae.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Inazuma", "Electro"],
-            "element": "Electro",
-            "weapon": "Catalyst"
+            "resonance": ["Inazuma", "Electro"]
         },
         {
             "code_key": 24,
@@ -706,9 +566,7 @@
             "image_file": "Character_Card_yanfei.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Liyue", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Catalyst"
+            "resonance": ["Liyue", "Pyro"]
         },
         {
             "code_key": 50,
@@ -716,9 +574,7 @@
             "image_file": "Character_Card_yaoyao.png",
             "tags": ["Polearm"],
 
-            "resonance": ["Liyue", "Dendro"],
-            "element": "Dendro",
-            "weapon": "Polearm"
+            "resonance": ["Liyue", "Dendro"]
         },
         {
             "code_key": 280,
@@ -726,9 +582,7 @@
             "image_file": "Character_Card_yelan.png",
             "tags": ["Bow"],
 
-            "resonance": ["Liyue", "Hydro"],
-            "element": "Hydro",
-            "weapon": "Bow"
+            "resonance": ["Liyue", "Hydro"]
         },
         {
             "code_key": 21,
@@ -736,9 +590,7 @@
             "image_file": "Character_Card_yoimiya.png",
             "tags": ["Bow"],
 
-            "resonance": ["Inazuma", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Bow"
+            "resonance": ["Inazuma", "Pyro"]
         },
         {
             "code_key": 44,
@@ -746,9 +598,7 @@
             "image_file": "Character_Card_zhongli.png",
             "tags": ["Polearm"],
 
-            "resonance": ["Liyue", "Geo"],
-            "element": "Geo",
-            "weapon": "Polearm"
+            "resonance": ["Liyue", "Geo"]
         },
         {
             "code_key": 334,
@@ -756,9 +606,7 @@
             "image_file": "Character_Card_charlotte.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Fontaine", "Cryo"],
-            "element": "Cryo",
-            "weapon": "Catalyst"
+            "resonance": ["Fontaine", "Cryo"]
         },
         {
             "code_key": 335,
@@ -766,9 +614,7 @@
             "image_file": "Character_Card_neuvillette.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Fontaine", "Hydro"],
-            "element": "Hydro",
-            "weapon": "Catalyst"
+            "resonance": ["Fontaine", "Hydro"]
         },
         {
             "code_key": 336,
@@ -776,9 +622,7 @@
             "image_file": "Character_Card_kirara.png",
             "tags": ["Sword"],
 
-            "resonance": ["Inazuma", "Dendro"],
-            "element": "Dendro",
-            "weapon": "Sword"
+            "resonance": ["Inazuma", "Dendro"]
         },
         {
             "code_key": 337,
@@ -786,9 +630,7 @@
             "image_file": "Character_Card_electrocicin.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Fatui", "Electro"],
-            "element": "Electro",
-            "weapon": "Weaponless"
+            "resonance": ["Fatui", "Electro"]
         },
         {
             "code_key": 348,
@@ -796,9 +638,7 @@
             "image_file": "Character_Card_kuki.png",
             "tags": ["Sword"],
 
-            "resonance": ["Inazuma", "Electro"],
-            "element": "Electro",
-            "weapon": "Sword"
+            "resonance": ["Inazuma", "Electro"]
         },
         {
             "code_key": 349,
@@ -806,9 +646,7 @@
             "image_file": "Character_Card_faruzan.png",
             "tags": ["Bow"],
 
-            "resonance": ["Sumeru", "Anemo"],
-            "element": "Anemo",
-            "weapon": "Bow"
+            "resonance": ["Sumeru", "Anemo"]
         },
         {
             "code_key": 350,
@@ -816,9 +654,7 @@
             "image_file": "Character_Card_herald.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Hydro"],
-            "element": "Hydro",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Hydro"]
         },
         {
             "code_key": 351,
@@ -826,9 +662,7 @@
             "image_file": "Character_Card_crab.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Pyro"]
         },
         {
             "code_key": 363,
@@ -836,9 +670,7 @@
             "image_file": "Character_Card_wriothesley.png",
             "tags": ["Catalyst"],
 
-            "resonance": ["Fontaine", "Cryo"],
-            "element": "Cryo",
-            "weapon": "Catalyst"
+            "resonance": ["Fontaine", "Cryo"]
         },
         {
             "code_key": 364,
@@ -846,9 +678,7 @@
             "image_file": "Character_Card_furina.png",
             "tags": ["Sword"],
 
-            "resonance": ["Fontaine", "Hydro"],
-            "element": "Hydro",
-            "weapon": "Sword"
+            "resonance": ["Fontaine", "Hydro"]
         },
         {
             "code_key": 365,
@@ -856,9 +686,7 @@
             "image_file": "Character_Card_xinyan.png",
             "tags": ["Claymore"],
 
-            "resonance": ["Liyue", "Pyro"],
-            "element": "Pyro",
-            "weapon": "Claymore"
+            "resonance": ["Liyue", "Pyro"]
         },
         {
             "code_key": 366,
@@ -866,9 +694,7 @@
             "image_file": "Character_Card_yunjin.png",
             "tags": ["Polearm"],
 
-            "resonance": ["Liyue", "Geo"],
-            "element": "Geo",
-            "weapon": "Polearm"
+            "resonance": ["Liyue", "Geo"]
         },
         {
             "code_key": 367,
@@ -876,9 +702,7 @@
             "image_file": "Character_Card_kaveh.png",
             "tags": ["Claymore"],
 
-            "resonance": ["Sumeru", "Dendro"],
-            "element": "Dendro",
-            "weapon": "Claymore"
+            "resonance": ["Sumeru", "Dendro"]
         },
         {
             "code_key": 368,
@@ -886,9 +710,7 @@
             "image_file": "Character_Card_whale.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Hydro"],
-            "element": "Hydro",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Hydro"]
         },
         {
             "code_key": 369,
@@ -896,9 +718,7 @@
             "image_file": "Character_Card_scorpion.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Electro"],
-            "element": "Electro",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Electro"]
         },
         {
             "code_key": 370,
@@ -906,9 +726,7 @@
             "image_file": "Character_Card_serpent.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Anemo"],
-            "element": "Anemo",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Anemo"]
         },
         {
             "code_key": 371,
@@ -916,9 +734,7 @@
             "image_file": "Character_Card_apep.png",
             "tags": ["Weaponless"],
 
-            "resonance": ["Monster", "Dendro"],
-            "element": "Dendro",
-            "weapon": "Weaponless"
+            "resonance": ["Monster", "Dendro"]
         },
         {
             "code_key": 395,
